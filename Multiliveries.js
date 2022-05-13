@@ -1,3 +1,5 @@
+//please note that you have to use the TUI 737max inorder to make this work
+
 //Livery-1
 var dropdown = document.createElement("li");
 dropdown.innerHTML = "Boeing 737 Max 8 (Jet Airways)"
