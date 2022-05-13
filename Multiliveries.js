@@ -39,7 +39,7 @@ var dropdown6 = document.createElement("li");
 dropdown6.innerHTML = "Boeing 737 Max 8 (Smartwings)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown6);
     let dropdown6Settings = document.createElement("div");
-dropdown6.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6")');
+dropdown6.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.1")');
 
 //Livery-7
 var dropdown7 = document.createElement("li");
