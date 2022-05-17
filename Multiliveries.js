@@ -112,3 +112,10 @@ dropdown16.innerHTML = "Boeing 737 Max 8 (Garuda Indonesia)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown16);
     let dropdown16Settings = document.createElement("div");
 dropdown16.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("16")');
+
+//Livery-17
+var dropdown17 = document.createElement("li");
+dropdown17.innerHTML = "Boeing 737 Max 8 (WestJet) by Github user 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown17);
+    let dropdown17Settings = document.createElement("div");
+dropdown17.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("17.2")');
