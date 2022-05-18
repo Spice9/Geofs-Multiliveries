@@ -119,3 +119,10 @@ dropdown17.innerHTML = "Boeing 737 Max 8 (WestJet) by Github user 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown17);
     let dropdown17Settings = document.createElement("div");
 dropdown17.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("17.2")');
+
+//Livery-18
+var dropdown18 = document.createElement("li");
+dropdown18.innerHTML = "Boeing 737 Max 8 (Com Air) by IUH Airways"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown18);
+    let dropdown18Settings = document.createElement("div");
+dropdown18.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("18")');
