@@ -132,4 +132,4 @@ var dropdown19 = document.createElement("li");
 dropdown19.innerHTML = "Boeing 737 Max 8 (Air Canada) by Github user 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown19);
     let dropdown19Settings = document.createElement("div");
-dropdown19.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19")');
+dropdown19.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19.1")');
