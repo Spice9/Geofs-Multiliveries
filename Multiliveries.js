@@ -140,3 +140,17 @@ dropdown20.innerHTML = "Boeing 737 Max 8 (American Airlines) by Github user 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown20);
     let dropdown20Settings = document.createElement("div");
 dropdown20.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("20")');
+
+//Livery-26
+var dropdown26 = document.createElement("li");
+dropdown26.innerHTML = "US Navy Boeing P8 Poseidon"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown26);
+    let dropdown26Settings = document.createElement("div");
+dropdown26.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1.1")');
+
+//Livery-27
+var dropdown27 = document.createElement("li");
+dropdown27.innerHTML = "RAAF Boeing P8A Poseidon"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown27);
+    let dropdown27Settings = document.createElement("div");
+dropdown27.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2")');
