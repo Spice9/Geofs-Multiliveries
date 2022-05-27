@@ -237,7 +237,7 @@ var dropdown38 = document.createElement("li");
 dropdown38.innerHTML = "Airbus a320neo (WIZZ)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown38);
     let dropdown38Settings = document.createElement("div");
-dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6")');
+dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.1")');
 
 //Livery-35
 var dropdown39 = document.createElement("li");
@@ -378,3 +378,10 @@ dropdown58.innerHTML = "Airbus a320neo (WOW) by Github User 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown58);
     let dropdown58Settings = document.createElement("div");
 dropdown58.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("31")');
+
+//Livery-55
+var dropdown59 = document.createElement("li");
+dropdown59.innerHTML = "Airbus a320neo Sri Lanakan Airlines"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown59);
+    let dropdown59Settings = document.createElement("div");
+dropdown59.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19")');
