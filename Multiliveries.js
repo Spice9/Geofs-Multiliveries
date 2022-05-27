@@ -342,7 +342,7 @@ var dropdown53 = document.createElement("li");
 dropdown53.innerHTML = "Airbus a320neo (Lufthansa) by IUH Airways"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown53);
     let dropdown53Settings = document.createElement("div");
-dropdown53.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("26")');
+dropdown53.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("26.1")');
 
 //Livery-50
 var dropdown54 = document.createElement("li");
