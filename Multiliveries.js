@@ -1,4 +1,4 @@
-//please note that you have to use the TUI 737max inorder to make this work. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
+//For the 737 max 8 you will have to use the TUI livery and for the a320neo you have to use the Iberia livery. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
 
 //Livery-1
 var dropdown = document.createElement("li");
