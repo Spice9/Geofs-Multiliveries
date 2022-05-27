@@ -161,3 +161,220 @@ dropdown27.innerHTML = "RAAF Boeing P8A Poseidon"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown27);
     let dropdown27Settings = document.createElement("div");
 dropdown27.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2")');
+
+//Livery-24
+var dropdown28 = document.createElement("li");
+dropdown28.innerHTML = "Airbus a320neo (Indigo)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown28);
+    let dropdown28Settings = document.createElement("div");
+dropdown28.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1")');
+
+//Livery-25
+var dropdown29 = document.createElement("li");
+dropdown29.innerHTML = "Airbus a320neo (Vistara)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown29);
+    let dropdown29Settings = document.createElement("div");
+dropdown29.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2")');
+
+//Livery-26
+var dropdown30 = document.createElement("li");
+dropdown30.innerHTML = "Airbus a320neo (Air Asia)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown30);
+    let dropdown30Settings = document.createElement("div");
+dropdown30.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3")');
+
+//Livery-27
+var dropdown31 = document.createElement("li");
+dropdown31.innerHTML = "Airbus a320neo (Gulf Air)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown31);
+    let dropdown31Settings = document.createElement("div");
+dropdown31.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1.2")');
+
+//Livery-28
+var dropdown32 = document.createElement("li");
+dropdown32.innerHTML = "Airbus a320neo (Kuwait Airways)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown32);
+    let dropdown32Settings = document.createElement("div");
+dropdown32.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2.2")');
+
+//Livery-29
+var dropdown33 = document.createElement("li");
+dropdown33.innerHTML = "Airbus a320neo (Egypt Air)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown33);
+    let dropdown33Settings = document.createElement("div");
+dropdown33.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3.2")');
+
+//Livery-30
+var dropdown34 = document.createElement("li");
+dropdown34.innerHTML = "Airbus a320neo (Qatar Airways)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown34);
+    let dropdown34Settings = document.createElement("div");
+dropdown34.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4")');
+
+//Livery-31
+var dropdown35 = document.createElement("li");
+dropdown35.innerHTML = "Airbus a320neo (Spice 9)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown35);
+    let dropdown35Settings = document.createElement("div");
+dropdown35.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3.3")');
+
+//Livery-32
+var dropdown36 = document.createElement("li");
+dropdown36.innerHTML = "Airbus a320neo (Scoot)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown36);
+    let dropdown36Settings = document.createElement("div");
+dropdown36.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4.2")');
+
+//Livery-33
+var dropdown37 = document.createElement("li");
+dropdown37.innerHTML = "Airbus a320neo (Agean)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown37);
+    let dropdown37Settings = document.createElement("div");
+dropdown37.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("5")');
+
+//Livery-34
+var dropdown38 = document.createElement("li");
+dropdown38.innerHTML = "Airbus a320neo (WIZZ)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown38);
+    let dropdown38Settings = document.createElement("div");
+dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6")');
+
+//Livery-35
+var dropdown39 = document.createElement("li");
+dropdown39.innerHTML = "Airbus a320neo (Azul)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown39);
+    let dropdown39Settings = document.createElement("div");
+dropdown39.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("7.1")');
+
+//Livery-36
+var dropdown40 = document.createElement("li");
+dropdown40.innerHTML = "Airbus a320neo (Airbus house)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown40);
+    let dropdown40Settings = document.createElement("div");
+dropdown40.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("9")');
+
+//Livery-37
+var dropdown41 = document.createElement("li");
+dropdown41.innerHTML = "Airbus a320neo (Air Astana)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown41);
+    let dropdown41Settings = document.createElement("div");
+dropdown41.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("10")');
+
+//Livery-38
+var dropdown42 = document.createElement("li");
+dropdown42.innerHTML = "Airbus a320neo (Iberia)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown42);
+    let dropdown42Settings = document.createElement("div");
+dropdown42.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("11")');
+
+//Livery-39
+var dropdown43 = document.createElement("li");
+dropdown43.innerHTML = "Airbus a320neo (Air Seychelles)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown43);
+    let dropdown43Settings = document.createElement("div");
+dropdown43.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("12")');
+
+//Livery-40
+var dropdown44 = document.createElement("li");
+dropdown44.innerHTML = "Airbus a320neo (VIVA)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown44);
+    let dropdown44Settings = document.createElement("div");
+dropdown44.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("13")');
+
+//Livery-41
+var dropdown45 = document.createElement("li");
+dropdown45.innerHTML = "Airbus a320neo (Cebu Pacific)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown45);
+    let dropdown45Settings = document.createElement("div");
+dropdown45.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("14")');
+
+//Livery-42
+var dropdown46 = document.createElement("li");
+dropdown46.innerHTML = "Airbus a320neo (Latam)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown46);
+    let dropdown46Settings = document.createElement("div");
+dropdown46.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("15")');
+
+//Livery-43
+var dropdown47 = document.createElement("li");
+dropdown47.innerHTML = "Airbus a320neo (Plain)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown47);
+    let dropdown47Settings = document.createElement("div");
+dropdown47.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("16")');
+
+//Livery-44
+var dropdown48 = document.createElement("li");
+dropdown48.innerHTML = "Airbus a320neo (SAS)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown48);
+    let dropdown48Settings = document.createElement("div");
+dropdown48.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("17")');
+
+//Livery-45
+var dropdown49 = document.createElement("li");
+dropdown49.innerHTML = "Airbus a320neo (JetStar)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown49);
+    let dropdown49Settings = document.createElement("div");
+dropdown49.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("18")');
+
+//Livery-46
+var dropdown50 = document.createElement("li");
+dropdown50.innerHTML = "Airbus a320neo (Spirit)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown50);
+    let dropdown50Settings = document.createElement("div");
+dropdown50.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("21")');
+
+//Livery-47
+var dropdown51 = document.createElement("li");
+dropdown51.innerHTML = "Airbus a320neo (Air cote d'ivoire)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown51);
+    let dropdown51Settings = document.createElement("div");
+dropdown51.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("24")');
+
+//Livery-48
+var dropdown52 = document.createElement("li");
+dropdown52.innerHTML = "Airbus a320neo (TAP) by Github 	User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown52);
+    let dropdown52Settings = document.createElement("div");
+dropdown52.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("25")');
+
+//Livery-49
+var dropdown53 = document.createElement("li");
+dropdown53.innerHTML = "Airbus a320neo (Lufthansa) by IUH Airways"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown53);
+    let dropdown53Settings = document.createElement("div");
+dropdown53.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("26")');
+
+//Livery-50
+var dropdown54 = document.createElement("li");
+dropdown54.innerHTML = "Airbus a320neo (Easyjet) by IUH Airways"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown54);
+    let dropdown54Settings = document.createElement("div");
+dropdown54.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("27")');
+
+//Livery-51
+var dropdown55 = document.createElement("li");
+dropdown55.innerHTML = "Airbus a320neo (SWISS) by Github User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown55);
+    let dropdown55Settings = document.createElement("div");
+dropdown55.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("28")');
+
+//Livery-52
+var dropdown56 = document.createElement("li");
+dropdown56.innerHTML = "Airbus a320neo (British Airways) by Github User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown56);
+    let dropdown56Settings = document.createElement("div");
+dropdown56.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("29")');
+
+//Livery-53
+var dropdown57 = document.createElement("li");
+dropdown57.innerHTML = "Airbus a320neo (Eurowings) by IUH Airways"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown57);
+    let dropdown57Settings = document.createElement("div");
+dropdown57.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("30")');
+
+//Livery-54
+var dropdown58 = document.createElement("li");
+dropdown58.innerHTML = "Airbus a320neo (WOW) by Github User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown58);
+    let dropdown58Settings = document.createElement("div");
+dropdown58.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("31")');
