@@ -335,7 +335,7 @@ var dropdown52 = document.createElement("li");
 dropdown52.innerHTML = "Airbus a320neo (TAP) by Github 	User 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown52);
     let dropdown52Settings = document.createElement("div");
-dropdown52.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("25")');
+dropdown52.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("25.1")');
 
 //Livery-49
 var dropdown53 = document.createElement("li");
@@ -381,7 +381,14 @@ dropdown58.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("31")');
 
 //Livery-55
 var dropdown59 = document.createElement("li");
-dropdown59.innerHTML = "Airbus a320neo Sri Lanakan Airlines"
+dropdown59.innerHTML = "Airbus a320neo (Sri Lanakan Airlines)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown59);
     let dropdown59Settings = document.createElement("div");
 dropdown59.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19")');
+
+//Livery-56
+var dropdown60 = document.createElement("li");
+dropdown60.innerHTML = "Airbus a320neo(Vueling) by IUH Airways"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown60);
+    let dropdown60Settings = document.createElement("div");
+dropdown60.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("34")');
