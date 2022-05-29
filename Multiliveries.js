@@ -209,7 +209,7 @@ var dropdown34 = document.createElement("li");
 dropdown34.innerHTML = "Airbus a320neo (Qatar Airways)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown34);
     let dropdown34Settings = document.createElement("div");
-dropdown34.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4")');
+dropdown34.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4.1")');
 
 //Livery-31
 var dropdown35 = document.createElement("li");
