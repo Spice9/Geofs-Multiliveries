@@ -407,3 +407,11 @@ dropdown62.innerHTML = "Airbus a320neo(ITA) by Luke"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown62);
     let dropdown62Settings = document.createElement("div");
 dropdown62.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("36.1")');
+
+
+//Livery-59
+var dropdown62= document.createElement("li");
+dropdown62.innerHTML = "Airbus a320neo(Lufthansa Old) by Github User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown62);
+    let dropdown62Settings = document.createElement("div");
+dropdown62.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("37")');
