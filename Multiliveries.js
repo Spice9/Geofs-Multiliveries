@@ -237,7 +237,7 @@ var dropdown38 = document.createElement("li");
 dropdown38.innerHTML = "Airbus a320neo (WIZZ)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown38);
     let dropdown38Settings = document.createElement("div");
-dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.1")');
+dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.2")');
 
 //Livery-35
 var dropdown39 = document.createElement("li");
