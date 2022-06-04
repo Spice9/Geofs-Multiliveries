@@ -1,9 +1,9 @@
 //For the 737 max 8 you will have to use the TUI livery and for the a320neo you have to use the Iberia livery. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
 
-//Livery-1
-var dropdown = document.createElement("li");
 dropdown.innerHTML = "Boeing 737 Max 8 (Jet Airways)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
+//Livery-1
+var dropdown = document.createElement("li");
     let dropdownSettings = document.createElement("div");
 dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1")');
 
@@ -415,3 +415,10 @@ dropdown63.innerHTML = "Airbus a320neo(Lufthansa Old) by Github User 589"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown63);
     let dropdown63Settings = document.createElement("div");
 dropdown63.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("37")');
+
+//Livery-60
+var dropdown64= document.createElement("li");
+dropdown64.innerHTML = "Airbus a320neo(China Eastern) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown64);
+    let dropdown64Settings = document.createElement("div");
+dropdown64.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("39")');
