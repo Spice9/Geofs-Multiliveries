@@ -422,3 +422,10 @@ dropdown64.innerHTML = "Airbus a320neo(China Eastern) by GT"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown64);
     let dropdown64Settings = document.createElement("div");
 dropdown64.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("39")');
+
+//Livery-61
+var dropdown65= document.createElement("li");
+dropdown65.innerHTML = "Airbus a320neo(Frontier) by Github User 589"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown65);
+    let dropdown65Settings = document.createElement("div");
+dropdown65.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("40.1")');
