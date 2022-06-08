@@ -357,7 +357,7 @@ var dropdown54 = document.createElement("li");
 dropdown54.innerHTML = "Airbus a320neo (Easyjet) by IUH Airways"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown54);
     let dropdown54Settings = document.createElement("div");
-dropdown54.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("27.1")');
+dropdown54.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("27.2")');
 
 //Livery-51
 var dropdown55 = document.createElement("li");
