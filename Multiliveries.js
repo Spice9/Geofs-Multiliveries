@@ -156,6 +156,13 @@ dropdown22.innerHTML = "Boeing 737 Max 8 (Ukraine Intl Airlines) by IUH Airways"
     let dropdown22Settings = document.createElement("div");
 dropdown22.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("22")');
 
+//Livery-23
+var dropdown23 = document.createElement("li");
+dropdown23.innerHTML = "Boeing 737 Max 8 (Lion Air) by Luke"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown23);
+    let dropdown23Settings = document.createElement("div");
+dropdown23.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("23")');
+
 //Livery-26
 var dropdown26 = document.createElement("li");
 dropdown26.innerHTML = "US Navy Boeing P8 Poseidon"
