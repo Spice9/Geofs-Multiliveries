@@ -1,424 +1,424 @@
-//For the 737 max 8 you will have to use the TUI livery and for the a320neo you have to use the Iberia livery. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
+console.log("Loading...");
 
-dropdown.innerHTML = "Boeing 737 Max 8 (Jet Airways)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
-//Livery-1
-var dropdown = document.createElement("li");
-    let dropdownSettings = document.createElement("div");
-dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1")');
+//Add new liveries by copying the format of the other liveries.
 
-//Livery-2
-var dropdown2 = document.createElement("li");
-dropdown2.innerHTML = "Boeing 737 Max 8 (FlyDubai)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown2);
-    let dropdown2Settings = document.createElement("div");
-dropdown2.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2")');
+let livObj = { "aircraft": [
+  {
+  "name": "Boeing 737 Max 8 (Jet Airways)",
+  "livery": "1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_1.jpg"
+  },
 
-//Livery-3
-var dropdown3 = document.createElement("li");
-dropdown3.innerHTML = "Boeing 737 Max 8 (Aerolineas Argentinas)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown3);
-    let dropdown3Settings = document.createElement("div");
-dropdown3.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3")');
+  {
+  "name": "Boeing 737 Max 8 (FlyDubai)",
+  "livery": "2",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_2.jpg"
+  },
 
+  {
+  "name": "Boeing 737 Max 8 (Aerolineas Argentinas)",
+  "livery": "3",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_3.jpg"
+  },
+  
+  {
+  "name": "Boeing 737 Max 8 (Alaska Airlines)",
+  "livery": "4",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_4.jpg"
+  },
+  
+  {
+  "name": "Boeing 737 Max 8 (Turkish Airlines)",
+  "livery": "5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_5.jpg"
+  },
 
-//Livery-4
-var dropdown4 = document.createElement("li");
-dropdown4.innerHTML = "Boeing 737 Max 8 (Alaska Airlines)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown4);
-    let dropdown4Settings = document.createElement("div");
-dropdown4.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4")');
+  {
+  "name": "Boeing 737 Max 8 (Smartwings)",
+  "livery": "6.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_6.1.jpg"
+  },
 
-//Livery-5
-var dropdown5 = document.createElement("li");
-dropdown5.innerHTML = "Boeing 737 Max 8 (Turkish Airlines)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown5);
-    let dropdown5Settings = document.createElement("div");
-dropdown5.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("5")');
+  {
+  "name": "Boeing 737 Max 8 (United)",
+  "livery": "7",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_7.jpg"
+  },
 
-//Livery-6
-var dropdown6 = document.createElement("li");
-dropdown6.innerHTML = "Boeing 737 Max 8 (Smartwings)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown6);
-    let dropdown6Settings = document.createElement("div");
-dropdown6.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.1")');
+  {
+  "name": "Boeing 737 Max 8 (Malaysia Airlines)",
+  "livery": "8",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_8.jpg"
+  },
 
-//Livery-7
-var dropdown7 = document.createElement("li");
-dropdown7.innerHTML = "Boeing 737 Max 8 (United)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown7);
-    let dropdown7Settings = document.createElement("div");
-dropdown7.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("7")');
+  {
+  "name": "Boeing 737 Max 8 (Vietjet)",
+  "livery": "9",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_9.jpg"
+  },
 
-//Livery-8
-var dropdown8 = document.createElement("li");
-dropdown8.innerHTML = "Boeing 737 Max 8 (Malaysia Airlines)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown8);
-    let dropdown8Settings = document.createElement("div");
-dropdown8.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("8")');
+  {
+  "name": "Boeing 737 Max 8 (RyanAir)",
+  "livery": "10",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_10.jpg"
+  },
 
-//Livery-9
-var dropdown9 = document.createElement("li");
-dropdown9.innerHTML = "Boeing 737 Max 8 (Vietjet)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown9);
-    let dropdown9Settings = document.createElement("div");
-dropdown9.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("9")');
+  {
+  "name": "Boeing 737 Max 8 (Ethiopian)",
+  "livery": "11",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_11.jpg"
+  },
 
-//Livery-10
-var dropdown10 = document.createElement("li");
-dropdown10.innerHTML = "Boeing 737 Max 8 (RyanAir)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown10);
-    let dropdown10Settings = document.createElement("div");
-dropdown10.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("10")');
+  {
+  "name": "Boeing 737 Max 8 (Iceland Air)",
+  "livery": "12",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_12.jpg"
+  },
 
-//Livery-11
-var dropdown11 = document.createElement("li");
-dropdown11.innerHTML = "Boeing 737 Max 8 (Ethiopian)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown11);
-    let dropdown11Settings = document.createElement("div");
-dropdown11.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("11")');
+  {
+  "name": "Boeing 737 Max 8 (Royal Air Maroc)",
+  "livery": "13",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_13.jpg"
+  },
 
-//Livery-12
-var dropdown12 = document.createElement("li");
-dropdown12.innerHTML = "Boeing 737 Max 8 (Iceland Air)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown12);
-    let dropdown12Settings = document.createElement("div");
-dropdown12.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("12")');
+  {
+  "name": "Boeing 737 Max 8 (Oman Air)",
+  "livery": "14",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_14.jpg"
+  },
 
-//Livery-13
-var dropdown13 = document.createElement("li");
-dropdown13.innerHTML = "Boeing 737 Max 8 (Royal Air Maroc)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown13);
-    let dropdown13Settings = document.createElement("div");
-dropdown13.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("13")');
+  {
+  "name": "Boeing 737 Max 8 (Flair)",
+  "livery": "15",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_15.jpg"
+  },
 
-//Livery-14
-var dropdown14 = document.createElement("li");
-dropdown14.innerHTML = "Boeing 737 Max 8 (Oman Air)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown14);
-    let dropdown14Settings = document.createElement("div");
-dropdown14.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("14")');
+  {
+  "name": "Boeing 737 Max 8 (Garuda Indonesia)",
+  "livery": "16",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_16.jpg"
+  },
 
-//Livery-15
-var dropdown15 = document.createElement("li");
-dropdown15.innerHTML = "Boeing 737 Max 8 (Flair)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown15);
-    let dropdown15Settings = document.createElement("div");
-dropdown15.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("15")');
+  {
+  "name": "Boeing 737 Max 8 (WestJet) by Github user 589",
+  "livery": "17.2",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_17.2.jpg"
+  },
 
-//Livery-16
-var dropdown16 = document.createElement("li");
-dropdown16.innerHTML = "Boeing 737 Max 8 (Garuda Indonesia)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown16);
-    let dropdown16Settings = document.createElement("div");
-dropdown16.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("16")');
+  {
+  "name": "Boeing 737 Max 8 (Com Air) by IUH Airways",
+  "livery": "18",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_18.jpg"
+  },
 
-//Livery-17
-var dropdown17 = document.createElement("li");
-dropdown17.innerHTML = "Boeing 737 Max 8 (WestJet) by Github user 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown17);
-    let dropdown17Settings = document.createElement("div");
-dropdown17.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("17.2")');
+  {
+  "name": "Boeing 737 Max 8 (Air Canada) by Github user 589",
+  "livery": "19.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_19.1.jpg"
+  },
 
-//Livery-18
-var dropdown18 = document.createElement("li");
-dropdown18.innerHTML = "Boeing 737 Max 8 (Com Air) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown18);
-    let dropdown18Settings = document.createElement("div");
-dropdown18.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("18")');
+  {
+  "name": "Boeing 737 Max 8 (American Airlines) by Github user 589",
+  "livery": "20",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_20.jpg"
+  },
 
-//Livery-19
-var dropdown19 = document.createElement("li");
-dropdown19.innerHTML = "Boeing 737 Max 8 (Air Canada) by Github user 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown19);
-    let dropdown19Settings = document.createElement("div");
-dropdown19.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19.1")');
+  {
+  "name": "Boeing 737 Max 8 (Australian Airlines) by Lachy your local Aussie",
+  "livery": "21",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_21.1.jpg"
+  },
 
-//Livery-20
-var dropdown20 = document.createElement("li");
-dropdown20.innerHTML = "Boeing 737 Max 8 (American Airlines) by Github user 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown20);
-    let dropdown20Settings = document.createElement("div");
-dropdown20.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("20")');
+  {
+  "name": "Boeing 737 Max 8 (Ukraine Intl Airlines) by IUH Airways",
+  "livery": "22",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_22.jpg"
+  },
 
-//Livery-21
-var dropdown21 = document.createElement("li");
-dropdown21.innerHTML = "Boeing 737 Max 8 (Australian Airlines) by Lachy your local Aussie"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown21);
-    let dropdown21Settings = document.createElement("div");
-dropdown21.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("21.1")');
+  {
+  "name": "US Navy Boeing P8 Poseidon",
+  "livery": "1.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/texture_1.1.jpg"
+  },
 
-//Livery-26
-var dropdown26 = document.createElement("li");
-dropdown26.innerHTML = "US Navy Boeing P8 Poseidon"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown26);
-    let dropdown26Settings = document.createElement("div");
-dropdown26.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1.1")');
+  {
+  "name": "RAAF Boeing P8A Poseidon",
+  "livery": "2",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing%20p8I%20Neptune_427352_3292/texture_2.jpg"
+  },
 
-//Livery-27
-var dropdown27 = document.createElement("li");
-dropdown27.innerHTML = "RAAF Boeing P8A Poseidon"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown27);
-    let dropdown27Settings = document.createElement("div");
-dropdown27.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2")');
+  {
+  "name": "Airbus a320neo (Indigo)",
+  "livery": "1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image.jpg"
+  },
 
-//Livery-24
-var dropdown28 = document.createElement("li");
-dropdown28.innerHTML = "Airbus a320neo (Indigo)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown28);
-    let dropdown28Settings = document.createElement("div");
-dropdown28.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1")');
+  {
+  "name": "Airbus a320neo (Vistara)",
+  "livery": "2.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__1_.jpg"
+  },
 
-//Livery-25
-var dropdown29 = document.createElement("li");
-dropdown29.innerHTML = "Airbus a320neo (Vistara)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown29);
-    let dropdown29Settings = document.createElement("div");
-dropdown29.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2.1")');
+  {
+  "name": "Airbus a320neo (Air Asia)",
+  "livery": "3",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__2_.jpg"
+  },
 
-//Livery-26
-var dropdown30 = document.createElement("li");
-dropdown30.innerHTML = "Airbus a320neo (Air Asia)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown30);
-    let dropdown30Settings = document.createElement("div");
-dropdown30.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3")');
+  {
+  "name": "Airbus a320neo (Gulf Air)",
+  "livery": "1.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__3_.jpg"
+  },
 
-//Livery-27
-var dropdown31 = document.createElement("li");
-dropdown31.innerHTML = "Airbus a320neo (Gulf Air)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown31);
-    let dropdown31Settings = document.createElement("div");
-dropdown31.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("1.2")');
+  {
+  "name": "Airbus a320neo (Kuwait Airways)",
+  "livery": "2.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__4_.jpg"
+  },
 
-//Livery-28
-var dropdown32 = document.createElement("li");
-dropdown32.innerHTML = "Airbus a320neo (Kuwait Airways)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown32);
-    let dropdown32Settings = document.createElement("div");
-dropdown32.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("2.2")');
+  {
+  "name": "Airbus a320neo (Egypt Air)",
+  "livery": "3.4",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__5_.jpg"
+  },
 
-//Livery-29
-var dropdown33 = document.createElement("li");
-dropdown33.innerHTML = "Airbus a320neo (Egypt Air)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown33);
-    let dropdown33Settings = document.createElement("div");
-dropdown33.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3.4")');
+  {
+  "name": "Airbus a320neo (Qatar Airways)",
+  "livery": "4.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__6_.jpg"
+  },
 
-//Livery-30
-var dropdown34 = document.createElement("li");
-dropdown34.innerHTML = "Airbus a320neo (Qatar Airways)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown34);
-    let dropdown34Settings = document.createElement("div");
-dropdown34.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4.1")');
+  {
+  "name": "Airbus a320neo (Spice 9)",
+  "livery": "3.3",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__7_.jpg"
+  },
 
-//Livery-31
-var dropdown35 = document.createElement("li");
-dropdown35.innerHTML = "Airbus a320neo (Spice 9)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown35);
-    let dropdown35Settings = document.createElement("div");
-dropdown35.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("3.3")');
+  {
+  "name": "Airbus a320neo (Scoot)",
+  "livery": "4.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__8_.jpg"
+  },
 
-//Livery-32
-var dropdown36 = document.createElement("li");
-dropdown36.innerHTML = "Airbus a320neo (Scoot)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown36);
-    let dropdown36Settings = document.createElement("div");
-dropdown36.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("4.2")');
+  {
+  "name": "Airbus a320neo (Agean)",
+  "livery": "5",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__9_.jpg"
+  },
 
-//Livery-33
-var dropdown37 = document.createElement("li");
-dropdown37.innerHTML = "Airbus a320neo (Agean)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown37);
-    let dropdown37Settings = document.createElement("div");
-dropdown37.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("5")');
+  {
+  "name": "Airbus a320neo (WIZZ)",
+  "livery": "6.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__10_.jpg"
+  },
 
-//Livery-34
-var dropdown38 = document.createElement("li");
-dropdown38.innerHTML = "Airbus a320neo (WIZZ)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown38);
-    let dropdown38Settings = document.createElement("div");
-dropdown38.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("6.2")');
+  {
+  "name": "Airbus a320neo (Azul)",
+  "livery": "7.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__11_.jpg"
+  },
 
-//Livery-35
-var dropdown39 = document.createElement("li");
-dropdown39.innerHTML = "Airbus a320neo (Azul)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown39);
-    let dropdown39Settings = document.createElement("div");
-dropdown39.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("7.1")');
+  {
+  "name": "Airbus a320neo (Airbus house)",
+  "livery": "9",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__12_.jpg"
+  },
 
-//Livery-36
-var dropdown40 = document.createElement("li");
-dropdown40.innerHTML = "Airbus a320neo (Airbus house)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown40);
-    let dropdown40Settings = document.createElement("div");
-dropdown40.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("9")');
+  {
+  "name": "Airbus a320neo (Air Astana)",
+  "livery": "10",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__13_.jpg"
+  },
 
-//Livery-37
-var dropdown41 = document.createElement("li");
-dropdown41.innerHTML = "Airbus a320neo (Air Astana)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown41);
-    let dropdown41Settings = document.createElement("div");
-dropdown41.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("10")');
+  {
+  "name": "Airbus a320neo (Iberia)",
+  "livery": "11",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__14_.jpg"
+  },
 
-//Livery-38
-var dropdown42 = document.createElement("li");
-dropdown42.innerHTML = "Airbus a320neo (Iberia)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown42);
-    let dropdown42Settings = document.createElement("div");
-dropdown42.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("11")');
+  {
+  "name": "Airbus a320neo (Air Seychelles)",
+  "livery": "12.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__15_.jpg"
+  },
 
-//Livery-39
-var dropdown43 = document.createElement("li");
-dropdown43.innerHTML = "Airbus a320neo (Air Seychelles)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown43);
-    let dropdown43Settings = document.createElement("div");
-dropdown43.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("12.1")');
+  {
+  "name": "Airbus a320neo (VIVA)",
+  "livery": "13.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__16_.jpg"
+  },
 
-//Livery-40
-var dropdown44 = document.createElement("li");
-dropdown44.innerHTML = "Airbus a320neo (VIVA)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown44);
-    let dropdown44Settings = document.createElement("div");
-dropdown44.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("13.1")');
+  {
+  "name": "Airbus a320neo (Cebu Pacific)",
+  "livery": "14",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__17_.jpg"
+  },
 
-//Livery-41
-var dropdown45 = document.createElement("li");
-dropdown45.innerHTML = "Airbus a320neo (Cebu Pacific)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown45);
-    let dropdown45Settings = document.createElement("div");
-dropdown45.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("14")');
+  {
+  "name": "Airbus a320neo (Latam)",
+  "livery": "15",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/a.jpg"
+  },
 
-//Livery-42
-var dropdown46 = document.createElement("li");
-dropdown46.innerHTML = "Airbus a320neo (Latam)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown46);
-    let dropdown46Settings = document.createElement("div");
-dropdown46.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("15")');
+  {
+  "name": "Airbus a320neo (Plain)",
+  "livery": "16",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/b.jpg"
+  },
 
-//Livery-43
-var dropdown47 = document.createElement("li");
-dropdown47.innerHTML = "Airbus a320neo (Plain)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown47);
-    let dropdown47Settings = document.createElement("div");
-dropdown47.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("16")');
+  {
+  "name": "Airbus a320neo (SAS)",
+  "livery": "17",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/c.jpg"
+  },
 
-//Livery-44
-var dropdown48 = document.createElement("li");
-dropdown48.innerHTML = "Airbus a320neo (SAS)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown48);
-    let dropdown48Settings = document.createElement("div");
-dropdown48.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("17")');
+  {
+  "name": "Airbus a320neo (JetStar)",
+  "livery": "18",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__18_.jpg"
+  },
 
-//Livery-45
-var dropdown49 = document.createElement("li");
-dropdown49.innerHTML = "Airbus a320neo (JetStar)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown49);
-    let dropdown49Settings = document.createElement("div");
-dropdown49.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("18")');
+  {
+  "name": "Airbus a320neo (Spirit)",
+  "livery": "21.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__19_.jpg"
+  },
 
-//Livery-46
-var dropdown50 = document.createElement("li");
-dropdown50.innerHTML = "Airbus a320neo (Spirit)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown50);
-    let dropdown50Settings = document.createElement("div");
-dropdown50.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("21.1")');
+  {
+  "name": "Airbus a320neo (Air cote d'ivoire)",
+  "livery": "24",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__20_.jpg"
+  },
 
-//Livery-47
-var dropdown51 = document.createElement("li");
-dropdown51.innerHTML = "Airbus a320neo (Air cote d'ivoire)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown51);
-    let dropdown51Settings = document.createElement("div");
-dropdown51.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("24")');
+  {
+  "name": "Airbus a320neo (TAP) by Github 	User 589",
+  "livery": "25.1",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/image__21_.jpg"
+  },
 
-//Livery-48
-var dropdown52 = document.createElement("li");
-dropdown52.innerHTML = "Airbus a320neo (TAP) by Github 	User 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown52);
-    let dropdown52Settings = document.createElement("div");
-dropdown52.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("25.1")');
+  {
+  "name": "Airbus a320neo (Lufthansa) by IUH Airways",
+  "livery": "26.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/d.jpg"
+  },
 
-//Livery-49
-var dropdown53 = document.createElement("li");
-dropdown53.innerHTML = "Airbus a320neo (Lufthansa) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown53);
-    let dropdown53Settings = document.createElement("div");
-dropdown53.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("26.2")');
+  {
+  "name": "Airbus a320neo (Easyjet) by IUH Airways",
+  "livery": "27.2",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/e.jpg"
+  },
 
-//Livery-50
-var dropdown54 = document.createElement("li");
-dropdown54.innerHTML = "Airbus a320neo (Easyjet) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown54);
-    let dropdown54Settings = document.createElement("div");
-dropdown54.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("27.1")');
+  {
+  "name": "Airbus a320neo (SWISS) by Github User 589",
+  "livery": "28",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/f.jpg"
+  },
 
-//Livery-51
-var dropdown55 = document.createElement("li");
-dropdown55.innerHTML = "Airbus a320neo (SWISS) by Github User 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown55);
-    let dropdown55Settings = document.createElement("div");
-dropdown55.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("28")');
+  {
+  "name": "Airbus a320neo (British Airways) by Github User 589",
+  "livery": "29",
+  "mptx": "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/g.jpg"
+  },
 
-//Livery-52
-var dropdown56 = document.createElement("li");
-dropdown56.innerHTML = "Airbus a320neo (British Airways) by Github User 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown56);
-    let dropdown56Settings = document.createElement("div");
-dropdown56.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("29")');
+  {
+  "name": "Airbus a320neo (Eurowings) by IUH Airways",
+  "livery": "30",
+  "mptx": "null"
+  },
 
-//Livery-53
-var dropdown57 = document.createElement("li");
-dropdown57.innerHTML = "Airbus a320neo (Eurowings) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown57);
-    let dropdown57Settings = document.createElement("div");
-dropdown57.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("30")');
+  {
+  "name": "Airbus a320neo (WOW) by Github User 589",
+  "livery": "31",
+  "mptx": "null"
+  },
 
-//Livery-54
-var dropdown58 = document.createElement("li");
-dropdown58.innerHTML = "Airbus a320neo (WOW) by Github User 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown58);
-    let dropdown58Settings = document.createElement("div");
-dropdown58.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("31")');
+  {
+  "name": "Airbus a320neo (Sri Lanakan Airlines)",
+  "livery": "19",
+  "mptx": "null"
+  },
 
-//Livery-55
-var dropdown59 = document.createElement("li");
-dropdown59.innerHTML = "Airbus a320neo (Sri Lanakan Airlines)"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown59);
-    let dropdown59Settings = document.createElement("div");
-dropdown59.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("19")');
+  {
+  "name": "Airbus a320neo(Vueling) by IUH Airways",
+  "livery": "34",
+  "mptx": "null"
+  },
 
-//Livery-56
-var dropdown60 = document.createElement("li");
-dropdown60.innerHTML = "Airbus a320neo(Vueling) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown60);
-    let dropdown60Settings = document.createElement("div");
-dropdown60.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("34")');
+  {
+  "name": "Airbus a320neo(North European Airlines) by IUH Airways",
+  "livery": "35",
+  "mptx": "null"
+  },
 
-//Livery-57
-var dropdown61 = document.createElement("li");
-dropdown61.innerHTML = "Airbus a320neo(North European Airlines) by IUH Airways"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown61);
-    let dropdown61Settings = document.createElement("div");
-dropdown61.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("35")');
+  {
+  "name": "Airbus a320neo(ITA) by Luke",
+  "livery": "36.1",
+  "mptx": "null"
+  },
 
+  {
+  "name": "Airbus a320neo(Lufthansa Old) by Github User 589",
+  "livery": "37",
+  "mptx": "null"
+  },
 
-//Livery-58
-var dropdown62= document.createElement("li");
-dropdown62.innerHTML = "Airbus a320neo(ITA) by Luke"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown62);
-    let dropdown62Settings = document.createElement("div");
-dropdown62.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("36.1")');
+  {
+  "name": "Airbus a320neo(China Eastern) by GT",
+  "livery": "39",
+  "mptx": "null"
+  },
+
+  {
+  "name": "Airbus a320neo(Frontier) by Github User 589",
+  "livery": "40.1",
+  "mptx": "null"
+  }
+  ]}
+
+livObj.aircraft.forEach(function(e){
+  var dropdown = document.createElement('li');
+  dropdown.innerHTML = e.name;
+  document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
+  dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery(' + e.livery + ')');
+
+})
+
+  function updateMultiplayer(){
+  Object.values(multiplayer.visibleUsers).forEach(function(e){
+    a = e;
+    livObj.aircraft.forEach(function(e){
+      if (a.currentLivery == parseInt(e.livery)) {   geofs.api.Model.prototype.changeTexture(e.mptx, 0, multiplayer.visibleUsers[a.id].model);
+      }
+    })
+  })
+}
+
+ mpRefresh = setInterval(function(){
+   
+updateMultiplayer();
+}, 5000)
+
+console.log("Loaded!");
 
 
-//Livery-59
-var dropdown63= document.createElement("li");
-dropdown63.innerHTML = "Airbus a320neo(Lufthansa Old) by Github User 589"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown63);
-    let dropdown63Settings = document.createElement("div");
-dropdown63.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("37")');
-
-//Livery-60
-var dropdown64= document.createElement("li");
-dropdown64.innerHTML = "Airbus a320neo(China Eastern) by GT"
-    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown64);
-    let dropdown64Settings = document.createElement("div");
-dropdown64.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("39")');
+//Add contributors here:
+let contributors = ["Spice9","Github User 589","IUH Ariways","GT","Luke"];
+let message = ""
+setTimeout(function(){
+  console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:");
+contributors.forEach(function(e){
+  if (message === "") {
+    message = message + e
+  }
+  else {
+    if (contributors[contributors.length - 1] === e) {
+      message = message + ", and " + e;
+    }
+    else {
+      message = message + ", " + e
+    }
+  }
+})
+console.log(message)
+}, 1000)
