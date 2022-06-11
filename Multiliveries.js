@@ -362,7 +362,7 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Boeing 787-10 (Virgin Atlantic) by IUH Airways",
-  "livery": "46",
+  "livery": "65",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_65.jpg"
   }
   ]}
