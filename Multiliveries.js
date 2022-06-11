@@ -320,10 +320,10 @@ let livObj = { "aircraft": [
   "livery": "40.3",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
-{
+  {
   "name": "Airbus a320neo (Frontier) by Github User 589",
-  "livery": "40.3",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
+  "livery": "66",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
@@ -364,8 +364,15 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Virgin Atlantic) by IUH Airways",
   "livery": "65",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_65.jpg"
+  },
+    {
+  "name": "Boeing 787-10 (Air India) by Luke",
+  "livery": "67",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_67.jpg"
   }
-  ]}
+
+  ]},
+    
 
 livObj.aircraft.forEach(function(e){
   var dropdown = document.createElement('li');
