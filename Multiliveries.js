@@ -354,6 +354,16 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Plain) ",
   "livery": "46",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_46.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Vistara) by Luke ",
+  "livery": "64.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_64.1.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Virgin Atlantic) by IUH Airways",
+  "livery": "46",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_65.jpg"
   }
   ]}
 
