@@ -1,6 +1,6 @@
 console.log("Loading...");
 
-//For the 737max 8 use the TUI livery, for the a320neo Iberia livery and for 787-10 Etihad Airways livery. copy this code and paste it on console(ctrl+shift+i) and scroll down
+///For the 737max 8 use the TUI livery, for the a320neo Iberia livery and for 787-10 Etihad Airways livery. copy this code and paste it on console(ctrl+shift+i) and scroll down
 
 let livObj = { "aircraft": [
   {
@@ -320,8 +320,8 @@ let livObj = { "aircraft": [
   "livery": "40.3",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
-  {
-  "name": "Airbus a320neo (Frontier) by Github User 589",
+{
+  "name": "Airbus a320neo (Aeroflot) ",
   "livery": "66",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
   },
@@ -355,7 +355,7 @@ let livObj = { "aircraft": [
   "livery": "46",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_46.jpg"
   },
-  {
+ {
   "name": "Boeing 787-10 (Vistara) by Luke ",
   "livery": "64.1",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_64.1.jpg"
@@ -371,8 +371,7 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_67.jpg"
   }
 
-  ]},
-    
+  ]}
 
 livObj.aircraft.forEach(function(e){
   var dropdown = document.createElement('li');
