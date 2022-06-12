@@ -325,6 +325,21 @@ let livObj = { "aircraft": [
   "livery": "66",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
   },
+  {
+  "name": "Airbus a320neo (Qantas link) ",
+  "livery": "71",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_71.jpg"
+  },
+  {
+  "name": "Airbus a320neo (Transavia) ",
+  "livery": "68",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_68.jpg"
+  },
+  {
+  "name": "Airbus a320neo (Aeroflot) ",
+  "livery": "66",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
+  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -369,6 +384,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Air India) by Luke",
   "livery": "67",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_67.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Scoot) by Luke",
+  "livery": "70",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_70.jpg"
   }
 
   ]}
