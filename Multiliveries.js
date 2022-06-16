@@ -401,7 +401,7 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_74.jpg"
   },
    {
-  "name": "Boeing 787-10 (Air France) by Luke",
+  "name": "Boeing 787-10 (Lufthansa) by Luke",
   "livery": "78",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
   }
