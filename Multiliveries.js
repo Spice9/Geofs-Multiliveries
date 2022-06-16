@@ -331,14 +331,19 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_71.jpg"
   },
   {
-  "name": "Airbus a320neo (Transavia) ",
+  "name": "Airbus a320neo (Transavia) by IUH Airways",
   "livery": "68",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_68.jpg"
   },
   {
-  "name": "Airbus a320neo (Aer Lingus) ",
+  "name": "Airbus a320neo (Aer Lingus) by IUH Airways",
   "livery": "73",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_73.jpg"
+  },
+   {
+  "name": "Airbus a320neo (PAL) by Luke",
+  "livery": "77",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_77.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
@@ -394,6 +399,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Air France) by Luke",
   "livery": "74",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_74.jpg"
+  },
+   {
+  "name": "Boeing 787-10 (Air France) by Luke",
+  "livery": "78",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
   }
 
   ]}
