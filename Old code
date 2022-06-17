@@ -1,4 +1,4 @@
-//For the 737 max 8 you will have to use the TUI livery and for the a320neo you have to use the Iberia livery. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
+//For the 737 max 8 you will have to use the TUI livery and for the a320neo you have to use the Iberia livery and for the Etihad livery for the 787-10. Put this code on console(ctrl+shift+i) and scroll down till the end of aircraft list
 
 //Livery-1
 var dropdown = document.createElement("li");
@@ -556,3 +556,220 @@ dropdown81.innerHTML = "Boeing 787-10(Lufthansa)"
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown81);
     let dropdown81Settings = document.createElement("div");
 dropdown81.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("78")');
+
+//Livery-78
+var dropdown82= document.createElement("li");
+dropdown82.innerHTML = " Airbus a319 (Finnair) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown82);
+    let dropdown82Settings = document.createElement("div");
+dropdown82.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("85")');
+
+//Livery-79
+var dropdown83= document.createElement("li");
+dropdown83.innerHTML = " Airbus a319 (LATAM) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown83);
+    let dropdown83Settings = document.createElement("div");
+dropdown83.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("86")');
+
+//Livery-80
+var dropdown84= document.createElement("li");
+dropdown84.innerHTML = " Airbus a319 (Turkish) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown84);
+    let dropdown84Settings = document.createElement("div");
+dropdown84.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("87")');
+
+//Livery-81
+var dropdown85= document.createElement("li");
+dropdown85.innerHTML = " Airbus a319 (Volaris) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown85);
+    let dropdown85Settings = document.createElement("div");
+dropdown85.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("88")');
+
+//Livery-82
+var dropdown86= document.createElement("li");
+dropdown86.innerHTML = " Airbus a319 (Air France) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown86);
+    let dropdown86Settings = document.createElement("div");
+dropdown86.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("89")');
+
+//Livery-83
+var dropdown87= document.createElement("li");
+dropdown87.innerHTML = " Airbus a319 (British Airways) by GT "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown87);
+    let dropdown87Settings = document.createElement("div");
+dropdown87.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("90")');
+
+//Livery-84
+var dropdown88= document.createElement("li");
+dropdown88.innerHTML = " Airbus a319 (Easyjet) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown88);
+    let dropdown88Settings = document.createElement("div");
+dropdown88.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("91")');
+
+//Livery-85
+var dropdown89= document.createElement("li");
+dropdown89.innerHTML = " Airbus a319 (Delta) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown89);
+    let dropdown89Settings = document.createElement("div");
+dropdown89.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("92")');
+
+//Livery-86
+var dropdown90= document.createElement("li");
+dropdown90.innerHTML = " Airbus a319 (Avianca) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown90);
+    let dropdown90Settings = document.createElement("div");
+dropdown90.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("93")');
+
+//Livery-87
+var dropdown91= document.createElement("li");
+dropdown91.innerHTML = " Airbus a319 (Lufthansa) by GT "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown91);
+    let dropdown91Settings = document.createElement("div");
+dropdown91.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("93.5")');
+
+//Livery-88
+var dropdown92= document.createElement("li");
+dropdown92.innerHTML = " Airbus a319 [GT], (Air India) by Spice 9"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown92);
+    let dropdown92Settings = document.createElement("div");
+dropdown92.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("94")');
+
+//Livery-89
+var dropdown93= document.createElement("li");
+dropdown93.innerHTML = " Airbus a319 (Scandinavian) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown93);
+    let dropdown93Settings = document.createElement("div");
+dropdown93.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("95")');
+
+//Livery-90
+var dropdown94= document.createElement("li");
+dropdown94.innerHTML = " Airbus a319 (SWISS)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown94);
+    let dropdown94Settings = document.createElement("div");
+dropdown94.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("96")');
+
+//Livery-91
+var dropdown95= document.createElement("li");
+dropdown95.innerHTML = " Airbus a319 (TAP)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown95);
+    let dropdown95Settings = document.createElement("div");
+dropdown95.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("97")');
+
+//Livery-95
+var dropdown99= document.createElement("li");
+dropdown99.innerHTML = "Boeing 787-9( Thai Airways)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown99);
+    let dropdown99Settings = document.createElement("div");
+dropdown99.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("47")');
+
+//Livery-96
+var dropdown100= document.createElement("li");
+dropdown100.innerHTML = "Boeing 787-9( Air Tahiti Nui)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown100);
+    let dropdown100Settings = document.createElement("div");
+dropdown100.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("48")');
+
+//Livery-97
+var dropdown101= document.createElement("li");
+dropdown101.innerHTML = "Boeing 787-9(Virgin Atlantic)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown101);
+    let dropdown101Settings = document.createElement("div");
+dropdown101.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("49")');
+
+//Livery-98
+var dropdown102= document.createElement("li");
+dropdown102.innerHTML = "Boeing 787-9( EL AL)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown102);
+    let dropdown102Settings = document.createElement("div");
+dropdown102.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("50")');
+
+//Livery-99
+var dropdown103= document.createElement("li");
+dropdown103.innerHTML = "Boeing 787-9(Qantas)"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown103);
+    let dropdown103Settings = document.createElement("div");
+dropdown103.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("51")');
+
+//Livery-100
+var dropdown104= document.createElement("li");
+dropdown104.innerHTML = "Boeing 787-9(KLM) by GT"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown104);
+    let dropdown104Settings = document.createElement("div");
+dropdown104.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("52")');
+
+//Livery-101
+var dropdown105= document.createElement("li");
+dropdown105.innerHTML = "Boeing 787-9(Vistara) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown105);
+    let dropdown105Settings = document.createElement("div");
+dropdown105.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("53")');
+
+//Livery-102
+var dropdown106= document.createElement("li");
+dropdown106.innerHTML = "Boeing 787-9(F1 Etihad) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown106);
+    let dropdown106Settings = document.createElement("div");
+dropdown106.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("54")');
+
+//Livery-103
+var dropdown107= document.createElement("li");
+dropdown107.innerHTML = "Boeing 787-9(LATAM) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown107);
+    let dropdown107Settings = document.createElement("div");
+dropdown107.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("55")');
+
+//Livery-104
+var dropdown108= document.createElement("li");
+dropdown108.innerHTML = "Boeing 787-9(LOT) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown108);
+    let dropdown108Settings = document.createElement("div");
+dropdown108.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("56")');
+
+//Livery-105
+var dropdown109= document.createElement("li");
+dropdown109.innerHTML = "Boeing 787-9(Korean Air) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown109);
+    let dropdown109Settings = document.createElement("div");
+dropdown109.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("57")');
+
+//Livery-106
+var dropdown110= document.createElement("li");
+dropdown110.innerHTML = "Boeing 787-9(Turkish) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown110);
+    let dropdown110Settings = document.createElement("div");
+dropdown110.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("58")');
+
+//Livery-107
+var dropdown111= document.createElement("li");
+dropdown111.innerHTML = "Boeing 787-9(Norwegian) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown111);
+    let dropdown111Settings = document.createElement("div");
+dropdown111.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("59")');
+
+//Livery-108
+var dropdown112= document.createElement("li");
+dropdown112.innerHTML = "Boeing 787-9(Air France) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown112);
+    let dropdown112Settings = document.createElement("div");
+dropdown104.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("60")');
+
+//Livery-109
+var dropdown113= document.createElement("li");
+dropdown113.innerHTML = "Boeing 787-9(Aer Europa) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown113);
+    let dropdown113Settings = document.createElement("div");
+dropdown113.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("61")');
+
+//Livery-110
+var dropdown114= document.createElement("li");
+dropdown114.innerHTML = "Boeing 787-9(Air Canada) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown114);
+    let dropdown114Settings = document.createElement("div");
+dropdown114.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("62")');
+
+//Livery-111
+var dropdown115= document.createElement("li");
+dropdown115.innerHTML = "Boeing 787-9(American) "
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown115);
+    let dropdown115Settings = document.createElement("div");
+dropdown115.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("63")');
