@@ -1,6 +1,7 @@
 console.log("Loading...");
 
-//Add new liveries by copying the format of the other liveries.
+//for 737max8 TUI, a320neo Iberia, 787-10 etihad. These are the liveries that needs to be used respectively to make this addon work
+
 
 let livObj = { "aircraft": [
   {
