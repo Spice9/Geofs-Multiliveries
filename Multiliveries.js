@@ -1,6 +1,6 @@
 console.log("Loading...");
 
-///For the 737max 8 use the TUI livery, for the a320neo Iberia livery and for 787-10 Etihad Airways livery. copy this code and paste it on console(ctrl+shift+i) and scroll down
+//Add new liveries by copying the format of the other liveries.
 
 let livObj = { "aircraft": [
   {
@@ -321,29 +321,9 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
 {
-  "name": "Airbus a320neo (Aeroflot) ",
-  "livery": "66",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
-  },
-  {
-  "name": "Airbus a320neo (Qantas link) ",
-  "livery": "71",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_71.jpg"
-  },
-  {
-  "name": "Airbus a320neo (Transavia) by IUH Airways",
-  "livery": "68",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_68.jpg"
-  },
-  {
-  "name": "Airbus a320neo (Aer Lingus) by IUH Airways",
-  "livery": "73",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_73.jpg"
-  },
-   {
-  "name": "Airbus a320neo (PAL) by Luke",
-  "livery": "77",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_77.jpg"
+  "name": "Airbus a320neo (Frontier) by Github User 589",
+  "livery": "40.3",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
@@ -375,37 +355,91 @@ let livObj = { "aircraft": [
   "livery": "46",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_46.jpg"
   },
- {
-  "name": "Boeing 787-10 (Vistara) by Luke ",
-  "livery": "64.1",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_64.1.jpg"
+{
+  "name": "Boeing 787-9 (Thai Airways) ",
+  "livery": "47",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_45.jpg"
   },
-  {
-  "name": "Boeing 787-10 (Virgin Atlantic) by IUH Airways",
-  "livery": "65",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_65.jpg"
+{
+  "name": "Boeing 787-9 (Air Tahiti Nui) ",
+  "livery": "48",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_45.jpg"
   },
-    {
-  "name": "Boeing 787-10 (Air India) by Luke",
-  "livery": "67",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_67.jpg"
+{
+  "name": "Boeing 787-9 (Virgin Atlantic) ",
+  "livery": "49",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_49.jpg"
   },
-  {
-  "name": "Boeing 787-10 (Scoot) by Luke",
-  "livery": "70",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_70.jpg"
+{
+  "name": "Boeing 787-9 (EL AL) ",
+  "livery": "50",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_50.jpg"
   },
-  {
-  "name": "Boeing 787-10 (Air France) by Luke",
-  "livery": "74",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_74.jpg"
+{
+  "name": "Boeing 787-9 (Qantas) ",
+  "livery": "51",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_51.jpg"
   },
-   {
-  "name": "Boeing 787-10 (Lufthansa) by Luke",
-  "livery": "78",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
+{
+  "name": "Boeing 787-9 (KLM) by GT ",
+  "livery": "52",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_52.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Vistara) ",
+  "livery": "53.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_53.1.jpg"
+  },
+{
+  "name": "Boeing 787-9 (F1 Etihad) ",
+  "livery": "54",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_54.jpg"
+  },
+{
+  "name": "Boeing 787-9 (LATAM) ",
+  "livery": "55",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_55.jpg"
+  },
+{
+  "name": "Boeing 787-9 (LOT) ",
+  "livery": "56",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_56.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Korean Air) ",
+  "livery": "57",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_57.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Turkish) ",
+  "livery": "58",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_58.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Norwegian) ",
+  "livery": "59",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575//texture_59.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Air France) ",
+  "livery": "60",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_60.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Aer Europa) ",
+  "livery": "61",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_51.jpg"
+  },
+{
+  "name": "Boeing 787-9 (Air Canada) ",
+  "livery": "62",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_62.jpg"
+  },
+{
+  "name": "Boeing 787-9 (American Airlines) ",
+  "livery": "63",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_51.jpg"
   }
-
   ]}
 
 livObj.aircraft.forEach(function(e){
