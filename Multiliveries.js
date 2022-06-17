@@ -325,6 +325,82 @@ let livObj = { "aircraft": [
   "livery": "40.3",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
+  {
+  "name": "Airbus a319 (Finnair)",
+  "livery": "85",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_85.jpg"
+  },
+  {
+  "name": "Airbus a319 (Latam)",
+  "livery": "86",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_86.jpg"
+  },
+  {
+  "name": "Airbus a319 (Turkish)",
+  "livery": "87",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_87.jpg"
+  },
+  {
+  "name": "Airbus a319 (Volaris)",
+  "livery": "88",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_88.jpg"
+  },
+  {
+  "name": "Airbus a319 (Air France)",
+  "livery": "89",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_89.jpg"
+  },
+  {
+  "name": "Airbus a319 (British Airways)",
+  "livery": "90",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_90.jpg"
+  },
+  {
+  "name": "Airbus a319 (Easyjet)",
+  "livery": "91",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_91.jpg"
+  },
+  {
+  "name": "Airbus a319 (Delta)",
+  "livery": "92",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_92.jpg"
+  },
+  {
+  "name": "Airbus a319 (Avianca)",
+  "livery": "93",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_93.jpg"
+  },
+  {
+  "name": "Airbus a319 (Air India)[livery by Spice9]",
+  "livery": "92 ",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_92.jpg"
+  },
+  {
+  "name": "Airbus a319 (Lufthansa)",
+  "livery": "93.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_93.5.jpg"
+  },
+  {
+  "name": "Airbus a319 (Scandinavian)",
+  "livery": "95",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_95.jpg"
+  },
+ {
+  "name": "Airbus a319 (Swiss)",
+  "livery": "96",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_96.jpg"
+  },
+ {
+  "name": "Airbus a319 (TAP)",
+  "livery": "97",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_97.jpg"
+  },
+ {
+  "name": "Airbus a319 (Brussels)",
+  "livery": "96.2",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_96.2.jpg"
+  },
+
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
