@@ -363,8 +363,8 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Airbus a319 (Delta)",
-  "livery": "92",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_92.jpg"
+  "livery": "93",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_93.jpg"
   },
   {
   "name": "Airbus a319 (Avianca)",
