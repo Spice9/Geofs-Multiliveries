@@ -432,6 +432,36 @@ let livObj = { "aircraft": [
   "livery": "46",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_46.jpg"
   },
+  {
+  "name": "Boeing 787-10 (Vistara) by Luke ",
+  "livery": "64.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_64.1.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Virgin Atlantic) by IUH Airways",
+  "livery": "65",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_65.jpg"
+  },
+    {
+  "name": "Boeing 787-10 (Air India) by Luke",
+  "livery": "67",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_67.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Scoot) by Luke",
+  "livery": "70",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_70.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Air France) by Luke",
+  "livery": "74",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_74.jpg"
+  },
+   {
+  "name": "Boeing 787-10 (Lufthansa) by Luke",
+  "livery": "78",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
+  },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
   "livery": "47",
