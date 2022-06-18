@@ -233,8 +233,8 @@ let livObj = { "aircraft": [
   },
 {
   "name": "Airbus a320neo (SAS)",
-  "livery": "17.3",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_17.3.jpg"
+  "livery": "17",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_17.jpg"
   },
 {
   "name": "Airbus a320neo (JetStar)",
