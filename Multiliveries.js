@@ -121,6 +121,11 @@ let livObj = { "aircraft": [
   "livery": "23",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_23.jpg"
   },
+  {
+  "name": "Boeing 737 Max 8 (Caribbean) by IUH Airways",
+  "livery": "23",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_23.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -400,6 +405,16 @@ let livObj = { "aircraft": [
   "name": "Airbus a319 (Brussels)",
   "livery": "96.2",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_96.2.jpg"
+  },
+ {
+  "name": "Airbus a319 (Airbus house) by Luke",
+  "livery": "98",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.jpg"
+  },
+ {
+  "name": "Airbus a319 (American Airlines)",
+  "livery": "98.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.5.jpg"
   },
 
 {
