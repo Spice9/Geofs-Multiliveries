@@ -569,8 +569,8 @@ let livObj = { "aircraft": [
   },
    {
   "name": "Boeing 787-9 (Gulf Air) ",
-  "livery": "105",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_105.jpg"
+  "livery": "105.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_105.5.jpg"
   }
   ]}
 
