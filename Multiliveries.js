@@ -1,6 +1,6 @@
 console.log("Loading...");
 
-//for 737max8 TUI, a320neo Iberia, 787-10 etihad. These are the liveries that needs to be used respectively to make this addon work
+//for 737max8 TUI, a320neo Iberia,a319 Finnair 787-10 etihad. These are the liveries that needs to be used respectively to make this addon work
 
 
 let livObj = { "aircraft": [
@@ -33,8 +33,8 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Boeing 737 Max 8 (Smartwings)",
-  "livery": "6",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_6.jpg"
+  "livery": "6.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_6.1.jpg"
   },
   {
   "name": "Boeing 737 Max 8 (United)",
@@ -539,8 +539,8 @@ let livObj = { "aircraft": [
   },
 {
   "name": "Boeing 787-9 (Norwegian) ",
-  "livery": "59",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575//texture_59.jpg"
+  "livery": "59.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575//texture_59.1.jpg"
   },
 {
   "name": "Boeing 787-9 (Air France) ",
