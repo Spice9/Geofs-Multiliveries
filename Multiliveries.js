@@ -11,8 +11,8 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Boeing 737 Max 8 (Akasa Air)",
-  "livery": "26",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_26.jpg"
+  "livery": "26.1",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_26.1.jpg"
   },
 
   {
