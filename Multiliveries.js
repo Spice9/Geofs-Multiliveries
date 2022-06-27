@@ -327,9 +327,24 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
   },
 {
-  "name": "Airbus a320neo (Frontier) by Github User 589",
-  "livery": "40.3",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_40.3.jpg"
+  "name": "Airbus a320neo (Aeroflot)",
+  "livery": "66",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
+  },
+  {
+  "name": "Airbus a320neo (United) by IUH Airways",
+  "livery": "110",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_110.jpg"
+  },
+    {
+  "name": "Airbus a320neo (Geofs Air) by IUH Airways",
+  "livery": "111",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_111.jpg"
+  },
+  {
+  "name": "Airbus a320neo (IUH Airways) by IUH Airways",
+  "livery": "112",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_112.jpg"
   },
   {
   "name": "Airbus a319 (Finnair)",
