@@ -352,6 +352,12 @@ let livObj = { "aircraft": [
   "livery": "112",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_112.jpg"
   },
+    {
+  "name": "Airbus a320neo (G-FS Alexander) by G-FS Alexander",
+  "livery": "113",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_113.jpg"
+  },
+  
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
