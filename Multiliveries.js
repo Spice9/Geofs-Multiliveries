@@ -605,7 +605,8 @@ livObj.aircraft.forEach(function(e){
   var dropdown = document.createElement('li');
   dropdown.innerHTML = e.name;
   document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
-  dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery(' + e.livery + ')');
+  dropdown.setAttribute("onclick", 'geofs.api.Model.prototype.changeTexture(' + e.livery + ', 0, geofs.aircraft.instance.definition.parts[0]["3dmodel"]);
+  }');
 
 })
 
