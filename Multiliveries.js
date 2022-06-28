@@ -601,13 +601,18 @@ let livObj = { "aircraft": [
   }
   ]}
 
+
+//should work with URLs and livery IDs now
 livObj.aircraft.forEach(function(e){
   var dropdown = document.createElement('li');
   dropdown.innerHTML = e.name;
   document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown);
-  dropdown.setAttribute("onclick", 'geofs.api.Model.prototype.changeTexture(' + e.livery + ', 0, geofs.aircraft.instance.definition.parts[0]["3dmodel"]);
-  }');
-
+  if (e.livery.includes("https://")) {
+  dropdown.setAttribute("onclick", 'geofs.api.Model.prototype.changeTexture(' + e.livery + ', 0, geofs.aircraft.instance.definition.parts[0]["3dmodel"])');
+  }
+  else {
+      dropdown.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery(' + e.livery + ')');
+  }
 })
 
   function updateMultiplayer(){
@@ -624,6 +629,14 @@ livObj.aircraft.forEach(function(e){
    
 updateMultiplayer();
 }, 5000)
+
+//add helper tags to compatible aircraft
+document.querySelectorAll('[data-aircraft]').forEach(function(e){
+   var elemName = e.outerText;
+    if (elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
+        e.outerText = e.outerText + " [Multiliveries Frame]";
+    }
+});
 
 console.log("Loaded!");
 
@@ -646,5 +659,7 @@ contributors.forEach(function(e){
     }
   }
 })
+
+
 console.log(message)
 }, 1000)
