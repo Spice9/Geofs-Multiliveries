@@ -136,6 +136,11 @@ let livObj = { "aircraft": [
   "livery": "117",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_117.jpg"
   },
+    {
+  "name": "Boeing 737 Max 8 (Air France) by FG AIRLINES",
+  "livery": "119",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_119.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -361,7 +366,11 @@ let livObj = { "aircraft": [
   "livery": "113",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_113.jpg"
   },
-  
+   {
+  "name": "Airbus a320neo (Peak Air) by Sri Vamsi Rajesh",
+  "livery": "118",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_118.jpg"
+  },
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
