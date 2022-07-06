@@ -773,3 +773,11 @@ dropdown115.innerHTML = "Boeing 787-9(American) "
     document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown115);
     let dropdown115Settings = document.createElement("div");
 dropdown115.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("63")');
+
+
+//Livery-112
+var dropdown116= document.createElement("li");
+dropdown116.innerHTML = "Airbus a320neo (Peak Air) by Sri Vamsi Rajesh"
+    document.getElementsByClassName("geofs-aircraft-list")[0].appendChild(dropdown116);
+    let dropdown116Settings = document.createElement("div");
+dropdown116.setAttribute("onclick", 'geofs.aircraft.instance.loadLivery("118")');
