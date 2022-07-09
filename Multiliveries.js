@@ -371,6 +371,16 @@ let livObj = { "aircraft": [
   "livery": "118",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_118.jpg"
   },
+   {
+  "name": "Airbus a320neo (Pegasus) by ThatOneBestDoggo",
+  "livery": "120",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_120.jpg"
+  },
+   {
+  "name": "Airbus a320neo (ITA Born in 2021) by ThatOneBestDoggo",
+  "livery": "122",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_122.jpg"
+  },
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
@@ -517,6 +527,11 @@ let livObj = { "aircraft": [
   "livery": "78",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_78.jpg"
   },
+     {
+  "name": "Boeing 787-10 (Biman Bangladesh) by Ahnaf522",
+  "livery": "123",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_123.jpg"
+  },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
   "livery": "47",
@@ -616,6 +631,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-9 (TUI) by IUH AIrways ",
   "livery": "115",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_115.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (Japan Airlines) by FG Airlines ",
+  "livery": "121",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_121.jpg"
   }
   ]}
 
