@@ -381,6 +381,11 @@ let livObj = { "aircraft": [
   "livery": "122",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_122.jpg"
   },
+   {
+  "name": "Airbus a320neo (Oneworld Srilankan Airlines) by SriLankanflyer,
+  "livery": "124",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_124.jpg"
+  },
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
