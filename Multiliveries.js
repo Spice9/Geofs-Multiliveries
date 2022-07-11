@@ -98,8 +98,8 @@ let livObj = { "aircraft": [
   },
  {
   "name": "Boeing 737 Max 8 (Com Air) by IUH Airways",
-  "livery": "18",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_18.jpg"
+  "livery": "18.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_18.5.jpg"
   },
  {
   "name": "Boeing 737 Max 8 (Air Canada) by Github User 589",
@@ -141,6 +141,17 @@ let livObj = { "aircraft": [
   "livery": "119",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_119.jpg"
   },
+    {
+  "name": "Boeing 737 Max 8 (Eurowings) by IUH Airways",
+  "livery": "132",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_132.jpg"
+  },
+    {
+  "name": "Boeing 737 Max 8 (USAF) by FG Airlines",
+  "livery": "133",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_133.jpg"
+  },
+  
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
