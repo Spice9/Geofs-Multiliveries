@@ -386,6 +386,26 @@ let livObj = { "aircraft": [
   "livery": "124",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_124.jpg"
   },
+   {
+  "name": "Airbus a320neo (Mihin Lanka) by SriLankanflyer",
+  "livery": "126",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_126.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Air Ceylon) by SriLankanflyer",
+  "livery": "128",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_128.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Air Lanka) by SriLankanflyer",
+  "livery": "129",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_129.jpg"
+  },
+   {
+  "name": "Airbus a320neo (Greenland Air) by BladesFlightsYT",
+  "livery": "127",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_127.jpg"
+  },
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
