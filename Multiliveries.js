@@ -358,6 +358,11 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_66.jpg"
   },
   {
+  "name": "Airbus a320neo (Aer Lingus) by IUH Airways",
+  "livery": "73",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_73.jpg"
+  },
+  {
   "name": "Airbus a320neo (United) by IUH Airways",
   "livery": "110",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_110.jpg"
