@@ -677,6 +677,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-9 (Japan Airlines) by FG Airlines ",
   "livery": "121",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_121.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (Finnair) by Burner7 ",
+  "livery": "134",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_134.jpg"
   }
   ]}
 
