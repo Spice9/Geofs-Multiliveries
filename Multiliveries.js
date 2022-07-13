@@ -507,7 +507,21 @@ let livObj = { "aircraft": [
   "livery": "98.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.5.jpg"
   },
-
+   {
+  "name": "Airbus a319 (BEA) by IUH Airways",
+  "livery": "97.5",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_97.5.jpg"
+  },
+   {
+  "name": "Airbus a319 (Easyjet) IUH Airways",
+  "livery": "97.6",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_97.6.jpg"
+  },
+ {
+  "name": "Airbus a319 (Shiba&Co) by IUH Airways",
+  "livery": "97.7",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.7.jpg"
+  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
