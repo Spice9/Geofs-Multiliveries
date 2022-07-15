@@ -438,6 +438,47 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.jpg"
   },
   {
+  "name": "Airbus a220 (Breeze) ",
+  "livery": "135",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_135.5.jpg"
+  },
+ {
+  "name": "Airbus a220 (Air France) ",
+  "livery": "136",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_136.jpg"
+  },
+{
+  "name": "Airbus a220 (Korean Air) ",
+  "livery": "137",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_137.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Baltic) ",
+  "livery": "138",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_138.jpg"
+  },
+{
+  "name": "Airbus a220 (Airbus) ",
+  "livery": "139",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_139.jpg"
+  },
+{
+  "name": "Airbus a220 (Jet Blue) ",
+  "livery": "140",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_140.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Manas) ",
+  "livery": "141",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_141.jpg"
+  },
+{
+  "name": "Airbus a220 (Air Senegal) ",
+  "livery": "142",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_142.jpg"
+  },
+
+  {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_85.jpg"
@@ -711,6 +752,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-9 (Finnair) by Burner7 ",
   "livery": "134",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_134.jpg"
+  },
+  {
+  "name": "Boeing 787-9 (AI) by AI & Ahnaf552 ",
+  "livery": "131",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_131.jpg"
   }
   ]}
 
