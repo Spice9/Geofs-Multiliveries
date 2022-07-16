@@ -186,6 +186,11 @@ let livObj = { "aircraft": [
   "livery": "3.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_3.5.jpg"
   },
+  {
+  "name": "Airbus a320neo (Nepal Airlines)",
+  "livery": "157",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_157.jpg"
+  },
 {
   "name": "Airbus a320neo (Gulf Air)",
   "livery": "1.6",
