@@ -456,6 +456,16 @@ let livObj = { "aircraft": [
   "livery": "154",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
   },
+     {
+  "name": "Airbus a320neo (Air Malta) SriLankanflyer",
+  "livery": "158",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_158.jpg"
+  },
+     {
+  "name": "Airbus a320neo (Thomas cook) IUH Airways",
+  "livery": "160",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_160.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135",
@@ -671,6 +681,11 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Air Vietnam) by JadenAviation",
   "livery": "156",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_156.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Juneyao silk ribbon) by Burner7",
+  "livery": "159",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_159.jpg"
   },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
