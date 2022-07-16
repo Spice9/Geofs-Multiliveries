@@ -151,7 +151,16 @@ let livObj = { "aircraft": [
   "livery": "133",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_133.jpg"
   },
-  
+   {
+  "name": "Boeing 737 Max 8 (Air Baltic) by FG Airlines",
+  "livery": "150",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_150.jpg"
+  },
+   {
+  "name": "Boeing 737 Max 8 (PANAM) by FG Airlines",
+  "livery": "150",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_150.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -437,6 +446,11 @@ let livObj = { "aircraft": [
   "livery": "135",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.jpg"
   },
+   {
+  "name": "Airbus a320neo (NEA Exeter) IUH Airways",
+  "livery": "154",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135",
@@ -642,6 +656,16 @@ let livObj = { "aircraft": [
   "name": "Boeing 787-10 (Biman Bangladesh) by Ahnaf522",
   "livery": "123",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_123.jpg"
+  },
+  {
+  "name": "Boeing 787-10 (Vist Vietnam) by JadenAviation",
+  "livery": "155",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_155.jpg"
+  },
+   {
+  "name": "Boeing 787-10 (Air Vietnam) by JadenAviation",
+  "livery": "156",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_156.jpg"
   },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
