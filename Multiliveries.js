@@ -161,6 +161,11 @@ let livObj = { "aircraft": [
   "livery": "156",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_156.jpg"
   },
+     {
+  "name": "Boeing 737 Max 8 (AeroItalia) by Luca",
+  "livery": "161",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_161.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
