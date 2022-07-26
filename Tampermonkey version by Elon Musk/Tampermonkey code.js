@@ -26,7 +26,7 @@ async function main(){
 
     //for 737max8 TUI, a320neo Iberia,a319 Finnair 787-10 etihad. These are the liveries that needs to be used respectively to make this addon work
     let livObj;
-    await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/new-code/Liveries/liveries.json")
+    await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/Tampermonkey%20version%20by%20Elon%20Musk/Liveries.json")
         .then(res => res.json())
         .then(data => livObj = data)
 
@@ -73,7 +73,7 @@ async function main(){
 
     //Add contributors here:
     let contributors;
-    await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/new-code/Liveries/contribs.json")
+    await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/Tampermonkey%20version%20by%20Elon%20Musk/contributors.js")
         .then(res => res.json())
         .then(data => contributors = data)
     let message = ""
