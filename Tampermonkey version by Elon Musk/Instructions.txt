@@ -1,0 +1,3 @@
+This is a version of the code that is compatible with tampermonkey made by Elon Musk. Firstly you will need Tampermonkey for this which you can add from google webstore. In the below files click on Tampermonkey code.js , copy that code and go to dashboard section in tampermonkey, there you would find a + sign near the installed userscript section. click on it and remove the default code in there and paste it with the code from Tampermonkey.js . 
+
+An advantage with this version is that you won't always have to copy the code and paste it on console and when ever a new livery is added, it would automatically be there 
