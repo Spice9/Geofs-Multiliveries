@@ -457,24 +457,35 @@ let livObj = { "aircraft": [
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_127.jpg"
   },
     {
-  "name": "Airbus a320neo (Easyjet Europcar) IUH Airways",
+  "name": "Airbus a320neo (Easyjet Europcar) by IUH Airways",
   "livery": "135",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.jpg"
   },
    {
-  "name": "Airbus a320neo (NEA Exeter) IUH Airways",
+  "name": "Airbus a320neo (NEA Exeter) by IUH Airways",
   "livery": "154",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_154.jpg"
   },
      {
-  "name": "Airbus a320neo (Air Malta) SriLankanflyer",
+  "name": "Airbus a320neo (Air Malta) by SriLankanflyer",
   "livery": "158",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_158.jpg"
   },
      {
-  "name": "Airbus a320neo (Thomas cook) IUH Airways",
+  "name": "Airbus a320neo (Thomas cook) by IUH Airways",
   "livery": "160",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_160.jpg"
+  },
+  
+     {
+  "name": "Airbus a320neo (AI) by AI & IUH Airways",
+  "livery": "165",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_165.jpg"
+  },
+     {
+  "name": "Airbus a320neo (Vietjet) by JadenAviation",
+  "livery": "166",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_166.jpg"
   },
   {
   "name": "Airbus a220 (Breeze) ",
