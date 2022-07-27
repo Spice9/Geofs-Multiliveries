@@ -78,7 +78,7 @@ async function main(){
         .then(data => contributors = data)
     let message = ""
     setTimeout(function(){
-        console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:");
+        console.log("Code by Spice9 and AriakimTaiyo, Elon Musk, livery contributions by:");
         contributors.forEach(function(e){
             if (message === "") {
                 message = message + e
