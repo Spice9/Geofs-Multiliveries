@@ -489,7 +489,7 @@ let livObj = { "aircraft": [
   },
   {
   "name": "Airbus a220 (Breeze) ",
-  "livery": "135",
+  "livery": "135.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_135.5.jpg"
   },
  {
