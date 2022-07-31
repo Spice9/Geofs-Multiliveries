@@ -487,6 +487,11 @@ let livObj = { "aircraft": [
   "livery": "166",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_166.jpg"
   },
+	{
+  "name": "Airbus a320neo (Air Macau) by ThatOneBestDoggo",
+  "livery": "168",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_168.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
