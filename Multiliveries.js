@@ -458,8 +458,8 @@ let livObj = { "aircraft": [
   },
     {
   "name": "Airbus a320neo (Easyjet Europcar) by IUH Airways",
-  "livery": "135",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.jpg"
+  "livery": "136",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_135.6.jpg"
   },
    {
   "name": "Airbus a320neo (NEA Exeter) by IUH Airways",
