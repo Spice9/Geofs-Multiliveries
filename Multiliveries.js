@@ -492,6 +492,11 @@ let livObj = { "aircraft": [
   "livery": "168",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_168.jpg"
   },
+	{
+  "name": "Airbus a320neo (Easyjet Berlin) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_170.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_170.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -641,6 +646,16 @@ let livObj = { "aircraft": [
   "name": "Airbus a319 (Shiba&Co) by IUH Airways",
   "livery": "97.7",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.7.jpg"
+  },
+	 {
+  "name": "Airbus a319 (Tiger Air) by Jaden",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
+  },
+	 {
+  "name": "Airbus a319 (Air Canada) by Jaden",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
