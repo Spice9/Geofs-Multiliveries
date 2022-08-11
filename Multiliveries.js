@@ -494,8 +494,14 @@ let livObj = { "aircraft": [
   },
 	{
   "name": "Airbus a320neo (Easyjet Berlin) by IUH Airways",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_170.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_170.jpg"
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_173.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_173.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Great British Air) by IUH Airways",
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_174.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_174.jpg"
   },
   {
   "name": "Airbus a220 (Breeze) ",
@@ -649,13 +655,13 @@ let livObj = { "aircraft": [
   },
 	 {
   "name": "Airbus a319 (Tiger Air) by Jaden",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_171.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_171.jpg"
   },
 	 {
   "name": "Airbus a319 (Air Canada) by Jaden",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_171.jpg"
+  "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_172.jpg",
+  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_172.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
