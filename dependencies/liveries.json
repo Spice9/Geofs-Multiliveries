@@ -509,6 +509,7 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_177.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_177.jpg"
   },
+
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -668,6 +669,11 @@
   "name": "Airbus a319 (Air Canada) by Jaden",
   "livery": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_172.jpg",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/flynas_427352_4097/texture_172.jpg"
+  },
+	 {
+  "name": "Airbus a319 (AI Airways) by SriLankan flyer",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_178.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_178.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
