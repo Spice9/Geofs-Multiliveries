@@ -509,6 +509,17 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_177.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_177.jpg"
   },
+	{
+  "name": "Airbus a320neo (China Southern) by CSN1774 ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_180.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_180.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Air China) by CSN1774 ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_181.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_181.jpg"
+  },
+
 
   {
   "name": "Airbus a220 (Breeze) ",
@@ -844,6 +855,11 @@
   "name": "Boeing 787-9 (Gulf Air) ",
   "livery": "105.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_105.5.jpg"
+  },
+	 {
+  "name": "Boeing 787-9 (Gulf Air Retro) by airgeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_179.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_179.jpg"
   },
      {
   "name": "Boeing 787-9 (TUI) by IUH AIrways ",
