@@ -881,4 +881,19 @@
   "livery": "131",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (ANA)_427352_3575/texture_131.jpg"
   }
+	 {
+  "name": "Boeing 787-9 (Aeromexico) by airgeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_182.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_182.jpg"
+  },
+ {
+  "name": "Boeing 787-9 (Qantas 100 years) by airgeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_183.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_183.jpg"
+  },
+ {
+  "name": "Boeing 787-9 (Star Alliance ANA) by airgeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg"
+  },
   ]}
