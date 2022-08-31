@@ -141,6 +141,8 @@
   "livery": "132",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_132.jpg"
   },
+	
+   
     {
   "name": "Boeing 737 Max 8 (USAF) by FG Airlines",
   "livery": "133",
@@ -166,6 +168,11 @@
   "livery": "163",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_163.jpg"
   },
+	 {
+  "name": "Boeing 737 Max 8 (Spiceje-Jet Airways) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_192.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_192.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -175,6 +182,11 @@
   "name": "Boeing P8A Poseidon (RAAF)",
   "livery": "2",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_2.jpg"
+  },
+	{
+  "name": "Boeing P8A Poseidon (Norwegian Airforce) by Air george",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_193.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_193.jpg"
   },
  {
   "name": "Airbus a320neo (Indigo)",
@@ -530,6 +542,11 @@
   "name": "Airbus a320neo (Pacific Airlines) by Jaden Aviation",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_188.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_188.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Vietjet-condor) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_191.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_191.jpg"
   },
   {
   "name": "Airbus a220 (Breeze) ",
@@ -905,5 +922,10 @@
   "name": "Boeing 787-9 (Star Alliance ANA) by airgeorge",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg"
+  },
+	{
+  "name": "Boeing 787-9 (Air Norse) by airgeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_190.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_190.jpg"
   }
   ]}
