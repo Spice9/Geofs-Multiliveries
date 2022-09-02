@@ -553,6 +553,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_194.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_194.jpg"
   },
+	{
+  "name": "Airbus a320neo (Jazeera) by Boeingbus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_189.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_189.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Air France) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_199.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_199.jpg"
+  },
+	{
+  "name": "Airbus a320neo (TUI) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -722,6 +737,16 @@
   "name": "Airbus a319 (Allegiant) by Yair Galan",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_195.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_195.jpg"
+  },
+	{
+  "name": "Airbus a319 (Gulf Air) by geofs user",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_197.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_197.jpg"
+  },
+	{
+  "name": "Airbus a319 (Air Canada) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
