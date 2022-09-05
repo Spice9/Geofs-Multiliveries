@@ -573,6 +573,12 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg"
   },
+	
+	{
+  "name": "Airbus a320neo (Air New Zealand) by SriLankan flyer",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -768,6 +774,7 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_203.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_203.jpg"
   },
+	
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
