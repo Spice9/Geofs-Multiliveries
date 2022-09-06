@@ -579,6 +579,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg"
   },
+	{
+  "name": "Airbus a320neo (Air Arabia) by Boeingbus737",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_206.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_206.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Austrian) by Burner 7",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_208.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_208.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -628,6 +638,11 @@
 			"name": "Airbus a220 (Egypt Air) ",
 			"livery": "146",
 			"mptx": "https://www.geo-fs.com/backend/aircraft/repository/Air Baltic  A220_230250_2899/texture_146.jpg"
+		},
+	{
+			"name": "Airbus a220 (Air canada) by Air george ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147.5.jpg",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147.5.jpg"
 		},
   {
   "name": "Airbus a319 (Finnair)",
@@ -775,6 +790,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_203.jpg"
   },
 	
+	{
+  "name": "Airbus a319 (Easyjet new) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_207.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_207.jpg"
+  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
