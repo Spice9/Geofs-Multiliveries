@@ -181,8 +181,13 @@
 	
 	 {
   "name": "Boeing 737 Max 8 (Westjet old) by Air George ",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.5.jpg"
+  },
+	 {
+  "name": "Boeing 737 Max 8 (Qantas) by IUH Airways ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_221.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_221.jpg"
   },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
@@ -600,6 +605,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_210.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_210.5.jpg"
   },
+	{
+  "name": "Airbus a320neo (Cathay Dragon) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_213.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_213.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Condor Blue) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_215.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_215.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Condor Yellow) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -890,6 +910,11 @@
   "name": "Boeing 787-10 (Malaysia Airlines) by AI",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg"
+  },
+	{
+  "name": "Boeing 787-10 (Qatar) by Boeingbus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_218.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_218.jpg"
   },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
