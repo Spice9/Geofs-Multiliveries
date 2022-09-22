@@ -189,6 +189,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_221.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_221.jpg"
   },
+	 {
+  "name": "Boeing 737 Max 8 (JAL) by Jaden Aviation ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_223.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_223.jpg"
+  },
+	 {
+  "name": "Boeing 737 Max 8 (Iceland Air old) by freedom air ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_231.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_231.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -620,6 +630,23 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_216.jpg"
   },
+		{
+  "name": "Airbus a320neo (Condor Green) by Freedom airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_230.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_230.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Air Malta) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_232.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_232.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Travel Service) by Pawser Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_222.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_222.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -674,6 +701,11 @@
 			"name": "Airbus a220 (Air canada) by Air george ",
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147.5.jpg",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_147.5.jpg"
+		},
+	{
+			"name": "Airbus a220 (Air Austral) by ThatOneBestDoggo ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg"
 		},
   {
   "name": "Airbus a319 (Finnair)",
@@ -831,6 +863,21 @@
   "name": "Airbus a319 (Skyteam Czech Air) by Jaden & ThatOneBestDoggo",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_220.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_220.jpg"
+  },
+	{
+  "name": "Airbus a319 (Air Namibia) by freedom airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_233.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_233.jpg"
+  },
+{
+  "name": "Airbus a319 (Czech Air) by freedom airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_224.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_224.jpg"
+  },
+	{
+  "name": "Airbus a319 (Air Canada Rogue) by Pawser Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_236.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_236.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
