@@ -209,6 +209,17 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_241.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_241.jpg"
   },
+	
+	 {
+  "name": "Boeing 737 Max 8 (BOC) by Luke ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_251.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_251.jpg"
+  },
+	 {
+  "name": "Boeing 737 Max 8 (house livery) by Luke ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_252.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_252.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -673,6 +684,24 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_238.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_238.jpg"
   },
+	
+	{
+  "name": "Airbus a320neo (KLM) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_245.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_245.5.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Finnair) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_255.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_255.jpg"
+  },
+	
+	{
+  "name": "Airbus a320neo (Ansett Australia) by Jaden Aviation",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_250.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_250.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -732,6 +761,11 @@
 			"name": "Airbus a220 (Air Austral) by ThatOneBestDoggo ",
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg"
+		},
+	{
+			"name": "Airbus a220 (ITA Airways) by Luke ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_254.jpg",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_254.jpg"
 		},
   {
   "name": "Airbus a319 (Finnair)",
@@ -904,6 +938,11 @@
   "name": "Airbus a319 (Air Canada Rogue) by Pawser Aviation",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_236.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_236.jpg"
+  },
+	{
+  "name": "Airbus a319 (Air BH) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_248.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_248.jpg"
   },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
@@ -1163,9 +1202,21 @@
   },
 	
 	{
-  "name": "Boeing 787-9 (Air Canada) by Burner ",
+  "name": "Boeing 787-9 (Air Canada old) by Burner ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_243.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_243.jpg"
+  },
+	
+	{
+  "name": "Boeing 787-9 (Boeing house) by Boeingbus ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_253.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_253.jpg"
+  },
+	
+	{
+  "name": "Boeing 787-9 (BOC) by Luke ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_249.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_249.jpg"
   }
 	
   ]}
