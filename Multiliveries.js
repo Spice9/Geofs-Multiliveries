@@ -5,7 +5,7 @@ let livObj;
  .then(data => livObj = data) 
 
 let liveryPanelML = document.createElement("div");
-
+let updateMultiplayer = function() {};
 function resetPanel() {
   liveryPanelML.innerHTML = `
   <li class = "geofs-list-collapsible-item geofs-notstudent-role">
@@ -61,7 +61,7 @@ function search(query) {
 
 function displayLiveries(isSearch) {
   if (geofs.version == 2.9) {
-    function updateMultiplayer(){
+    updateMultiplayer = function(){
   Object.values(multiplayer.visibleUsers).forEach(function(e){
     a = e;
       livObj.aircraft.forEach(function(e){
@@ -96,7 +96,7 @@ function displayLiveries(isSearch) {
     })
   }   
   } else {
-    function updateMultiplayer(){
+     updateMultiplayer = function(){
       Object.values(multiplayer.visibleUsers).forEach(function(e){
         a = e;
         livObj.aircraft.forEach(function(e){
