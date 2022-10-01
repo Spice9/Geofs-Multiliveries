@@ -707,6 +707,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_244.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_244.jpg"
   },
+		{
+  "name": "Airbus a320neo (Juneyao) by GT",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_274.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_274.jpg"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
@@ -949,6 +954,22 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_248.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_248.jpg"
   },
+	
+	{
+  "name": "Airbus a319 (Gulf Air Bahrain GP) by Izem bro Emiz",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_271.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_271.jpg"
+  },
+	{
+  "name": "Airbus a319 (Eurowings) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_273.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_273.jpg"
+  },
+	{
+  "name": "Airbus a319 (vueling) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_272.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_272.jpg"
+  },
 {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -1038,6 +1059,12 @@
   "name": "Boeing 787-10 (Qatar) by Boeingbus",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_218.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_218.jpg"
+  },
+	
+	{
+  "name": "Boeing 787-10 (Ethiopian) by Izem bro Emiz",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_270.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_270.jpg"
   },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
@@ -1227,7 +1254,12 @@
   "name": "Boeing 787-9 (Saudia 75th Anniversary ) by airgeorge",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_256.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_256.jpg"
-  }
-	
+  },
+
+		{
+  "name": "Boeing 787-9 (Aeroflot) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_275.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_275.jpg"
+  }	
 	
   ]}
