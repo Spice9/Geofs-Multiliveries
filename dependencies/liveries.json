@@ -417,7 +417,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_289.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_289.5.jpg"
   },
-
+{
+  "name": "Boeing 737-800 (Delta) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_291.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_291.5.jpg"
+  },
+	{
+  "name": "Boeing 737-800 (Westjet) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_293.5.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_293.5.jpg"
+  },
+	{
+  "name": "Boeing 737-800 (Tarom) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_292.5.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_292.5.jpg"
+  },
  {
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
