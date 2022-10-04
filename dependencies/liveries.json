@@ -1508,6 +1508,11 @@
   "name": "Boeing 787-9 (Aeroflot) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_275.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_275.jpg"
-  }	
+  },	
+	{
+  "name": "Boeing 787-9 (Diamond Airlines ) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Diamond%20Airlines%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Diamond%20Airlines%20787-9.png"
+  }
 	
   ]}
