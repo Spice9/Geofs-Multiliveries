@@ -527,6 +527,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%20737-800%20White.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%20737-800%20White.jpg"
   },
+	 { 
+  "name": "Boeing 737-800 (KLM Retro) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM_retro_737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM_retro_737-800.png"
+  },
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
