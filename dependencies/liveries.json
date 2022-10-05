@@ -301,7 +301,7 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_264.jpg"
   },
 {
-  "name": "Boeing 737-800 (Boeing house) by Luke ",
+  "name": "Boeing 737-800 (Boeing House Old) by Luke ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_266.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_266.jpg"
   },
@@ -490,6 +490,11 @@
   "name": "Boeing 737-800 (Asky) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asky%20738.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asky%20738.png"
+  },
+	{
+  "name": "Boeing 737-800 (Boeing House New) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/BoeingHouseNew738.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/BoeingHouseNew738.png"
   },
 	
  {
