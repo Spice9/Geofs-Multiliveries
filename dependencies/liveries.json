@@ -1325,7 +1325,12 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Texture_278.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Texture_278.jpg"
   },
-{
+        {
+"name": "airbus	a319 (windjet) by freedom airways",
+"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_279.jpg",
+"mptx" "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_279.jpg"
+},		
+	{
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_41.jpg"
