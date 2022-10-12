@@ -1674,6 +1674,11 @@
   "name": "Boeing 787-9 (Emirates) by Izem bro Emiz",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_304.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_304.jpg"
+  },
+	{
+  "name": "Boeing 787-9 (AeroMexico Quetzalcoatl) by AirGeorge",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AeroMexico%20Quetzalcoatl%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AeroMexico%20Quetzalcoatl%20787-9.png"
   }
 	
   ]}
