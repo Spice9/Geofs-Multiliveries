@@ -1,4 +1,4 @@
-{ "aircraft" [
+{ "aircraft": [
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
   "livery": "1",
@@ -1404,7 +1404,7 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/ed18c7ac37544f45428159145452bc2f5817c372/Spirit%20Old%20A319%20FINAL.png"
   }
   "name": "Boeing 787-10 (Vietnam Airlines) ",
-  "livery": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_41.jpg",
+  "livery": "41",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_41.jpg"
   },
 {
