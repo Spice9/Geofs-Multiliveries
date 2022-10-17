@@ -1816,14 +1816,14 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20787-9.png"
   },
 	{
-  "name": "Boeing 787-9 (China Airlines) by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Airlines%20787-9.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Airlines%20787-9.png"
-  },
-	{
   "name": "Boeing 787-9 (Oman Air) by Boeingbus",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Oman%20Air%20787-9.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Oman%20Air%20787-9.jpg"
+  },
+	{
+  "name": "Boeing 787-9 (China Airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Airlines%20787-9.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Airlines%20787-9.jpg"
   }
 	
   ]}
