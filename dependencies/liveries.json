@@ -1130,11 +1130,7 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Uzbekistan%20Airways%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Uzbekistan%20Airways%20A320neo.png"
   },
-	{
-  "name": "Airbus a320neo (Ryanair 'Spirit of Dublin') by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Uzbekistan%20Airways%20A320neo.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Uzbekistan%20Airways%20A320neo.png"
-  },
+	
 	{
   "name": "Airbus a320neo (Lufthansa 'Lovehansa') by Window Seat Aviation",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Lovehansa%20A320neo.png",
@@ -1154,6 +1150,11 @@
   "name": "Airbus a320neo (Hamburg Airways) by North Destroyer",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hambug%20Airways%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hambug%20Airways%20A320neo.png"
+  },
+	{
+  "name": "Airbus a320neo (Ryanair 'Spirit of Dublin') by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Spirit%20of%20Dublin%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Spirit%20of%20Dublin%20A320neo.png"
   },
 	{
   "name": "Embraer E145 (Lux Air) by Coolpilot ",
