@@ -231,6 +231,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture%20298.5.png"
   },
 	{
+  "name": "Boeing 737 Max 8 (Avolon) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avolon%20737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avolon%20737-8.png"
+  },
+	{
   "name": "Boeing 737 Max 8 (Boeing House New) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/BoeingHouseNew738.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/BoeingHouseNew738.png"
@@ -576,11 +581,6 @@
   "name": "Boeing 737-800 (Iceland air) by coolpilot",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_307.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_307.jpg"
-  },
-	{ 
-  "name": "Boeing 737-800 (Avolon) by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avolon%20737-8.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Avolon%20737-8.png"
   },
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
