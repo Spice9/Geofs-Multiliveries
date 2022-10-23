@@ -598,6 +598,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_334.jpg"
   },
 	{ 
+  "name": "Boeing 737-800 (Flair) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlairAir.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlairAir.png"
+  },
+	{ 
   "name": "Boeing 737-800 (citilink cargo) by bajushd",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink-cargo-Boeing-737-800.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink-cargo-Boeing-737-800.jpg"
