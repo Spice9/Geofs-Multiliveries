@@ -1941,5 +1941,10 @@
   "name": "Boeing 787-9 (Emirates Expo 2020) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_344.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_344.jpg"
+  },
+	{
+  "name": "Boeing 787-9 (Boeing House) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_House_Livery_787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_House_Livery_787-9.png"
   }
   ]}
