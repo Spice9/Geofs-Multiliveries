@@ -252,8 +252,8 @@
   },
 	{
   "name": "Boeing 737 Max 8 (United 'Rise of the Skywalker) by BladesFlights",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_Star_Wars_737_Max_8.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_Star_Wars_737_Max_8.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_Star_Wars_737_Max_8_v2.0.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_Star_Wars_737_Max_8_v2.0.jpg"
   },
 	{
   "name": "Boeing 737-800 (Spicejet)",
@@ -1733,6 +1733,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_342.jpg"
   },
 	{
+  "name": "Boeing 787-10 (Emirates "Year of the 50th") by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates%20Year%20of%20the%2050th%20787-10.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates%20Year%20of%20the%2050th%20787-10.png"
+  },
+	{
   "name": "Boeing 787-10 (Emirates Expo gold) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg"
@@ -1992,6 +1997,11 @@
   "name": "Boeing 787-9 (Boeing House) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_House_Livery_787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_House_Livery_787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (Etihad "Choose the USA)) by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad%20Choose%20the%20USA%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad%20Choose%20the%20USA%20787-9.png"
   },
 	{
   "name": "Boeing 787-9 (Qantas 'Yam Dreaming') by A bin of cake",
