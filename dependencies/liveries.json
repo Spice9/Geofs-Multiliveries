@@ -256,6 +256,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Buzz%20737%20MAX%208.png"
   },
 	{
+  "name": "Boeing 737 Max 8 (Swoop) by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swoop%20737%20MAX%208.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swoop%20737%20MAX%208.png"
+  },
+	{
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg"
@@ -611,6 +616,11 @@
   "name": "Boeing 737-800 (citilink cargo) by bajushd",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink-cargo-Boeing-737-800.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink-cargo-Boeing-737-800.jpg"
+  },  
+	{ 
+  "name": "Boeing 737-800 (Swoop) by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swoop%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swoop%20737-800.png"
   },  
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
