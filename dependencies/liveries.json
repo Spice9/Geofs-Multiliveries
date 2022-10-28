@@ -1213,6 +1213,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Batik_air_a320neo.jpg"
   },
 	{
+  "name": "Airbus a320neo (Himalya Airlines) by NextGen Planes",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Himalya%20Airlines%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Himalya%20Airlines%20A320neo.png"
+  },
+	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
@@ -1342,6 +1347,11 @@
   "name": "Embraer E145 (Inter Caribbean) by Coolpilot ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_312.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_312.jpg"
+  },
+	{
+  "name": "Embraer E145 (Crossair) by FreedomAirways ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Test_Plain_ERJ_145_Crossair.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Test_Plain_ERJ_145_Crossair.jpg"
   },
   {
   "name": "Airbus a220 (Breeze) ",
@@ -1635,6 +1645,11 @@
   "name": "Airbus a319 (BEA) by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_349.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_349.jpg"
+  },
+	{
+  "name": "Airbus a319 (Gulf Air) by Boeingbus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Gulf%20Air%20A319.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Gulf%20Air%20A319.jpg"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
