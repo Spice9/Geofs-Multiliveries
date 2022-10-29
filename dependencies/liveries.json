@@ -793,11 +793,6 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_26.3.jpg"
   },
 {
-  "name": "Airbus a320neo (Easyjet) by IUH Airways",
-  "livery": "27.3",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_27.3.jpg"
-  },
-{
   "name": "Airbus a320neo (SWISS) by Github User 589",
   "livery": "28.3",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_28.3.jpg"
@@ -1236,6 +1231,11 @@
   "name": "Airbus a320neo (Bangkok Airways 'UFW') by NextGen Planes",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bangkok%20A320neo%20UFW.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bangkok%20A320neo%20UFW.png"
+  },
+	{
+  "name": "Airbus a320neo (Easyjet) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png"
   },
 	{
   "name": "Airbus a320neo (Citilink x Tiket) by Nero",
