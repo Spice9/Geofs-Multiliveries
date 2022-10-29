@@ -1232,15 +1232,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bangkok%20A320neo%20UFW.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bangkok%20A320neo%20UFW.png"
   },
-	{
-  "name": "Airbus a320neo (Easyjet) by IUH Airways",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png"
-  },
+	
 	{
   "name": "Airbus a320neo (Citilink x Tiket) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320neo-Citiling-x-Tiket-com.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320neo-Citiling-x-Tiket-com.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Easyjet) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png"
   },
 	{
   "name": "Embraer E145 (Star air) ",
