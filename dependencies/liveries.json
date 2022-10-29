@@ -637,6 +637,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/UTair_737-8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/UTair_737-8.png"
   },  
+	{ 
+  "name": "Boeing 737-800 (Asia Cargo) by Kiro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20cargo%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20cargo%20737-800.png"
+  },  
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -1747,7 +1752,7 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_155.jpg"
   },
   {
-  "name": "Boeing 787-10 (Juneyao silk ribbon) by Burner7",
+  "name": "Boeing 787-10 (Juneyao silk ribbon) by Burner",
   "livery": "159.6",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing 787-10 Dreamliner (Etihad)_427352_3180/texture_159.jpg"
   },
