@@ -452,7 +452,7 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_284.5.jpg"
   },
 {
-  "name": "Boeing 737-800 (American Airlines) by Luke",
+  "name": "Boeing 737-800 (American Airlines Old) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_289.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_289.5.jpg"
   },
@@ -641,6 +641,11 @@
   "name": "Boeing 737-800 (Utair) by Air George",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/UTair_737-8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/UTair_737-8.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (American Airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/American_Airlines_737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/American_Airlines_737-800.png"
   },
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
@@ -1330,11 +1335,6 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_318.jpg"
   },
 {
-  "name": "Embraer E145 (American Eagle) by Yair Galan ",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_317.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_317.jpg"
-  },
-{
   "name": "Embraer E145 (UNITED Saul Bass) by ThatOneBestDoggo ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_316.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_316.jpg"
@@ -1383,6 +1383,11 @@
   "name": "Embraer E145 (Crossair) by FreedomAirways ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Test_Plain_ERJ_145_Crossair.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Test_Plain_ERJ_145_Crossair.jpg"
+  },
+	{
+  "name": "Embraer E145 (American Eagle) by Yair Galan ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/American%20Eagle%20ERJ-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/American%20Eagle%20ERJ-145.png"
   },
   {
   "name": "Airbus a220 (Breeze) ",
