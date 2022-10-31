@@ -1249,6 +1249,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20A320neo%20NEW.png"
   },
 	{
+  "name": "Airbus a320neo (Pan American Airways) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pan%20Am%20A320Neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pan%20Am%20A320Neo.png"
+  },
+	{
   "name": "Airbus a320neo (Easyjet 'Holidays') by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/EasyJet%20Holiday%20A320neo.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/EasyJet%20Holiday%20A320neo.jpg"
@@ -2078,6 +2083,16 @@
   "name": "Boeing 787-9 (Etihad Choose the USA) by Air George",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad%20CTU%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad%20CTU%20787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (Philippine airlines (Love bus) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/PAL%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/PAL%20787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (Swiss Airlines) by Burner",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss_787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss_787-9.png"
   },
 	{
   "name": "Boeing 787-9 (Qantas 'Yam Dreaming') by A bin of cake",
