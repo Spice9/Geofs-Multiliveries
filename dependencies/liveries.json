@@ -1259,6 +1259,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/EasyJet%20Holiday%20A320neo.jpg"
   },
 	{
+  "name": "Airbus a320neo (Citilink x Kapal) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink_x_Kapal_A320.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Citilink_x_Kapal_A320.png"
+  },
+	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
@@ -1697,6 +1702,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/South%20African%20A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/South%20African%20A319.png"
   },
+	{
+  "name": "Airbus a319 (Chair) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png"
+  },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -2103,5 +2113,10 @@
   "name": "Boeing 787-9 (Air China) by Air George",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirChina_787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirChina_787-9.png"
+  }
+	{
+  "name": "Boeing 787-9 (Royal Air Jordania) by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Air%20Jordania%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Air%20Jordania%20787-9.png"
   }
   ]}
