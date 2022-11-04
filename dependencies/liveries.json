@@ -647,6 +647,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/American_Airlines_737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/American_Airlines_737-800.png"
   },
+	{ 
+  "name": "Boeing 737-800 (Singapore Airlines) by Burner",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png"
+  },
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -1272,6 +1277,11 @@
   "name": "Airbus a320neo (Volaris) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Volaris.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Volaris.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Flydeal) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyDeal%20A320n.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyDeal%20A320n.jpg"
   },
 	{
   "name": "Embraer E145 (Star air) ",
