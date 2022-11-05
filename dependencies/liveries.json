@@ -657,6 +657,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png"
   },
+	{ 
+  "name": "Boeing 737-800 (Chine Eastern 'Yunnan Peacock) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China_Eastern_737-800_Yunnan_Peacock.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China_Eastern_737-800_Yunnan_Peacock.png"
+  },
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -2153,5 +2158,10 @@
   "name": "Boeing 787-9 (Royal Air Jordania) by Air George",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Air%20Jordania%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Air%20Jordania%20787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (ANA 'R2-D2') by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20787-9%20'R2-D2'.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20787-9%20'R2-D2'.png"
   }
   ]}
