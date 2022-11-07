@@ -265,6 +265,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20cargo%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20cargo%20737-800.png"
   },
+		{
+  "name": "Boeing 737 Max 8 (Early Bonza) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bonza%20737-8%20Promotional%20Livery.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bonza%20737-8%20Promotional%20Livery.png"
+  },
+		{
+  "name": "Boeing 737 Max 8 (Official Bonza) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bonza%20737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bonza%20737-8.png"
+  },
 	{
   "name": "Boeing 737 Max 8 (Singapore Airlines 'Star Alliance') by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore_Airlines_737_MAX_8_Star_alliance.png",
@@ -661,6 +671,16 @@
   "name": "Boeing 737-800 (My Indo Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/My%20indo%20Airlines%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/My%20indo%20Airlines%20737-800.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Tigerair) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Tigerair_737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Tigerair_737-800.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Enter Air) by Luke and Doggoliverimaker",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Enter%20Air%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Enter%20Air%20737-800.png"
   },
 	{ 
   "name": "Boeing 737-800 (Singapore Airlines) by Burner",
@@ -1292,6 +1312,16 @@
   "name": "Airbus a320neo (Volaris) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Volaris.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Volaris.jpg"
+  },
+	{
+  "name": "Airbus a320neo (PLAY) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/playa320neo.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/playa320neo.jpg"
+  },
+	{
+  "name": "Airbus a320neo (Tigerair) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_tigerair1.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_tigerair1.jpg"
   },
 	{
   "name": "Airbus a320neo (Flydeal) by Nero",
