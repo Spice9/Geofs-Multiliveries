@@ -1,5 +1,7 @@
 ![image (1)](https://user-images.githubusercontent.com/79466778/184937450-8038f605-859e-4b4f-a768-87b2032c0ffb.png)<br>
-
+```markdown
+# Please do not use the issues page to submit liveries!! #
+```
 Join us on Discord! [![Discord](https://img.shields.io/discord/1008808128189579325.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/GnU7kBcXtR)<br>
 
 # Geofs-Multiliveries
