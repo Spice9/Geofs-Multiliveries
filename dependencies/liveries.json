@@ -281,6 +281,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore_Airlines_737_MAX_8_Star_alliance.png"
   },
 	{
+  "name": "Boeing 737 Max 8 (Air Canada) by A Bin Of Cake",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirCanada%207M8.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirCanada%207M8.jpg"
+  },
+	{
+  "name": "Boeing 737 Max 8 (TUI) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png"
+  },
+	{
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg"
@@ -1329,6 +1339,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyDeal%20A320n.jpg"
   },
 	{
+  "name": "Airbus a320neo (Capital Airlines) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
+  },
+	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
@@ -1473,6 +1488,11 @@
   "name": "Embraer E145 (DAC) by Luca ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAC_E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAC_E-145.png"
+  },
+	{
+  "name": "Embraer E145 (Aero) by Kyojuro ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png"
   },
   {
   "name": "Airbus a220 (Breeze) ",
@@ -1786,6 +1806,11 @@
   "name": "Airbus a319 (Chair) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Air Senegal) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
