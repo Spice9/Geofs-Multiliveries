@@ -1339,6 +1339,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyDeal%20A320n.jpg"
   },
 	{
+  "name": "Airbus a320neo (Saudi Gulf) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Saudi_gulf.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Saudi_gulf.png"
+  },
+	{
   "name": "Airbus a320neo (Capital Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
@@ -1488,6 +1493,11 @@
   "name": "Embraer E145 (DAC) by Luca ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAC_E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAC_E-145.png"
+  },
+	{
+  "name": "Embraer E145 (Flybe White) by Nreo ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/erj_145_FlyBe..png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/erj_145_FlyBe..png"
   },
 	{
   "name": "Embraer E145 (Aero) by Kyojuro ",
@@ -1806,6 +1816,26 @@
   "name": "Airbus a319 (Chair) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Chair%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Airbus New house) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus_A319_house_new.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus_A319_house_new.png"
+  },
+	{
+  "name": "Airbus a319 (United Battleship Grey/gray) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_a319_old.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United_a319_old.png"
+  },
+	{
+  "name": "Airbus a319 (Mihin lanka) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mihin_Lanka_a319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mihin_Lanka_a319.png"
+  },
+	{
+  "name": "Airbus a319 (Eurowings Hybrid) by Freedomairways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A319-Czech-Airlines-Eurowings-Hybrid.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A319-Czech-Airlines-Eurowings-Hybrid.jpg"
   },
 	{
   "name": "Airbus a319 (Air Senegal) by Nero",
