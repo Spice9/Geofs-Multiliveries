@@ -1645,11 +1645,6 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_96.2.jpg"
   },
  {
-  "name": "Airbus a319 (Airbus house) by Luke",
-  "livery": "98",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.jpg"
-  },
- {
   "name": "Airbus a319 (American Airlines)",
   "livery": "98.5",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Lufthansa%20A319-111_230250_3140/texture_98.5.jpg"
@@ -1821,6 +1816,11 @@
   "name": "Airbus a319 (Airbus New house) by Aviation Person",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus_A319_house_new.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus_A319_house_new.png"
+  },
+	{
+  "name": "Airbus a319 (Airbus old house) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus-A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus-A319.png"
   },
 	{
   "name": "Airbus a319 (United Battleship Grey/gray) by Aviation Person",
