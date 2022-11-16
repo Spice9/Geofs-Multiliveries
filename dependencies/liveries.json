@@ -2093,11 +2093,6 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_183.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_183.jpg"
   },
- {
-  "name": "Boeing 787-9 (Star Alliance ANA) by airgeorge",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_185.jpg"
-  },
 	{
   "name": "Boeing 787-9 (Norse Atlantic) by BladesFlight YT",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_190.1.jpg",
@@ -2258,5 +2253,15 @@
   "name": "Boeing 787-9 (ANA 'R2-D2') by Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20787-9%20'R2-D2'.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20787-9%20'R2-D2'.png"
+  },
+	{
+  "name": "Boeing 787-9 ('Unpainted') by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-9%20Unpainted.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-9%20Unpainted.png"
+  },
+	{
+  "name": "Boeing 787-9 (ANA 'Star Alliance') by Air George",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20Star%20Alliance%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANA%20Star%20Alliance%20787-9.png"
   }
   ]}
