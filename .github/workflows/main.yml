@@ -26,6 +26,8 @@ jobs:
           key: ${{ runner.os }}-js-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         run: npm install
+      - name: Install More Dependencies
+        run: npm install -g mustache
       - name: Generate README file
         run: node rmu.js
       - name: Commit and Push new README.md to the repository
