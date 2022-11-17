@@ -7,10 +7,7 @@ on:
       - main
   schedule:
     - cron: '0 */6 * * *'
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
+permissions: write-all
 jobs:
   build:
     runs-on: ubuntu-latest
