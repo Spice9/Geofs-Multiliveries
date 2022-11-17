@@ -1,7 +1,7 @@
 // index.js
-const Mustache = require('mustache.js');
-const fetch = require('node-fetch.js');
-const fs = require('fs.js');
+const Mustache = require('mustache');
+const fetch = require('node-fetch');
+const fs = require('fs');
 const MUSTACHE_MAIN_DIR = './main.mustache';
 /**
   * DATA is the object that contains all
