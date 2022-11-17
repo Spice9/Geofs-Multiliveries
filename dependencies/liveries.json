@@ -1838,6 +1838,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A319-Czech-Airlines-Eurowings-Hybrid.jpg"
   },
 	{
+  "name": "Airbus a319 (ITA Airways) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20airways%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20airways%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Northwest Airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/NWA%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/NWA%20A319.png"
+  },
+	{
   "name": "Airbus a319 (Air Senegal) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg"
@@ -2268,6 +2278,11 @@
   "name": "Boeing 787-9 ('White Arrow') by Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Arrow%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Arrow%20787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (Westjet) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westjet%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westjet%20787-9.png"
   },
 	{
   "name": "Boeing 787-9 ('Unpainted V2' Oman Air) by Luca",
