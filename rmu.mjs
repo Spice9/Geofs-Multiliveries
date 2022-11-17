@@ -1,7 +1,7 @@
 // index.js
-const Mustache = require('mustache');
+import Mustache from 'mustache';
 import fetch from 'node-fetch';
-const fs = require('fs');
+import fs from 'fs';
 const MUSTACHE_MAIN_DIR = './main.mustache';
 /**
   * DATA is the object that contains all
