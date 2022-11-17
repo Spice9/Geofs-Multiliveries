@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: '0 */6 * * *'
 
@@ -31,6 +31,6 @@ jobs:
       - name: Generate README file
         run: node rmu.js
       - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action
+        uses: mikeal/publish-to-github-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
