@@ -31,6 +31,6 @@ jobs:
       - name: Generate README file
         run: node rmu.js
       - name: Commit and Push new README.md to the repository
-        uses: mikeal/publish-to-github-action@main
+        uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
