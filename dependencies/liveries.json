@@ -693,6 +693,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Enter%20Air%20737-800.png"
   },
 	{ 
+  "name": "Boeing 737-800 (Turkish Airlines Star alliance) by Neror",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_star_alliance_turkish_airlines.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_star_alliance_turkish_airlines.png"
+  },
+	{ 
   "name": "Boeing 737-800 (Singapore Airlines) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png"
@@ -1846,6 +1851,11 @@
   "name": "Airbus a319 (Northwest Airlines) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/NWA%20A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/NWA%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Drukair) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Drukair4.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Drukair4.png"
   },
 	{
   "name": "Airbus a319 (Air Senegal) by Nero",
