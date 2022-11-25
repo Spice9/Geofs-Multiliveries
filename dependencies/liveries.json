@@ -1384,6 +1384,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Saudi_gulf.png"
   },
 	{
+  "name": "Airbus a320neo (Bamboo Airways) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png"
+  },
+	{
   "name": "Airbus a320neo (Capital Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
@@ -1901,6 +1906,11 @@
   "name": "Airbus a319 (Carpatair) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a319_carpatair.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a319_carpatair.jpg"
+  },
+	{
+  "name": "Airbus a319 (Northwest New) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/nwa_a319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/nwa_a319.png"
   },
 	{
   "name": "Airbus a319 (Air Senegal) by Nero",
