@@ -286,6 +286,21 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirCanada%207M8.jpg"
   },
 	{
+  "name": "Boeing 737 Max 8 (Alaska Education) by A Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_Education2.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_Education2.png"
+  },
+	{
+  "name": "Boeing 737 Max 8 (Alaska More to love) by A Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_More.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_More.png"
+  },
+	{
+  "name": "Boeing 737 Max 8 (Alaska West Coast) by A Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_Westcoast3.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_Westcoast3.png"
+  },
+	{
   "name": "Boeing 737 Max 8 (TUI) by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png"
@@ -696,6 +711,26 @@
   "name": "Boeing 737-800 (TK Star alliance) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Turkish%20Airlines%20Star%20alliance%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Turkish%20Airlines%20Star%20alliance%20737-800.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Iaero) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAero.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAero.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Iaero Eastern Hybrid) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAeroEastern_1.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAeroEastern_1.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Iaero DHL) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DHLiaero.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/DHLiaero.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (9 Air) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_9air.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_9air.jpg"
   },
 	{ 
   "name": "Boeing 737-800 (Singapore Airlines) by Burner",
@@ -1569,6 +1604,11 @@
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_229.jpg"
 		},
+{
+			"name": "Airbus a220 (ITA Airways Born To be Sustainable) by Coolpilot11 ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA_Sus.png",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA_Sus.png"
+		},
 	{
 			"name": "Airbus a220 (ITA Airways) by Luke ",
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_254.jpg",
@@ -1856,6 +1896,11 @@
   "name": "Airbus a319 (Drukair) by Coolpilot11",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Drukair4.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Drukair4.png"
+  },
+	{
+  "name": "Airbus a319 (Carpatair) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a319_carpatair.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a319_carpatair.jpg"
   },
 	{
   "name": "Airbus a319 (Air Senegal) by Nero",
@@ -2293,6 +2338,11 @@
   "name": "Boeing 787-9 (Westjet) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westjet%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westjet%20787-9.png"
+  },
+	{
+  "name": "Boeing 787-9 (Hainan Yellow) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/hainininini.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/hainininini.png"
   },
 	{
   "name": "Boeing 787-9 ('Unpainted V2' Oman Air) by Luca",
