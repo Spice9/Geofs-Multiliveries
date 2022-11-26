@@ -296,6 +296,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ASA_Westcoast3.png"
   },
 	{
+  "name": "Boeing 737 Max 8 (Air Europa) by A Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirEuropa%20737%20MAX%208.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirEuropa%20737%20MAX%208.png"
+  },
+	{
+  "name": "Boeing 737 Max 8 (Unpainted) by A Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-8.png"
+  },
+	{
   "name": "Boeing 737 Max 8 (TUI) by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png"
@@ -726,6 +736,31 @@
   "name": "Boeing 737-800 (9 Air) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_9air.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_9air.jpg"
+  },
+	{ 
+  "name": "Boeing 737-800 (Aeroitalia) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AeroItalia%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AeroItalia%20737-800.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Air Algerie) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAlgerie.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAlgerie.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Air Europa) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirEuropa%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirEuropa%20737-800.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Anadolujet) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AnadoluJet.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AnadoluJet.png"
+  },
+	{ 
+  "name": "Boeing 737-800 (Blubird Nordic) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bluebird.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bluebird.png"
   },
 	{ 
   "name": "Boeing 737-800 (Singapore Airlines) by Burner",
@@ -1384,6 +1419,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png"
   },
 	{
+  "name": "Airbus a320neo (Air Corsica) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_air_corsica.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_air_corsica.png"
+  },
+	{
   "name": "Airbus a320neo (Capital Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
@@ -1540,6 +1580,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/erj_145_FlyBe..png"
   },
 	{
+  "name": "Embraer E145 (LOT) by Luca ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LOT_E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LOT_E-145.png"
+  },
+	{
+  "name": "Embraer E145 (Pan Européenne Air Service) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/PEAS_E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/PEAS_E-145.png"
+  },
+	{
   "name": "Embraer E145 (Aero) by Kyojuro ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png"
@@ -1608,6 +1658,16 @@
 			"name": "Airbus a220 (ITA Airways Born To be Sustainable) by Coolpilot11 ",
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA_Sus.png",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA_Sus.png"
+		},
+{
+			"name": "Airbus a220 (C-Series) by Luca ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bombardier_A220.png",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bombardier_A220.png"
+		},
+{
+			"name": "Airbus a220 (Czech Airlines) by Luca ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20Airlines%20A220.png",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20Airlines%20A220.png"
 		},
 	{
 			"name": "Airbus a220 (ITA Airways) by Luke ",
@@ -1906,6 +1966,31 @@
   "name": "Airbus a319 (Northwest New) by Aviation Person",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/nwa_a319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/nwa_a319.png"
+  },
+	{
+  "name": "Airbus a319 (FlyOne) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Flyone_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Flyone_A319.png"
+  },
+	{
+  "name": "Airbus a319 (Qatar Amiri Flight) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_A319.png"
+  },
+	{
+  "name": "Airbus a319 (Emirates) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_A319.png"
+  },
+	{
+  "name": "Airbus a319 (Etihad) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Etihad_A319.png"
+  },
+	{
+  "name": "Airbus a319 (NiceAir) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Niceair_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Niceair_A319.png"
   },
 	{
   "name": "Airbus a319 (Air Senegal) by Nero",
