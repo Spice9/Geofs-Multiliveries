@@ -1033,11 +1033,6 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_124.jpg"
   },
    {
-  "name": "Airbus a320neo (Mihin Lanka) by SriLankanflyer",
-  "livery": "126",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_126.jpg"
-  },
-   {
   "name": "Airbus a320neo (Air Ceylon) by SriLankanflyer",
   "livery": "128",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_128.jpg"
@@ -1156,12 +1151,6 @@
   "name": "Airbus a320neo (TUI) by Jaden Aviation",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_198.jpg"
-  },
-	
-	{
-  "name": "Airbus a320neo (Air New Zealand) by SriLankan flyer",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_204.jpg"
   },
 	{
   "name": "Airbus a320neo (Air Arabia) by Boeingbus737",
