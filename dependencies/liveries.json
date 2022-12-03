@@ -330,6 +330,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LynxAir_737-8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LynxAir_737-8.png"
   },
+	{
+  "name": "Boeing 737-800 (Solaseed) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png"
+	},
+	{
+  "name": "Uruqmi 737-800 (Uruqmi) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png"
+	},
+{
+  "name": "Boeing 737-800 (Wingo) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png"
+},
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -1053,9 +1068,9 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_122.jpg"
   },
    {
-  "name": "Airbus a320neo (Oneworld Srilankan Airlines) by SriLankanflyer",
-  "livery": "124",
-  "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_124.jpg"
+  "name": "Airbus a320neo (Oneworld Srilankan Airlines) by SriLankanflyer, updated by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/SriLankan_oneworld_a320_updated.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/SriLankan_oneworld_a320_updated.png"
   },
    {
   "name": "Airbus a320neo (Air Ceylon) by SriLankanflyer",
@@ -1164,8 +1179,8 @@
   },
 	{
   "name": "Airbus a320neo (Jazeera) by Boeingbus",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_189.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_189.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320JazeeraUpdated.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320JazeeraUpdated.jpg"
   },
 	{
   "name": "Airbus a320neo (Air France) by IUH Airways",
@@ -1179,8 +1194,8 @@
   },
 	{
   "name": "Airbus a320neo (Air Arabia) by Boeingbus737",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_206.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_206.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320AirArabiaUpdated.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320AirArabiaUpdated.jpg"
   },
 	{
   "name": "Airbus a320neo (Austrian) by Burner",
@@ -1432,6 +1447,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png"
   },
+{
+  "name": "Airbus A320neo (Fly Nero) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyNeroA32X.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyNeroA32X.png"
+},
 	{
   "name": "Airbus a320neo (Air Corsica) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_air_corsica.png",
