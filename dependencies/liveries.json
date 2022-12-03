@@ -319,7 +319,17 @@
   "name": "Southwest Desert Gold 737 MAX 8 By Luca B",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Desert%20Gold%20Southwest%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Desert%20Gold%20Southwest%20737MAX8.png"
-	},		
+	},
+	{
+  "name": "Sky 737 MAX 8 by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sky_737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sky_737-8.png"
+	},
+	{
+  "name": "Lynx Air 737 MAX 8 By Luca b",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lynx_737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lynx_737-8.png"
+	},
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -777,6 +787,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Singapore%20Airlines%20737-800.png"
   },
+	{
+  "name": "Boeing 737-800 (Corendon) by Coolpilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Corendon.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Corendon.png"
+	},
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -1428,7 +1443,12 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
   },
 	{
-  "name": "Airbus A320 Air India by Luke (Luca B)",
+  "name": "Air New Zealand Black A320N by Aviation Enthuasist",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png"		
+	},	
+	{
+  "name": "Airbus A320n Air India by Luke (Luca B)",
   "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Air_India_A320N.png",
   "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Air_India_A320N.png"
   },		
