@@ -311,40 +311,40 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUI%207M8.png"
   },
 	{
-  "name": "Southwest Canyon Blue 737 MAX 8 by Luke B",
+  "name": "Boeing 737 MAX 8 (Southwest Canyon Blue) by Luke B",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/SouthWest%20Canyonqm%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/SouthWest%20Canyonqm%20737MAX8.png"	
   },
         {
-  "name": "Southwest Desert Gold 737 MAX 8 By Luca B",
+  "name": "Boeing 737 MAX 8 (Southwest Desert Gold) By Luca B",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Desert%20Gold%20Southwest%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Desert%20Gold%20Southwest%20737MAX8.png"
   },
         {
-  "name": "Sky 737 MAX 8 by Luca",
+  "name": "Boeing 737 MAX 8 (Sky) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Skymark%20737-8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Skymark%20737-8.png"
   },
         {
-  "name": "Lynx Air 737 MAX 8 By Luca b",
+  "name": "Boeing 737 MAX 8 (Lynx Air) By Luca b",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LynxAir_737-8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LynxAir_737-8.png"
   },
 	{
-  "name": "Boeing 737-800 (Solaseed) by Nero",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png"
-	},
+  "name": "Boeing 737 MAX 8 (Icelandair 'Pink') By Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Pink.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Pink.png"
+  },
 	{
-  "name": "Uruqmi 737-800 (Uruqmi) by Nero",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png"
-	},
-{
-  "name": "Boeing 737-800 (Wingo) by Nero",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png"
-},
+  "name": "Boeing 737 MAX 8 (Icelandair 'Turquoise') By Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Turq.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Turq.png"
+  },
+	{
+  "name": "Boeing 737 MAX 8 (Icelandair 'Yellow') By Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png"
+  },
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -807,6 +807,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Corendon.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Corendon.png"
 	},
+	{
+  "name": "Boeing 737-800 (Solaseed) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Solaseed.png"
+	},
+	{
+  "name": "Uruqmi 737-800 (Uruqmi) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_Urumqi.png"
+	},
+{
+  "name": "Boeing 737-800 (Wingo) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_wingo.png"
+},
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -2024,10 +2039,10 @@
 	{
   "name": "Airbus a319 (Qatar Amiri Flight) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_A319.png",
+  "name": "Airbus a319 (Emirates) by Luca",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_A319.png"
   },
 	{
-  "name": "Airbus a319 (Emirates) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_A319.png"
   },
@@ -2045,6 +2060,11 @@
   "name": "Airbus a319 (Air Senegal) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg"
+  },
+	{
+  "name": "Airbus a319 (Czech Airlines 'SkyTeam') by FreedomAirways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20SkyTeam%20A320n.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20SkyTeam%20A320n.jpg"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
