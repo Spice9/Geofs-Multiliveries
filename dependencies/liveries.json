@@ -613,8 +613,8 @@
   },
 	{
   "name": "Boeing 737-800 (West Atlantic) by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/West_atlantic_737-800.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/West_atlantic_737-800.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/West%20atlantic%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/West%20atlantic%20737-800.png"
   },
  	{
   "name": "Boeing 737-800 (Eastar Jet) by Pawser",
@@ -813,9 +813,29 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Solaseed_738.png"
 	},
 	{
-  "name": "Uruqmi 737-800 (Uruqmi) by Nero",
+  "name": "Boeing 737-800 (Uruqmi) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Urumqi_738.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Urumqi_738.png"
+	},
+	{
+  "name": "Boeing 737-800 (SwiftAir Cargo) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiftair%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiftair%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (SwiftAir x Eastern) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiftair-Easterm%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiftair-Easterm%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (West Atlantic 1st) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/West%20atlantic%201st%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/West%20atlantic%201st%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (Boeing Converted Freighter) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/BCF%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/BCF%20737-800.png"
 	},
 {
   "name": "Boeing 737-800 (Wingo) by Nero",
@@ -2181,6 +2201,16 @@
   "name": "Boeing 787-10 (Emirates Year of the 50th) by Air George",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates%20Year%20of%20the%2050th%20787-10.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates%20Year%20of%20the%2050th%20787-10.png"
+  },
+	{
+  "name": "Boeing 787-10 (Air New Zealand White) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ%20white%2078X.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ%20white%2078X.png"
+  },
+	{
+  "name": "Boeing 787-10 (Boeing House) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-10.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-10.png"
   },
 	{
   "name": "Boeing 787-10 (Emirates Expo gold) by Luke",
