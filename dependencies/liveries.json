@@ -447,8 +447,8 @@
   },
 {
   "name": "Boeing 737-800 (TUI) by IUH Airways",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_282.5.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_282.5.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tawx.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tawx.jpg"
   },
 {
   "name": "Boeing 737-800 (Thomson) by IUH Airways",
@@ -841,6 +841,21 @@
   "name": "Boeing 737-800 (Go2Sky) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Go2Sky%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Go2Sky%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (IAI BDSF) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAI%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/IAI%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (Mid East Jet) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mid%20East%20Jet%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mid%20East%20Jet%20737-800.png"
+	},
+	{
+  "name": "Boeing 737-800 (Austrian Star Alliance) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_austrian_star_alliance.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_austrian_star_alliance.png"
 	},
 {
   "name": "Boeing 737-800 (Wingo) by Nero",
@@ -1503,6 +1518,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Capital%20Airlines%20A320neo.png"
   },
 	{
+  "name": "Airbus a320neo (ACJ 1) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ1%20A320N.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ1%20A320N.png"
+  },
+	{
   "name": "Air New Zealand Black A320N by Aviation Enthuasist",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png"		
@@ -1674,6 +1694,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/PEAS_E-145.png"
   },
 	{
+  "name": "Embraer E145 (Garuda Indonesia Skyteam) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Garuda%20Skyteam%20ERJ-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Garuda%20Skyteam%20ERJ-145.png"
+  },
+	{
   "name": "Embraer E145 (Aero) by Kyojuro ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png"
@@ -1755,6 +1780,11 @@
 		},
 	{
 			"name": "Airbus a220 (ITA Airways) by Luke ",
+			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TCA%20A220.png",
+			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TCA%20A220.png"
+		},
+	{
+			"name": "Airbus a220 (Trans Canada Airlines) by Luke ",
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_254.jpg",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_254.jpg"
 		},
@@ -2085,6 +2115,11 @@
   "name": "Airbus a319 (Air Senegal) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Senegal%20A319.jpg"
+  },
+	{
+  "name": "Airbus a319 (Italy Presidential Plane) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Italia%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Italia%20A319.png"
   },
 	{
   "name": "Airbus a319 (Czech Airlines 'SkyTeam') by FreedomAirways",
