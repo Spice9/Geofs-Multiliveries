@@ -341,6 +341,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Turq.png"
   },
 	{
+  "name": "Boeing 737 MAX 8 (Malta Air) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Malta_Air_737max.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Malta_Air_737max.png"
+  },
+	{
   "name": "Boeing 737 MAX 8 (Icelandair 'Yellow') By Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png"
@@ -857,6 +862,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_austrian_star_alliance.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800_austrian_star_alliance.png"
 	},
+	{
+  "name": "Boeing 737-800 (TUI fly) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png"
+},
+{
+  "name": "Boeing 737-800 (Republic of Indonesia) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png"
+},
 {
   "name": "Boeing 737-800 (Wingo) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Wingo_738.png",
@@ -1526,7 +1541,12 @@
   "name": "Air New Zealand Black A320N by Aviation Enthuasist",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ANZ_All_Blacks_A320.png"		
-	},	
+	},
+	{
+  "name": "Sky Express A320N by Aviation Lover & Boeingbus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/sky_express_a320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/sky_express_a320neo.png"
+  },		
 	{
   "name": "Airbus A320n Air India by Luke (Luca B)",
   "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Air_India_A320N.png",
@@ -1793,6 +1813,21 @@
 			"livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a220-two-twenty-fixed.jpg",
 			"mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a220-two-twenty-fixed.jpg"
 		},
+	{
+	                "name": "Airbus A220 (Air Baltic) by Luca B",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirBaltic_A220.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirBaltic_A220.png"
+	        },
+	{
+		        "name": "Airbus A220 (Air Baltic Estonia Flag) by Luca B",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Estonia_A220.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Estonia_A220.png"
+	        },
+	{
+		        "name": "Airbus A220 (Air Baltic Latvia Flag) by Luke",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latvia_A220.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latvia_A220.png"
+	        }, 
 	{
 		        "name": "Airbus a220 (Delta) by Luke",
 		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAL_A220.png",
@@ -2258,6 +2293,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-10.png"
   },
 	{
+  "name": "Boeing 787-10 (Boeing House Emirates) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_White_787-10.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Emirates_White_787-10.png"
+  },		
+	{
   "name": "Boeing 787-10 (Emirates Expo gold) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg"
@@ -2394,8 +2434,8 @@
   },
 	{
   "name": "Boeing 787-9 (Norse Atlantic) by BladesFlight YT",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_190.1.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_190.1.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Norse_Atlantic_B787-9fixed.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Norse_Atlantic_B787-9fixed.png"
   },
 	{
   "name": "Boeing 787-9 (United) by IUH Airways",
