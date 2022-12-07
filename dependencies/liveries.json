@@ -346,6 +346,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Malta_Air_737max.png"
   },
 	{
+  "name": "Boeing 737 MAX 8 (Air Europa x Flair) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FLAIOPEA.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FLAIOPEA.png"
+  },
+	{
+  "name": "Boeing 737 MAX 8 (Norwegian x Lynx) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LYNX_NORWE.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LYNX_NORWE.png"
+  },
+	{
   "name": "Boeing 737 MAX 8 (Icelandair 'Yellow') By Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png"
@@ -866,13 +876,28 @@
   "name": "Boeing 737-800 (TUI fly) by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-tuko.png"
-},
-{
+        },
+        {
   "name": "Boeing 737-800 (Republic of Indonesia) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Indonesia_737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/mainIndonesia_737-800.png"
-},
-{
+        },
+        {
+  "name": "Boeing 737-800 (Delta Skyteam) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_delta_skyteam.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_delta_skyteam.jpg"
+        },
+        {
+  "name": "Boeing 737-800 (S7 Airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7%20Airlines%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7%20Airlines%20737-800.png"
+        },
+        {
+  "name": "Boeing 737-800 (S7 Cargo) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7%20Cargo%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7%20Cargo%20737-800.png"
+        },
+        {
   "name": "Boeing 737-800 (Wingo) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Wingo_738.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Wingo_738.png"
@@ -1719,6 +1744,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Garuda%20Skyteam%20ERJ-145.png"
   },
 	{
+  "name": "Embraer E145 (Team Lufthansa) by Luca/Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Team%20Lufthansa%20E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Team%20Lufthansa%20E-145.png"
+  },
+	{
   "name": "Embraer E145 (Aero) by Kyojuro ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png"
@@ -1827,6 +1857,16 @@
 		        "name": "Airbus A220 (Air Baltic Latvia Flag) by Luke",
 		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latvia_A220.png",
 		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latvia_A220.png"
+	        }, 
+	{
+		        "name": "Airbus A220 (ITA airways White) by Luke",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20White%20A220.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20White%20A220.png"
+	        }, 
+	{
+		        "name": "Airbus A220 (RedWings) by Luke",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/RedWings%20A220.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/RedWings%20A220.png"
 	        }, 
 	{
 		        "name": "Airbus a220 (Delta) by Luke",
@@ -2160,6 +2200,21 @@
   "name": "Airbus a319 (Italy Presidential Plane) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Italia%20A319.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Italia%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Airbus Corporate jet D-ALEX) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ1%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ1%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Airbus Corporate jet VH-VHD) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ2%20A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ACJ2%20A319.png"
+  },
+	{
+  "name": "Airbus a319 (Air Moldova) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/air_moldova.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/air_moldova.png"
   },
 	{
   "name": "Airbus a319 (Czech Airlines 'SkyTeam') by FreedomAirways",
