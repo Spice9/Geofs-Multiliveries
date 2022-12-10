@@ -962,6 +962,11 @@
   "livery": "3.7",
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_3.7.jpg"
   },
+		{
+  "name": "Airbus a320neo (Merry Christmas) ",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_400.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_400.jpg"
+  },
 {
   "name": "Airbus a320neo (Scoot)",
   "livery": "4.6",
