@@ -19,5 +19,5 @@ Here is a good tutorial by Aerospace Rules: https://www.youtube.com/watch?v=jLFy
 > Export the texture file in the original resolution (IMPORTANT!),<br>
 > Join our Discord server and submit your livery in the respective channel. We are looking into alternatives for those without Discord. For now though, **DO NOT** use the issues page to submit liveries. 
 
-**Regarding 3.3 Support:**<br>
-3.3 is now the official GeoFS version, and as so this addon has been updated to work on 3.3!
+**Regarding 3.x Support:**<br>
+3.x is now the official GeoFS version, and as such this addon has been updated to work on 3.x!
