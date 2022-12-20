@@ -908,6 +908,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Firefly2.png"
 },
 	{
+  "name": "Boeing 737-800 (Batik Air Malaysia) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_batik_air_malaysia.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_batik_air_malaysia.jpg"
+},		
+	{
   "name": "Boeing 737-800 (Expedition Airlines) by Luca D",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/expedition73800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/expedition73800.png"
@@ -2379,8 +2384,8 @@
   },
 	{
   "name": "Boeing 787-10 (Boeing House) by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-10.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing%20787-10.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_211.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_211.png"
   },
 	{
   "name": "Boeing 787-10 (Boeing House Emirates) by Luca",
