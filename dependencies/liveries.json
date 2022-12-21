@@ -1744,11 +1744,6 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_313.jpg"
   },
 {
-  "name": "Embraer E145 (Embraer House) by Luke ",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer%20House%20livery%20E-145.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer%20House%20livery%20E-145.png"
-  },
-{
   "name": "Embraer E145 (Luxair Old) by Luke ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Luxair%20E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Luxair%20E-145.png"
@@ -1822,6 +1817,11 @@
   "name": "Emraer E145 (SAS) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_350.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_350.png"
+  },	
+	{
+  "name": "Emraer E145 (Embraer House) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png"
   },	
   {
   "name": "Airbus a220 (Breeze) ",
