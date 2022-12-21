@@ -911,7 +911,12 @@
   "name": "Boeing 737-800 (Batik Air Malaysia) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_batik_air_malaysia.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-800_batik_air_malaysia.jpg"
-},		
+},
+	{
+  "name": "Boeing 737-800 (Czech) by Freedom Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-czech.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-czech.jpg"
+},
 	{
   "name": "Boeing 737-800 (Expedition Airlines) by Luca D",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/expedition73800.png",
@@ -1613,7 +1618,27 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_Malta_A320_old.png"
   },
 	{
-  "name": "Airbus A320neo (Easyjet X BA) by Aviation Person",
+  "name": "Airbus a320neo (Yellow Viva) by Luca B",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_351.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_351.png"
+  },
+	{
+  "name": "Airbus a320neo (Qatar oneworld) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/QATAR_ow_a320.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/QATAR_ow_a320.png"
+  },
+	{
+  "name": "Airbus a320neo (Qatar X Indigo) by Luca b",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_x_Indigo_A320N.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qatar_x_Indigo_A320N.png"
+  },
+	{
+  "name": "Airbus a320neo (Iberia Oneworld) by luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia_Oneworld_A320N.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia_Oneworld_A320N.png"
+  },
+	{
+  "name": "Airbus a320neo (Easyjet X BA) by Aviation Person",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easy_x_BA.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easy_x_BA.png"
   },	
@@ -2260,6 +2285,21 @@
   "name": "Airbus a319 (Air Moldova) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/air_moldova.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/air_moldova.png"
+  },
+	{
+  "name": "Airbus a319 (S7 Oneworld Old) by luca b",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7_Old_Oneworld_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7_Old_Oneworld_A319.png"
+  },
+	{
+  "name": "Airbus a319 (S7 Oneworld New) by luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7_Oneworld_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/S7_Oneworld_A319.png"
+  },
+	{
+  "name": "Airbus a319 (Finnair Old) by luca b",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair_Old_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair_Old_A319.png"
   },
 	{
   "name": "Airbus a319 (Czech Airlines 'SkyTeam') by FreedomAirways",
