@@ -2769,7 +2769,12 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Oman_air_787-9_Unpainted.png"
   },
 	{
-  "name": "Boeing 789 Red House Livery by kyojuro",
+  "name": "Boeing 787-9 (Norwegian Unicef) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_398.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_398.png"
+  },
+	{
+  "name": "Boeing 787-9 (Boeing House Red) by kyojuro",
   "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png",
   "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png"
 	}
