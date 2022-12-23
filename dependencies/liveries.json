@@ -937,6 +937,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Garuda_737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Garuda_737-800.png"
 },
+	{
+  "name": "Boeing 737-800 (Air Changan) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_397.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_397.jpg"
+},
+	{
+  "name": "Boeing 737-800 (Badr) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg"
+},		
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
