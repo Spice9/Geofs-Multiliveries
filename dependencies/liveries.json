@@ -949,6 +949,21 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_356.jpg"
 },
 	{
+  "name": "Boeing 737-800 (Texel Air) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_359.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_359.png"
+},
+	{
+  "name": "Boeing 737-800 (ETF) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_370.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_370.png"
+},
+	{
+  "name": "Boeing 737-800 (Serene Air) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_386.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_386.png"
+},		
+	{
   "name": "Boeing 737-800 (Badr) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg"
@@ -1675,8 +1690,8 @@
   },	
 	{
   "name": "Airbus a320neo (Citilink) by Nero",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_388.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_388.jpg" 
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/citilink_fixed..png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/citilink_fixed..png" 
   },
 	{
   "name": "Airbus a320neo (Sky Airlines) by Nero",
