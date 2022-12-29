@@ -962,6 +962,11 @@
   "name": "Boeing 737-800 (Serene Air) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_386.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_386.png"
+},
+	{
+  "name": "Boeing 737-800 (Azul Cargo) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_393.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_393.png"
 },		
 	{
   "name": "Boeing 737-800 (Badr) by Nero",
