@@ -1039,10 +1039,15 @@
   "mptx": "https://www.geo-fs.com/backend/aircraft/repository/airbus a320-214 (Easyjet)_427352_2871/texture_3.7.jpg"
   },
 		{
-  "name": "Airbus a320neo (Merry Christmas) ",
+  "name": "Airbus a320neo (Merry Christmas 2022) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_400.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_400.jpg"
   },
+	{
+  "name": "Airbus a320neo (Happy New Year 2023) by Aviation Person",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_366.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_366.png"
+  },		
 {
   "name": "Airbus a320neo (Scoot)",
   "livery": "4.6",
