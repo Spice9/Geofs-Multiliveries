@@ -1709,6 +1709,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/citilink_fixed..png" 
   },
 	{
+  "name": "Airbus a320neo (Air Arabia Old) by WeirdPunGuy/Boeingbus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_361.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_361.png"
+  },		
+	{
   "name": "Airbus a320neo (Sky Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Sky_airlines.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Sky_airlines.png"
@@ -2474,8 +2479,8 @@
   },
 	{
   "name": "Boeing 787-10 (Malaysia Airlines) by AI",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_212.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_362.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_362.jpg"
   },
 	{
   "name": "Boeing 787-10 (Qatar) by Boeingbus",
