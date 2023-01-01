@@ -362,6 +362,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Yellow.png"
   },
 	{
+  "name": "Boeing 737 MAX 8 (GOL) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_367.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_367.png"
+  },		
+	{
   "name": "Boeing 737 MAX 8 (Icelandair Old) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Old.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Old.png"
@@ -972,7 +977,12 @@
   "name": "Boeing 737-800 (Nordstar Winter Universiade Krasnoyarsk) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_384.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_384.png"
-},		
+},
+	{
+  "name": "Boeing 737-800 (GOL) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_365.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_365.png"
+},
 	{
   "name": "Boeing 737-800 (Badr) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg",
@@ -1890,12 +1900,22 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aero%20E145.png"
   },
 	{
-  "name": "Emraer E145 (SAS) by Burner",
+  "name": "Embraer E145 (SAS) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_350.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_350.png"
-  },	
+  },
 	{
-  "name": "Emraer E145 (Embraer House) by Luca",
+  "name": "Embrear E145 (Western Air) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_363.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_363.png"
+  },
+	{
+  "name": "Emraer E145 (TAR Aerolineas) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_364.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_364.png"
+  },		
+	{
+  "name": "Embraer E145 (Embraer House) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png"
   },	
