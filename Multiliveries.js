@@ -48,6 +48,11 @@ buttonDiv.addEventListener("click", function() {
   if (opened) { ui.notification.show("Panel Already Open"); return;}
    mlui = window.open("https://mlUI2.ariakimtaiyo.repl.co", "_blank", "height=1000,width=1500");
   opened = true;
+  if(!mlui || mlui.closed || typeof mlui.closed=='undefined') 
+{ 
+    ui.notification.show("Please allow popups on GeoFS");
+    opened = false;
+}
 });
 document.body.appendChild(buttonDiv);
 
