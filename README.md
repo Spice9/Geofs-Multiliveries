@@ -6,7 +6,7 @@ Join us on Discord! [![Discord](https://img.shields.io/discord/10088081281895793
 
 # Geofs-Multiliveries
 **A livery addon authored by Spice 9 and Ariakim Taiyo:**<br>
-Adds `570` new liveries to the simulator.<br>
+Adds `571` new liveries to the simulator.<br>
 Features new liveries for the A319-100, A320neo, 787-10, 787-9, P8, and the 737-MAX 8. <br>
 Partial multilayer visibility is supported; Only those who are using this addon will see custom liveries.<br>
 There are "helper tags" added to supported airframes: look for the "[Mulitliveries Frame]" tag at the end of the aircraft name to see which are compatible.<br>
