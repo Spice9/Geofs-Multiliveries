@@ -1,4 +1,6 @@
 //client side
+let debug = false; //turn this to true if you are experiencing issues. This will help us fix the issue.
+
 let opened = false;
 let livObj;
 let updateMultiplayer = function() {};
@@ -9,6 +11,7 @@ let message = ""
 let contributors;
 let overlayEnabled = false;
 function changeLivery(livery) {
+  if (debug) console.log("Livery Change Request as " + "'" + livery + "'");
   if (livery === "inv") {
     console.log("Invalid client, please use the original code.");
     return;
@@ -22,13 +25,15 @@ function changeLivery(livery) {
   }
   if (livery.toString().includes("https://")) {
     geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 0);
+    if (debug) console.log("livery changed to " + livery);
   } else {
     geofs.aircraft.instance.loadLivery(livery);
+    if (debug) console.log("livery changed to " + livery);
   }
 }
 
 window.addEventListener('message', function(e) {
-  //console.log(e)
+  if (debug) console.log("Event Recieved: " + e);
   if (e.origin !== "https://mlui2.ariakimtaiyo.repl.co") return;
 	changeLivery(e.data);
 } , false);
@@ -45,12 +50,17 @@ buttonDiv.innerHTML = 'Multiliveries<i class="material-icons">flight_land</i>'
 buttonDiv.id = "mlBttn";
 buttonDiv.addEventListener("click", function() {
   if (typeof mlui === "object") {if (mlui.closed) {opened = false;}}
-  if (opened) { ui.notification.show("Panel Already Open"); return;}
+  if (opened) { 
+    ui.notification.show("Panel is open in another window"); 
+    if (debug) console.log("Duplicate open attempt"); 
+    return;
+  }
    mlui = window.open("https://mlUI2.ariakimtaiyo.repl.co", "_blank", "height=1000,width=1500");
   opened = true;
   if(!mlui || mlui.closed || typeof mlui.closed=='undefined') 
 { 
     ui.notification.show("Please allow popups on GeoFS");
+  if (debug) console.log("No Popup Permission");
     opened = false;
 }
 });
@@ -161,5 +171,4 @@ geofs.aircraft.Aircraft.prototype.change = function(a, b, c, d) {
     });
     geofs.api.analytics.event("aircraft", geofs.aircraftList[a].name);
     return c
-}
-;
+};
