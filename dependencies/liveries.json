@@ -2196,11 +2196,6 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_233.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_233.jpg"
   },
-{
-  "name": "Airbus a319 (Czech Air) by freedom airways",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_224.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_224.jpg"
-  },
 	{
   "name": "Airbus a319 (Air Canada Rogue) by Pawser Aviation",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_236.jpg",
@@ -2416,6 +2411,11 @@
   "name": "Airbus a319 (Czech Airlines 'SkyTeam') by FreedomAirways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20SkyTeam%20A320n.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20SkyTeam%20A320n.jpg"
+  },
+	{
+  "name": "Airbus a319 (Czech Airlines) by FreedomAirways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20A319%20NEW.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20A319%20NEW.jpg"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
