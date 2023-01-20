@@ -984,10 +984,15 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_365.png"
 },
 	{
-  "name": "Boeing 737-800 (Asia Cargo Airlines) by Nero",
+  "name": "Boeing 737-800 (Asia Cargo Airlines #1) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_376.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_376.png"
 },
+	{
+  "name": "Boeing 737-800 (Asia Cargo Airlines #2) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_352.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_352.png"
+},		
 	{
   "name": "Boeing 737-800 (Badr) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_353.jpg",
