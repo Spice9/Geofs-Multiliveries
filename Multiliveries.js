@@ -6,7 +6,6 @@ let livObj;
 let updateMultiplayer = function() {};
 let mlui = 0;
 let buttonDiv = document.createElement("button");
-let element = document.getElementById("mlBttn");
 let message = ""
 let contributors;
 let overlayEnabled = false;
@@ -66,6 +65,7 @@ buttonDiv.addEventListener("click", function() {
 });
 document.body.appendChild(buttonDiv);
 
+let element = document.getElementById("mlBttn");
 if (document.getElementsByClassName("fmc-btn").length == 0) {
 document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(buttonDiv);
 document.getElementsByClassName("geofs-ui-bottom")[0].insertBefore(element, buttonDiv);
