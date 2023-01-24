@@ -2433,9 +2433,14 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Czech%20A319%20New.jpg"
   },
 	{
+  "name": "Airbus a319 (Edelweiss) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_354.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_354.png"
+   },		
+	{
   "name": "Airbus a319 (Azerbaijan Air) by Coolpilot11",
-  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/AzerbaijanAir.png",
-  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/AzerbaijanAir.png"
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png",
+  "mptx": https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
