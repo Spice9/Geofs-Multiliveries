@@ -103,7 +103,7 @@ updateMultiplayer();
 }, 5000)
 document.querySelectorAll('[data-aircraft]').forEach(function(e){
    var elemName = e.outerText;
-    if (elemName.includes("Boeing 737-800 [Spice9] (by Spice_9)") || elemName.includes("Boeing 737-200 (by AriakimTaiyo)") || elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
+    if (elemName.includes("Boeing 737-800 [Spice9] (by Spice_9)") || elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
        e.innerHTML = e.innerHTML + " [Multiliveries Frame]" 
     }
 });
