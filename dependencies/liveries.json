@@ -1,4 +1,9 @@
 { "aircraft": [
+{
+  "name": "Boeing 737-200 (TEST)",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20TEST.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20TEST.png"
+  },
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
   "livery": "1",
