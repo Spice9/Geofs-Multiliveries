@@ -1012,7 +1012,12 @@
   "name": "Boeing 737-800 (Asia Cargo x JNE) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20Cargo%20x%20JNE.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20Cargo%20x%20JNE.png"
-},		
+},	
+	{
+  "name": "Boeing 737-200 (TEST) by Burner",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20TEST.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20TEST.png"
+},	
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
