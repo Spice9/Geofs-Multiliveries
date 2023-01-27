@@ -23,7 +23,7 @@ function changeLivery(livery) {
     geofs.fx.expOverlay.update();
   }
   if (livery.toString().includes("https://")) {
-    geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 0);
+    geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 0); //index = 1 for 732, will change soon
     if (debug) console.log("livery changed to " + livery);
   } else {
     geofs.aircraft.instance.loadLivery(livery);
