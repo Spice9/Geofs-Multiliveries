@@ -1012,7 +1012,23 @@
   "name": "Boeing 737-800 (Asia Cargo x JNE) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20Cargo%20x%20JNE.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20Cargo%20x%20JNE.png"
-},	
+},
+	{
+  "name": "Boeing 737-200 (Chrono) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732Chrono.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732Chrono.png"
+},
+	{
+  "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png"
+},
+	{
+  "name": "Boeing 737-200 (Canadian North) by Kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_369.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_369.png"
+},		
+	
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
@@ -1750,8 +1766,8 @@
   },
 	{
   "name": "Airbus a320neo (Delta) by Im Not Funny",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_new.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_new.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_extra_new.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_extra_new.png"
   },		
 	{
   "name": "Airbus a320neo (Sky Airlines) by Nero",
