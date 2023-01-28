@@ -1,11 +1,4 @@
 { "aircraft": [
-{
-  "name": "Boeing 737-200 (Air Lanka) by Aviation Person",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_Lanka_737_2.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_Lanka_737_2.png",
-  "pbrComposite": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20composite.png",
-  "normalMap": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200%20Normal%20map.png"
-  },
   {
   "name": "Boeing 737 Max 8 (Jet Airways)",
   "livery": "1",
