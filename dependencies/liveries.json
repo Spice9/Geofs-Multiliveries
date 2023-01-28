@@ -1029,8 +1029,8 @@
 },
 	{
   "name": "Boeing 737-200 (Chrono Aviation) by Coolpilot",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/i01_texture_371.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/i01_texture_371.png",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_371.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_371.png",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
