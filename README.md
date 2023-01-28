@@ -22,3 +22,29 @@ Here is a good tutorial by Aerospace Rules: https://www.youtube.com/watch?v=jLFy
 **Regarding Supported Browsers:**<br>
 This addon was developed and tested on Chrome. Most browsers will support the addon, however there have been problems reported with Microsoft Edge and Firefox. <br>
 If you cannot get the latest revision to function (the one with the dedicated menu popup) then use an older version for the time being.
+
+**PBR Liveries:**<br>
+
+Format for **PBR LIVERIES ONLY**:<br>
+```json
+{
+  "name": "Boeing 737-200 (Airline Name) by Creator",
+  "livery": "link_to_livery",
+  "mptx": "link_to_multiplayer_texture"
+  "pbrComposite": "link_to_pbrMetallicRoughness_composite_map"
+  "normalMap": "link_to_opengl_normal_map"
+  }```
+
+Note the two properties, "pbrComposite" and "normalMap".<br>
+Both must be used in a PBR livery, otherwise it will not work with the addon. If you only wish to change one, you may link back to the default liveries at,<br>
+`https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png`<br>
+`https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png`<br>
+and change the other one.<br>
+
+To ensure compatibility with the search algorithm, please name your 737-200 liveries with "Boeing 737-200" as the aircraft name.<br>
+
+This system only works on the 737-200 currently, and in order to test it, you can paste using this format into the custom livery tab:<br>
+`"colorMapUrl|pbrCompositeMapUrl|normalMapUrl"`
+Note the "|" separating them. This is the format that is used by the addon natively to communicate the entire selection in a single string.<br>
+
+If you do not know what you are doing, please wait until a tutorial has been made by myself or a trusted contributor with PBR mapping skills. <br>
