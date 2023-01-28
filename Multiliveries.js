@@ -23,7 +23,19 @@ function changeLivery(livery) {
     geofs.fx.expOverlay.update();
   }
   if (livery.toString().includes("https://")) {
-    geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 0); //index = 1 for 732, will change soon
+    if (geofs.aircraft.instance.id == 4140) {
+      if (livery.toString.includes("|")) {
+        var sL = livery.split("|");
+        var composite = sL[1];
+        var normal = sL[2];
+        geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, composite, 2);
+        geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, normal, 0);
+        livery = sL[0];
+      }
+      geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 1);
+      return;
+    }
+    geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0] ["3dmodel"]._model, livery, 0);
     if (debug) console.log("livery changed to " + livery);
   } else {
     geofs.aircraft.instance.loadLivery(livery);
@@ -100,13 +112,14 @@ function setupMP() {
 setupMP()
 mpRefresh = setInterval(function(){  
 updateMultiplayer();
-}, 5000)
-document.querySelectorAll('[data-aircraft]').forEach(function(e){
+  document.querySelectorAll('[data-aircraft]').forEach(function(e){
    var elemName = e.outerText;
     if (elemName.includes("Boeing 737-800 [Spice9] (by Spice_9)") || elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
        e.innerHTML = e.innerHTML + " [Multiliveries Frame]" 
     }
 });
+}, 5000)
+
 console.log("Loaded!");
 
 await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt")
