@@ -1034,6 +1034,13 @@
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
+	{
+  "name": "Boeing 737-200 (Chrono Aviation) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-200_British_Airtours.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-200_British_Airtours.jpg",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
                 { 
   "name": "Boeing P8 Poseidon (US Navy)",
   "livery": "1.1",
