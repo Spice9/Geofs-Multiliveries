@@ -1029,8 +1029,8 @@
 },
 	{
   "name": "Boeing 737-200 (Chrono Aviation) by Coolpilot",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_371.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_371.png",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732Chrono.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732Chrono.png",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
@@ -1038,6 +1038,34 @@
   "name": "Boeing 737-200 (British Airtours) by Freedom Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-200_British_Airtours.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Boeing_737-200_British_Airtours.jpg",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Peidmont) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732piedmont.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/732piedmont.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Rutaca Airlines) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200_Rutaca_airlines.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200_Rutaca_airlines.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Venozolana) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200_Venezolana.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737-200_Venezolana.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Nolinor) by Welo",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nolinor_737-200.jpgg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nolinor_737-200.jpg",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
