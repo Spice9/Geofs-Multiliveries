@@ -24,7 +24,7 @@ function changeLivery(livery) {
   }
   if (livery.toString().includes("https://")) {
     if (geofs.aircraft.instance.id == 4140) {
-      if (livery.toString.includes("|")) {
+      if (livery.toString().includes("|")) {
         var sL = livery.split("|");
         var composite = sL[1];
         var normal = sL[2];
