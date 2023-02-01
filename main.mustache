@@ -33,7 +33,8 @@ Format for **PBR LIVERIES ONLY**:<br>
   "mptx": "link_to_multiplayer_texture"
   "pbrComposite": "link_to_pbrMetallicRoughness_composite_map"
   "normalMap": "link_to_opengl_normal_map"
-  }```
+  }
+  ```
 
 Note the two properties, "pbrComposite" and "normalMap".<br>
 Both must be used in a PBR livery, otherwise it will not work with the addon. If you only wish to change one, you may link back to the default liveries at,<br>
