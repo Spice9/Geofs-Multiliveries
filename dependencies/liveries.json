@@ -1014,6 +1014,12 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asia%20Cargo%20x%20JNE.png"
 },
 	{
+  "name": "Boeing 737-800 (TUI-Haribo) by b-dondon",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_372.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_372.png"
+},		
+		
+	{
   "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
@@ -1801,7 +1807,12 @@
   "name": "Airbus a320neo (Delta) by Im Not Funny",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_extra_new.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_355_extra_extra_new.png"
-  },		
+  },
+	{
+  "name": "Airbus a320neo (Frontier - Grizwald the bear) by Im Not Funny",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_373.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_373.png"
+  },
 	{
   "name": "Airbus a320neo (Sky Airlines) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Sky_airlines.png",
