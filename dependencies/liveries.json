@@ -365,7 +365,12 @@
   "name": "Boeing 737 MAX 8 (GOL) by Coolpilot",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_367.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_367.png"
-  },		
+  },
+	{
+  "name": "Boeing 737 MAX 8 (Alaska Airlines Seattle Kraken) by b-dondon",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alaska_Airlines_Seattle_Kraken_737_max_8_livery_new_edition.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alaska_Airlines_Seattle_Kraken_737_max_8_livery_new_edition.png"
+  },
 	{
   "name": "Boeing 737 MAX 8 (Icelandair Old) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Old.png",
@@ -1015,8 +1020,8 @@
 },
 	{
   "name": "Boeing 737-800 (TUI-Haribo) by b-dondon",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_372.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_372.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUIfly_haribo_goldbAIR_737-800_livery.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUIfly_haribo_goldbAIR_737-800_livery.png"
 },		
 		
 	{
