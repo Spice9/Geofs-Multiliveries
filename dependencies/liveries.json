@@ -1075,8 +1075,8 @@
 },
 	{
   "name": "Boeing 737-200 (Nolinor) by Welo",
-  "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Full_Nolinor_732_Livery.jpg",
-  "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Full_Nolinor_732_Livery.jpg",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Final_Nolinor_732_livery.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Final_Nolinor_732_livery.jpg",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
