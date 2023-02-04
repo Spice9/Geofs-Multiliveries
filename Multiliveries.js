@@ -118,7 +118,7 @@ updateMultiplayer();
        e.innerHTML = e.innerHTML + " [Multiliveries Frame]" 
     }
 });
-}, 5000)
+}, 50000000000000000)
 
 console.log("Loaded!");
 
