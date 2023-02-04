@@ -115,10 +115,10 @@ updateMultiplayer();
   document.querySelectorAll('[data-aircraft]').forEach(function(e){
    var elemName = e.outerText;
     if (elemName.includes("Boeing 737-800 [Spice9] (by Spice_9)") || elemName.includes("Airbus a320neo (Iberia) (by Spice_9)") || elemName.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || elemName.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || elemName.includes("Airbus A319 (Finnair)  (by GT-VRA)")) {
-       e.innerHTML = e.innerHTML + " [Multiliveries Frame]" 
+       if (!e.innerHTML.includes("Multiliveries")) e.innerHTML = e.innerHTML + " [Multiliveries Frame]";
     }
 });
-}, 50000000000000000)
+}, 5000)
 
 console.log("Loaded!");
 
