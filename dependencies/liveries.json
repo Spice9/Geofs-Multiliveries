@@ -1731,7 +1731,7 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Bamboo_airways.png"
   },
 {
-  "name": "Airbus A320neo (Fly Nero) by Nero",
+  "name": "Airbus a320neo (Fly Nero) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyNeroA32X.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyNeroA32X.png"
 },
@@ -3010,5 +3010,15 @@
   "name": "Boeing 787-9 (Boeing House Red) by kyojuro",
   "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png",
   "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png"
+	},
+{
+  "name": "Boeing 787-9 (JAL 'Golden Tsurmaru') by kyojuro",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/3469ae5d5ce9c8fa3967a56578971fb506f03eb3/JAL%20Tsurmara%20789.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/3469ae5d5ce9c8fa3967a56578971fb506f03eb3/JAL%20Tsurmara%20789.png"
+	},
+{
+  "name": "Boeing 787-9 (Hawaiian Airlines') by b-dondon",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/bfb7663de6fd37463231c64f611c8a574ac32b7b/Hawaiian_Airline_787-9_livery.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/bfb7663de6fd37463231c64f611c8a574ac32b7b/Hawaiian_Airline_787-9_livery.jpg"
 	}
   ]}
