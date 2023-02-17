@@ -375,7 +375,17 @@
   "name": "Boeing 737 MAX 8 (Icelandair Old) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Old.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Icelandair%20737%20MAX8%20Old.png"
-  },		
+  },	
+	{
+  "name": "Boeing 737 MAX 8 (Air India) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20India%20737MAX8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20India%20737MAX8.png"
+  },	
+{
+  "name": "Boeing 737 MAX 8 (Air India Express) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png"
+  },	
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -1836,9 +1846,14 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo_Sky_airlines.png"
   },		
 	{
-  "name": "Airbus a320neo (unpainted) by b don don",
+  "name": "Airbus a320neo (Unpainted) by B-Dondon",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/0bad70f674ded2bf2580e478aed3be2fe8b2e5d5/image.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/0bad70f674ded2bf2580e478aed3be2fe8b2e5d5/image.png"
+  },	
+	{
+  "name": "Airbus a320neo (Alitalia) by FG3972",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320n.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320n.png"
   },	
 	{
   "name": "Embraer E145 (Star air) ",
@@ -2539,6 +2554,11 @@
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png"
   },
+	{
+  "name": "Airbus a319 (American Airlines 'Allegheny') by B-Dondon",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/American%20Allegheny%20A319.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/American%20Allegheny%20A319.jpg"
+  },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -3012,18 +3032,23 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_398.png"
   },
 	{
-  "name": "Boeing 787-9 (Boeing House Red) by kyojuro",
+  "name": "Boeing 787-9 (Boeing House Red) by Kyojuro",
   "livery": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png",
   "mptx": "https://raw.githubusercontent.com/BoeingBus747/GitStorage/main/Red789House.png"
 	},
 {
-  "name": "Boeing 787-9 (JAL 'Golden Tsurmaru') by kyojuro",
+  "name": "Boeing 787-9 (JAL 'Golden Tsurmaru') by Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/3469ae5d5ce9c8fa3967a56578971fb506f03eb3/JAL%20Tsurmara%20789.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/3469ae5d5ce9c8fa3967a56578971fb506f03eb3/JAL%20Tsurmara%20789.png"
 	},
 {
-  "name": "Boeing 787-9 (Hawaiian Airlines') by b-dondon",
+  "name": "Boeing 787-9 (Hawaiian Airlines') by B-Dondon",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/bfb7663de6fd37463231c64f611c8a574ac32b7b/Hawaiian_Airline_787-9_livery.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/bfb7663de6fd37463231c64f611c8a574ac32b7b/Hawaiian_Airline_787-9_livery.jpg"
+	},
+{
+  "name": "Boeing 787-9 (Royal Brunei) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Brunei%20787-9.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Royal%20Brunei%20787-9.png"
 	}
   ]}
