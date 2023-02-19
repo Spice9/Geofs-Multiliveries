@@ -3,11 +3,13 @@ on:
     types: [opened]
 jobs:
   titlePrefixCheck:
+    permissions: write-all
+    env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: 'main'
     runs-on: ubuntu-latest
     steps:
       - if: ${{ github.actor }} == 'Ariakim-Taiyo'
         name: Close Issue
         uses: peter-evans/close-issue@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: 'main'
+        
