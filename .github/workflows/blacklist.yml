@@ -9,7 +9,7 @@ jobs:
           BRANCH_NAME: 'main'
     runs-on: ubuntu-latest
     steps:
-      - if: ${{ github.actor }} == 'MatthewaMorgan'
+      - if: github.actor == 'MatthewaMorgan'
         name: Close Issue
         uses: peter-evans/close-issue@v2
         with:
