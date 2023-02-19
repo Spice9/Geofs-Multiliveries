@@ -12,4 +12,7 @@ jobs:
       - if: ${{ github.actor }} == 'Ariakim-Taiyo'
         name: Close Issue
         uses: peter-evans/close-issue@v2
-        
+        with:
+          comment: |
+           You have been blacklisted from submitting issues.
+           Reason: Disregarding posted warnings regarding livery submissions.
