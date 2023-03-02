@@ -386,6 +386,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png"
   },	
+	{
+  "name": "Boeing 737 MAX 8 (Sunwing) by FightePilot 221",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sunwing%20737%20MAX8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sunwing%20737%20MAX8.png"
+  },	
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -1033,6 +1038,21 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUIfly_haribo_goldbAIR_737-800_livery.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TUIfly_haribo_goldbAIR_737-800_livery.png"
 },		
+{
+  "name": "Boeing 737-800 (GOL 'Old') by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%20Old%20738.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%20Old%20738.png"
+},	
+	{
+  "name": "Boeing 737-800 (GOL '10y Anos') by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%2010%20Anos%20738.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%2010%20Anos%20738.png"
+},	
+	{
+  "name": "Boeing 737-800 (Mercado Livre Cargo) by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mercado%20Livre%20738.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mercado%20Livre%20738.png"
+},	
 		
 	{
   "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
@@ -1855,6 +1875,26 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320n.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320n.png"
   },	
+{
+  "name": "Airbus a320neo (TAM) by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TAM%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TAM%20A320neo.png"
+  },	
+{
+  "name": "Airbus a320neo (Jetlines) by FighterPilot 221",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetlines%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetlines%20A320neo.png"
+  },	
+{
+  "name": "Airbus a320neo (VIVA Air 'Pink') by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Viva%20pink%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Viva%20pink%20A320neo.png"
+  },
+{
+  "name": "Airbus a320neo (LATAM 'Miles card') by Romain10",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latam%20miles%20A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latam%20miles%20A320neo.png"
+  },
 	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
