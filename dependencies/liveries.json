@@ -2696,7 +2696,7 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex13.3pacwelo.jpg"
   },
 {
-  "name": "SAAB 340 (Flybe Purple) by Welo",
+  "name": "SAAB 340 (Flybe Purple) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex14fbepurpwelo.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex14fbepurpwelo.jpg"
   },
@@ -2704,6 +2704,11 @@
   "name": "SAAB 340 (Silver) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex15silvnero.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex15silvnero.jpg"
+  },
+		{
+  "name": "SAAB 340 (Air France) by FG Airlines",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex16affg.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex16affg.jpg"
   },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
