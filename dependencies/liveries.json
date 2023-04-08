@@ -1852,8 +1852,8 @@
   },
 	{
   "name": "Airbus a320neo (Frontier - Grizwald the bear) by Im Not Funny",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_373.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_373.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texfrnimnotfunny.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texfrnimnotfunny.jpg"
   },
 	{
   "name": "Airbus a320neo (Royal Brunei) by Coolpilot",
@@ -2691,11 +2691,20 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture12airostrava_fre.jpg"
   },
 {
-  "name": "SAAB 340 (Pacific Coastal) by welo",
+  "name": "SAAB 340 (Pacific Coastal) by Welo",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex13.3pacwelo.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex13.3pacwelo.jpg"
   },
-
+{
+  "name": "SAAB 340 (Flybe Purple) by Welo",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex14fbepurpwelo.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex14fbepurpwelo.jpg"
+  },
+	{
+  "name": "SAAB 340 (Silver) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex15silvnero.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex15silvnero.jpg"
+  },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
