@@ -1040,8 +1040,8 @@
 },		
 {
   "name": "Boeing 737-800 (GOL 'Old') by Romain10",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%20Old%20738.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/GOL%20Old%20738.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/124.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/124.jpg"
 },	
 	{
   "name": "Boeing 737-800 (GOL '10y Anos') by Romain10",
@@ -2710,6 +2710,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex16affg.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tex16affg.jpg"
   },
+		{
+  "name": "SAAB 340 (Logan Air) by FG Airlines",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/125.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/125pg"
+  },
   {
   "name": "Boeing 787-10 (Vietnam Airlines) ",
   "livery": "41",
@@ -3086,6 +3091,11 @@
   "name": "Boeing 787-9 (El Al USA livery) by AirGeorge",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/El%20Al%20USA%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/El%20Al%20USA%20787-9.png"
+  },
+		{
+  "name": "Boeing 787-9 (El Al Retro) Ryubuano",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/123.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/123.jpg"
   },
 	{
   "name": "Boeing 787-9 (North West) by Kyojuro",
