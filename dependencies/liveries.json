@@ -1919,7 +1919,13 @@
   "name": "Airbus a320neo (LATAM 'Miles card') by Romain10",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latam%20miles%20A320neo.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Latam%20miles%20A320neo.png"
-  },	
+  },
+{
+   "name": "Airbus a320neo (AeroAlta Columbia - Fictional) by TheEMFanner",
+   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_378.png",
+   "mpyx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_378.png"
+   },	
+		
 {
   "name": "Airbus a320neo (super air jet) by nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo._super_air_jet.png",
@@ -2870,7 +2876,12 @@
   "name": "Boeing 787-10 (Emirates Year of Zayed) by WeirdPunGuy/Boeingbus",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_368.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_368.jpg"
-  },		
+  },
+	{
+  "name": "Boeing 787-10 (Malgeria - Fictional) by TheEMFanner",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_379.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_379.png"
+  },
 	{
   "name": "Boeing 787-10 (Emirates Expo gold) by Luke",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg",
