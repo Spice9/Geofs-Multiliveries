@@ -380,7 +380,12 @@
   "name": "Boeing 737 MAX 8 (Air India) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20India%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20India%20737MAX8.png"
-  },	
+  },
+	{
+  "name": "Boeing 737 MAX 8 (CopaAirlines) by Matheusromain",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/COPASSI.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/COPASSI.jpg"
+  },
 {
   "name": "Boeing 737 MAX 8 (Air India Express) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png",
@@ -1925,7 +1930,11 @@
    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_378.png",
    "mpyx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_378.png"
    },	
-		
+{
+   "name": "Airbus a320neo (TUI Orange2fly) by Aviation Person",
+   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/eb16f86a4b9e3f1756e8e8d71823a8248018e96e/TUI_A320.png",
+   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/eb16f86a4b9e3f1756e8e8d71823a8248018e96e/TUI_A320.png"
+   },		
 {
   "name": "Airbus a320neo (super air jet) by nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/a320neo._super_air_jet.png",
@@ -2688,8 +2697,8 @@
   },
 {
   "name": "SAAB 340 (Westjet) by Borderz",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/10.jpg",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/10.jpg"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_392.jpeg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_392.jpeg"
   },
 {
   "name": "SAAB 340 (Purolator) by Borderz",
