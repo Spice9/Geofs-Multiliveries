@@ -9,6 +9,30 @@ let buttonDiv = document.createElement("button");
 let message = ""
 let contributors;
 let overlayEnabled = false;
+if (!geofs.api.hasOwnProperty("changeModelTexture")) {
+	geofs.api.changeModelTexture = function(a, b, c) {
+	    if (a)
+	        if (a.customShader)
+	            a.customShader.setUniform("u_diffuse", new Cesium.TextureUniform({
+	                url: b,
+	                minificationFilter: Cesium.TextureMinificationFilter.LINEAR_MIPMAP_LINEAR
+	            }));
+	        else {
+	
+	            //var d=a._nodesByName[""]._runtimeNode.runtimePrimitives[0].primitive.material.metallicRoughness.baseColorTexture.texture;
+	            var d = a._rendererResources.textures[c || 0];
+	
+	            Cesium.Resource.fetchImage({
+	                url: b
+	            }).then(function(e) {
+	                d.copyFrom({
+	                    source: e
+	                });
+	                d.generateMipmap()
+	            })
+	        }
+	};
+}
 function changeLivery(livery) {
   if (debug) console.log("Livery Change Request as " + "'" + livery + "'");
   if (livery === "inv") {
