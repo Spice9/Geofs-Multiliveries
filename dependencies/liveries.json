@@ -1058,6 +1058,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mercado%20Livre%20738.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mercado%20Livre%20738.png"
 },	
+	{
+  "name": "Boeing 737-800 (Air Explore) by Freedom Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg"
+},	
 		
 	{
   "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
@@ -2644,6 +2649,11 @@
   "name": "Airbus a319 (Azerbaijan Air) by Coolpilot11",
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/319Azerbaijan.png"
+  },
+	{
+  "name": "Airbus a319 (Czech Air Force) by Freedom Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/fixed-CZAF.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/fixed-CZAF.jpg"
   },
 	{
   "name": "SAAB 340 (Aerolineas Sosa) by coolpilot11",
