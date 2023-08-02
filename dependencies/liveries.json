@@ -2270,7 +2270,12 @@
 		        "name": "Airbus a220 (Delta) by Luke",
 		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAL_A220.png",
 		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/DAL_A220.png"
-	},
+	        },
+	{
+		        "name": "Airbus a220 (Aircalin [Competition Livery]) by Luke",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aircalin_A220-300_11zon.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aircalin_A220-300_11zon.png"
+	        },
   {
   "name": "Airbus a319 (Finnair)",
   "livery": "85",
