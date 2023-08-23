@@ -390,7 +390,12 @@
   "name": "Boeing 737 MAX 8 (Air India Express) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Inda%20Express%20737MAX8.png"
-  },	
+  },
+	{
+  "name": "Boeing 737 MAX 8 (Air India New) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_India_737-8_New_Livery.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_India_737-8_New_Livery.png"
+  },
 	{
   "name": "Boeing 737 MAX 8 (Sunwing) by FightePilot 221",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sunwing%20737%20MAX8.png",
@@ -3292,7 +3297,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/789plain_humzi_boy_great_british_air_11zon.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/789plain_humzi_boy_great_british_air_11zon.png"
         },
-		
+{
+  "name": "Boeing 787-9 (Air India New) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_India_787-9_New_Livery.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air_India_787-9_New_Livery.png",
+        },
 {
   "name": "Boeing 787-9 (Finnair 'OH-LWF' Test) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A359%20OH-LWF%20Test%202.png.jpg",
