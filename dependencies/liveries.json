@@ -2280,7 +2280,21 @@
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_653.jpg",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_653.jpg"	
     },
- 	
+		{
+	    "name": "Airbus a321neo (Frontier-Cali the mountain goat) by Imnotfunny",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_518.jpg",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_518.jpg"	
+    },
+ 	{
+	    "name": "Airbus a321neo (Skybus) by nero",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_519.jpg",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_519.jpg"	
+    },
+	{
+	    "name": "Airbus a321neo (China airlines) ",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_520.jpg",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_520.jpg"	
+    },
 	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
@@ -2472,6 +2486,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png"
   },	
+	{
+  "name": "Emraer E145 (Contour) by Coolpilot",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.png"
+  },
   {
   "name": "Airbus a220 (Breeze) ",
   "livery": "135.5",
