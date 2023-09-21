@@ -1970,6 +1970,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Super%20Air%20Jet%20A32N.png"
   },
 	{
+  "name": "Airbus a320neo (Volotea) by Nero",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/115.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/115.png"
+  },
+	{
     "name": "Airbus a321neo (Jetstar) ",
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg"	
@@ -2488,8 +2493,8 @@
   },	
 	{
   "name": "Emraer E145 (Contour) by Coolpilot",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.png"
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.jpg"
   },
   {
   "name": "Airbus a220 (Breeze) ",
