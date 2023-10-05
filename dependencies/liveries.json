@@ -400,6 +400,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sunwing%20737%20MAX8.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sunwing%20737%20MAX8.png"
   },	
+	{
+  "name": "Boeing 737 MAX 8 (Air China) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinaairlines.jpg",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinaairlines.jpg"
+  },
+{
+  "name": "Boeing 737 MAX 8 (Hainan airlines) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8hainan%20(1).jpg",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8hainan%20(1).jpg"
+  },
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -1067,7 +1077,11 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg"
 },	
-		
+		{
+  "name": "Boeing 737-800 (LOT Polish new gen) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png"
+},
 	{
   "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_360.png",
@@ -1121,6 +1135,20 @@
   "name": "Boeing 737-200 (Nolinor) by Welo",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nolinor%20737-200%20FIX.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nolinor%20737-200%20FIX.jpg",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Croatia airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t608.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t608.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+{
+  "name": "Boeing 737-200 (Croatia airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t613W.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t613.png",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
@@ -1975,6 +2003,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/115.png"
   },
 	{
+  "name": "Airbus a320neo (US Airways) by Cactus",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t602.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t602.png"
+  },
+	{
     "name": "Airbus a321neo (Jetstar) ",
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg"	
@@ -2301,6 +2334,21 @@
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_520.jpg"	
     },
 	{
+    "name": "Airbus a321neo (sunclass) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t603.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t603.png"	
+    },
+{
+    "name": "Airbus a321neo (Qatar) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t614.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t614.png"	
+    },
+{
+    "name": "Airbus a321neo (Jet2) by IUH Airways",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t615.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t615.png"	
+    },
+	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
@@ -2620,6 +2668,12 @@
 		        "name": "Airbus a220 (Aircalin [Competition Livery]) by Luke",
 		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aircalin_A220-300_11zon.png",
 		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aircalin_A220-300_11zon.png"
+	        },
+	
+{
+		        "name": "Airbus a220 (croatia airlines) by Luke",
+		        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t607.png",
+		        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t607.png"
 	        },
   {
   "name": "Airbus a319 (Finnair)",
@@ -3013,6 +3067,36 @@
   "name": "Airbus a319 (Czech Air Force) by Freedom Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/fixed-CZAF.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/fixed-CZAF.jpg"
+  },
+	{
+  "name": "Airbus a319 (Amelia) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t604.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t604.png"
+  },
+{
+  "name": "Airbus a319 (Finnair blue) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t605.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t605.png"
+  },
+{
+  "name": "Airbus a319 (croatia airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t609.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t609.png"
+  },
+{
+  "name": "Airbus a319 (croatia airlines old) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t610.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t610.png"
+  },
+{
+  "name": "Airbus a319 (United) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t611.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t611.png"
+  },
+{
+  "name": "Airbus a319 (United tulip) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t612.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t612.png"
   },
 	{
   "name": "SAAB 340 (Aerolineas Sosa) by coolpilot11",
@@ -3641,5 +3725,10 @@
   "name": "Boeing 787-9 (Finnair 'OH-LWF' Test) by Burner",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A359%20OH-LWF%20Test%202.png.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A359%20OH-LWF%20Test%202.png.jpg"
-	}
+	},
+	{
+  "name": "Boeing 787-9 (Great British Airways) by Sunrise 6",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png"
+        }
   ]}
