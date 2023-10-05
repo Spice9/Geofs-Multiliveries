@@ -410,6 +410,31 @@
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8hainan%20(1).jpg",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8hainan%20(1).jpg"
   },
+	{
+  "name": "Boeing 737 MAX 8 (Sun Express) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8sunexpress.jpg",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8sunexpress.jpg"
+  },
+{
+  "name": "Boeing 737 MAX 8 (Korean air) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8Korean.jpg",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8Korean.jpg"
+  },
+{
+  "name": "Boeing 737 MAX 8 (Aeromexico) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8aeromexico2%20(1).jpg ",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8aeromexico2%20(1).jpg "
+  },
+{
+  "name": "Boeing 737 MAX 8 (China Southern) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinasouthern.jpg",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinasouthern.jpg "
+  },
+{
+  "name": "Boeing 737 MAX 8 (Allegiant) by Luca",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png "
+  },
 {
   "name": "Boeing 737-800 (Spicejet)",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -2349,6 +2374,21 @@
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t615.png"	
     },
 	{
+    "name": "Airbus a321neo (American) by IUH Airways",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t616.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t616.png"	
+    },
+{
+    "name": "Airbus a321neo (Easy jet) by IUH Airways",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t620.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t620.png"	
+    },
+{
+    "name": "Airbus a321neo (Philippines #2) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t622.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t622.png"	
+    },
+	{
   "name": "Embraer E145 (Star air) ",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_310.6.jpg"
@@ -3355,6 +3395,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg"
   },
+	{
+  "name": "Boeing 787-10 (Emirates Expo gold) by Luke",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg"
+  },
+	{
+  "name": "Boeing 787-10 (Air Canda) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png"
+        },
 {
   "name": "Boeing 787-9 (Thai Airways) ",
   "livery": "47",
@@ -3730,5 +3780,11 @@
   "name": "Boeing 787-9 (Great British Airways) by Sunrise 6",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png"
+        },
+	{
+  "name": "Boeing 787-9 (Emirates) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t601.png"
         }
+	
   ]}
