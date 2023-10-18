@@ -426,6 +426,21 @@
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8aeromexico2%20(1).jpg "
   },
 {
+  "name": "Boeing 737 MAX 8 (Xiamenair) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8xiamen22%20(1).jpg ",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8xiamen2(1)2%20(1).jpg "
+  },
+{
+  "name": "Boeing 737 MAX 8 (Bonza x enter air) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8spexe.jpg ",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8spexe.jpg "
+  },
+{
+  "name": "Boeing 737 MAX 8 (enter air) by coolpilot11",
+  "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8enterair.jpg ",
+  "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8enterair.jpg "
+  },
+{
   "name": "Boeing 737 MAX 8 (China Southern) by coolpilot11",
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinasouthern.jpg",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinasouthern.jpg "
@@ -1167,6 +1182,13 @@
   "name": "Boeing 737-200 (Croatia airlines) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t608.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t608.png",
+  "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+  "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+},
+	{
+  "name": "Boeing 737-200 (Finnair Cargo) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair_737-200.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair_737-200.png",
   "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
   "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
 },
@@ -2028,6 +2050,21 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/115.png"
   },
 	{
+  "name": "Airbus a320neo (Colorful Guizhou Airlines) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/CGA_A320neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/CGA_A320neo.png"
+  },
+	{
+  "name": "Airbus a320neo (Jetblue) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A320Neo.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A320Neo.png"
+  },
+	{
+  "name": "Airbus a320neo (BA Better World) by IUH Airways",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/better_world_a320.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/better_world_a320.png"
+  },
+	{
   "name": "Airbus a320neo (US Airways) by Cactus",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t602.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t602.png"
@@ -2392,6 +2429,71 @@
     "name": "Airbus a321neo (Air New Zealand Star Alliance) by Luca",
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t627.png",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t627.png"	
+    },
+{
+    "name": "Airbus a321neo (AirAsia) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAsia_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAsia_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (AirAsia 3, 2, 1, Takeoff) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAsia_A321Neo_321_Takeoff.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirAsia_A321Neo_321_Takeoff.png"	
+    },
+{
+    "name": "Airbus a321neo (British Airways) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/British_Airways_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/British_Airways_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Jetblue Balloons) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Balloons.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Balloons.png"	
+    },
+{
+    "name": "Airbus a321neo (Jetblue Mintality) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Mintality.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Mintality.png"	
+    },
+{
+    "name": "Airbus a321neo (Jetblue Streamers) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Streamers.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetblue_A321Neo_Streamers.png"	
+    },
+{
+    "name": "Airbus a321neo (Nile Air) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nile_Air_A321neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nile_Air_A321neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Primera Air) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Primera_Air_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Primera_Air_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Saudia) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Saudia Retro) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_Retro_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_Retro_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Starlux) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Starlux_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Starlux_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Volaris) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Volaris_A321Neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Volaris_A321Neo.png"	
+    },
+{
+    "name": "Airbus a321neo (Volaris No Mask) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Volaris_A321Neo_Maskless.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Volaris_A321Neo_Maskless.png"	
     },
 {
     "name": "Airbus a321neo (Philippines #2) by Luca",
@@ -3411,7 +3513,17 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_348.jpg"
   },
 	{
-  "name": "Boeing 787-10 (Air Canda) by Luca",
+  "name": "Boeing 787-10 (Saudia Retro) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_Retro_787-10.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Saudia_Retro_787-10.png"
+  },
+	{
+  "name": "Boeing 787-10 (Qantas) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qantas_787-10.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Qantas_787-10.png"
+  },
+	{
+  "name": "Boeing 787-10 (Air Canada) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png"
         },
