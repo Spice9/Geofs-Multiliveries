@@ -446,6 +446,11 @@
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/max8chinasouthern.jpg "
   },
 {
+  "name": "Boeing 737 MAX 8 (Asky) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asky_737-8.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Asky_737-8.png"
+  },
+{
   "name": "Boeing 737 MAX 8 (Allegiant) by Luca",
   "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png",
   "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png "
@@ -3246,6 +3251,11 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t610.png"
   },
 {
+  "name": "Airbus a319 (Beond) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Beond_A319.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Beond_A319.png"
+  },
+{
   "name": "Airbus a319 (United) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t611.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t611.png"
@@ -3913,6 +3923,16 @@
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM%20Orange%20Pride%20787-9.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM%20Orange%20Pride%20787-9.png"
         },
+	{
+  "name": "Boeing 787-9 (Kenya Airways) by Matako",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/KenyaAirways789.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/KenyaAirways789.png"
+	},
+	{
+  "name": "Boeing 787-9 (Kenya Airways [RETRO]) by Matako",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/KenyaRetro789_NEW.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/KenyaRetro789_NEW.png"
+	},
 	{
   "name": "Boeing 787-9 (Emirates New) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
