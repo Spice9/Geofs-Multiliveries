@@ -1121,7 +1121,17 @@
   "name": "Boeing 737-800 (Air Explore) by Freedom Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/738-air-explore.jpg"
-},	
+},
+	{
+  "name": "Boeing 737-800 (Nordwind x Ryanair Hybrid) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nordwind_Hybrid_737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Nordwind_Hybrid_737-800.png"
+},
+	{
+  "name": "Boeing 737-800 (Comair) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Comair_737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Comair_737-800.png"
+},
 		{
   "name": "Boeing 737-800 (LOT Polish new gen) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
@@ -2073,6 +2083,11 @@
   "name": "Airbus a320neo (BA Better World) by IUH Airways",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/better_world_a320.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/better_world_a320.png"
+  },
+	{
+  "name": "Airbus a320neo (Air India Express) by Ishaan",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320-air-india-express%20(1).jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320-air-india-express%20(1).jpg"
   },
 	{
   "name": "Airbus a320neo (US Airways) by Cactus",
