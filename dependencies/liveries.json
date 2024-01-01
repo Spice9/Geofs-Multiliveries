@@ -1091,6 +1091,11 @@
   "name": "Boeing 737-800 (Sriwijaya) by Nero",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_358.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_358.png"
+},
+	{
+  "name": "Boeing 737-800 (LOT) by Tortank006",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/b737-800.png"
 },		
 	{
   "name": "Boeing 737-800 (Asia Cargo x JNE) by Nero",
@@ -1131,6 +1136,21 @@
   "name": "Boeing 737-800 (Comair) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Comair_737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Comair_737-800.png"
+},
+	{
+  "name": "Boeing 737-800 (Egyptair) by CoolPilot11",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/737800egyptair.jpg",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/737800egyptair.jpg"
+},
+	{
+  "name": "Boeing 737-800 (Kenya Airways) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kenya%20Airways%20737-800.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kenya%20Airways%20737-800.png"
+},
+	{
+  "name": "Boeing 737-800 (United Airlines Old) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20737-800%20Old.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20737-800%20Old.png"
 },
 		{
   "name": "Boeing 737-800 (LOT Polish new gen) by Luca",
@@ -2045,6 +2065,11 @@
    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/471a29db6a1516e3fde4017f65f2ab9ab4ae41e3/texture_387.png"
    },
 {
+   "name": "Airbus a320neo (Brussels Airlines) by Tortank006",
+   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320neobrussels.png",
+   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320neobrussels.png"
+   },
+{
    "name": "Airbus a320neo (Smart Lynx Estonia x TUI by iuhairways",
    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/tuismartlynx1.png",
    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/tuismartlynx1.png"
@@ -2521,6 +2546,11 @@
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Volaris_A321Neo_Maskless.png"	
     },
 {
+    "name": "Airbus a321neo (Koninklijke Luchtvaart Maatschappij) by Luca",
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM%20A321neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/KLM%20A321neo.png"	
+    },
+{
     "name": "Airbus a321neo (Philippines #2) by Luca",
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t622.png",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t622.png"	
@@ -2721,6 +2751,21 @@
   "name": "Embraer E145 (Embraer House) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Embraer_House_livery_E-145.png"
+  },
+	{
+  "name": "Embraer E145 (Contour V2) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Contour%20E-145%20V2.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Contour%20E-145%20V2.png"
+  },	
+	{
+  "name": "Embraer E145 (Air Angola) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Fly%20Angola%20E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Fly%20Angola%20E-145.png"
+  },	
+	{
+  "name": "Embraer E145 (Rano Air) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Rano%20Air%20E-145.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Rano%20Air%20E-145.png"
   },	
 	{
   "name": "Emraer E145 (Contour) by Coolpilot",
