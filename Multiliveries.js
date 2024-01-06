@@ -69,7 +69,7 @@ function changeLivery(livery) {
 
 window.addEventListener('message', function(e) {
   if (debug) console.log("Event Recieved: " + e);
-  if (e.origin !== "https://mlui2.ariakimtaiyo.repl.co") return;
+  if (e.origin !== "https://boeingbus747.github.io/ML/UIbyAriakimTaiyo/index.html") return;
 	changeLivery(e.data);
 } , false);
 
@@ -90,7 +90,7 @@ buttonDiv.addEventListener("click", function() {
     if (debug) console.log("Duplicate open attempt"); 
     return;
   }
-   mlui = window.open("https://mlUI2.ariakimtaiyo.repl.co", "_blank", "height=1000,width=1500");
+   mlui = window.open("https://boeingbus747.github.io/ML/UIbyAriakimTaiyo/index.html", "_blank", "height=1000,width=1500");
   opened = true;
   if(!mlui || mlui.closed || typeof mlui.closed=='undefined') 
 { 
