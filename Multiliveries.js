@@ -69,7 +69,7 @@ function changeLivery(livery) {
 
 window.addEventListener('message', function(e) {
   if (debug) console.log("Event Recieved: " + e);
-  if (e.origin !== "https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2rpiif725cez1.global.replit.dev/") return;
+  if (e.origin !== "https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2rpiif725cez1.global.replit.dev") return;
 	changeLivery(e.data);
 } , false);
 
