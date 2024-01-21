@@ -2505,11 +2505,6 @@
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/61bdondon_delta.jpg"	
     },
 	{
-    "name": "Airbus a321neo (Condor Yellow) by Bdondon",
-    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/59bdondon_condor.jpg",
-    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/59bdondon_condor.jpg"	
-    },
-	{
 	    "name": "Airbus a321neo (Air Lacompagine) by Bdondon",
     "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/60bdondon_lacomp.jpg",
     "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/60bdondon_lacomp.jpg"	
@@ -2657,8 +2652,8 @@
     },
 {
     "name": "Airbus a321neo (Condor Yellow) by Luca",
-    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Yellow%20A321Neo.png",
-    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Yellow%20A321Neo.png"	
+    "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Yellow%20A321neo.png",
+    "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Yellow%20A321neo.png"	
     },
 {
     "name": "Airbus a321neo (Qanot Sharq) by Luca",
