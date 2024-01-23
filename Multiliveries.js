@@ -69,7 +69,7 @@ function changeLivery(livery) {
 
 window.addEventListener('message', function(e) {
   if (debug) console.log("Event Recieved: " + e);
-  if (e.origin !== "https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2rpiif725cez1.global.replit.dev") return;
+  if (e.origin !== "https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2qccycf3xbv7i.picard.replit.dev") return;
 	changeLivery(e.data);
 } , false);
 
@@ -90,7 +90,7 @@ buttonDiv.addEventListener("click", function() {
     if (debug) console.log("Duplicate open attempt"); 
     return;
   }
-   mlui = window.open("https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2rpiif725cez1.global.replit.dev/", "_blank", "height=1000,width=1500");
+   mlui = window.open("https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2qccycf3xbv7i.picard.replit.dev", "_blank", "height=1000,width=1500");
   opened = true;
   if(!mlui || mlui.closed || typeof mlui.closed=='undefined') 
 { 
