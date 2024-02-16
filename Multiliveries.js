@@ -1,5 +1,5 @@
 async function multiliveries() {
-  let e = "https://7bf7b797-e8d4-42e2-8d74-2f7050eafd3d-00-2qccycf3xbv7i.picard.replit.dev",
+  let e = "https://ariakim-taiyo.github.io/MLUI/",
       i = !1,
       t, n = function() {},
       r = 0,
