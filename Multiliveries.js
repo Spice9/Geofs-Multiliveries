@@ -1,5 +1,5 @@
 async function multiliveries() {
-  let e = "https://ariakim-taiyo.github.io/MLUI/",
+  let e = "https://ariakim-taiyo.github.io",
       i = !1,
       t, n = function() {},
       r = 0,
