@@ -57,7 +57,7 @@ async function multiliveries() {
 	}, mpRefresh = setInterval((function() {
 		n(), document.querySelectorAll("[data-aircraft]").forEach((function(e) {
 			var i = e.outerText;
-			(i.includes("Boeing 737-800 [Spice9] (by Spice_9)") || i.includes("Airbus a320neo (Iberia) (by Spice_9)") || i.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || i.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || i.includes("Airbus A319 (Finnair)  (by GT-VRA)")) && (e.innerHTML.includes("Multiliveries") || (e.innerHTML = e.innerHTML + " [Multiliveries Frame]"))
+			(i.includes("Boeing 737-800 [Spice9] (by Spice_9)") || i.includes("Airbus a320neo (Iberia) (by Spice_9)") || i.includes("Boeing 737 Max 8 (TUI) (by Spice_9)") || i.includes("Boeing 767-400 (by GT-VRA")|| i.includes("Boeing 787-10 Dreamliner (Etihad) (by Spice_9)") || i.includes("Airbus A319 (Finnair)  (by GT-VRA)")) && (e.innerHTML.includes("Multiliveries") || (e.innerHTML = e.innerHTML + " [Multiliveries Frame]"))
 		}))
 	}), 5e3), console.log("Loaded!"), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e)), setTimeout((function() {
 		console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:"), i.forEach((function(e) {
