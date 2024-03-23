@@ -1233,15 +1233,16 @@
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Turkmenistan%20738.jpg"
 },
 	{
-  "name": "Boeing 737-800 (Hebei) by Luca",
-  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hebei%20Airlines%20737-800.png",
-  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hebei%20Airlines%20737-800.png"
+  "name": "Boeing 737-800 (New Mexicana) by AIRBUS_001",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mexicana%20738.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Mexicana%20738.png"
 },
 	{
   "name": "Boeing 737-800 (Hapag Lloyd) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hapag-Lloyd%20737-800.png",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hapag-Lloyd%20737-800.png"
 },
+
 		{
   "name": "Boeing 737-800 (LOT Polish new gen) by Luca",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
@@ -2956,6 +2957,51 @@
   "name": "Boeing 767-400 plain",
   "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/776.jpg",
   "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/776.jpg"
+    },
+		{
+  "name": "Boeing 767-400 (Delta) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Delta Skyteam) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20Skyteam%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20Skyteam%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Delta Interim) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20Interim%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20Interim%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Delta Colors In Motion) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20CIM%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20CIM%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Delta Breast Cancer Old) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20old%20BRCF%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Delta%20old%20BRCF%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Bahrain Goverment) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bahrain%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bahrain%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (Continental) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Continental%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Continental%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (United) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20767-400ER.png"
+  },
+		{
+  "name": "Boeing 767-400 (United Evo Blue) by Luca",
+  "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20New%20767-400ER.png",
+  "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20New%20767-400ER.png"
   },
 	{
   "name": "Boeing 767-400 UNITED Star alliance by GT",
