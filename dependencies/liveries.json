@@ -21,7 +21,7 @@
             "name": "Boeing 737 Max 8 (FlyDubai)",
             "livery": "2",
             "mptx": "https://www.geo-fs.com/backend/aircraft/repository/EL%20AL%20737-900_427352_2769/texture_2.jpg",
-            "thumb": "placeholder"
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/flydubai737max.png"
         },
         {
             "name": "Boeing 737 Max 8 (Aerolineas Argentinas)",
