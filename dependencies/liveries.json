@@ -1575,6 +1575,13 @@
         "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
         "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Croatia%20airlines)%20by%20Luca_thumbnail.png"
     },
+     {
+        "name": "Boeing 737-200 (Continental) by Luca",
+        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/cntl.jpg",
+        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/cntl.jpg",
+        "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+        "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png"
+     };
     {
         "name": "Boeing P8 Poseidon (US Navy)",
         "livery": "1.1",
@@ -2625,6 +2632,18 @@
         "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t602.png",
         "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a320neo%20(US%20Airways)%20by%20Cactus_thumbnail.png"
     },
+        {
+        "name": "Airbus a320neo (Jetsmart-leopard) by Kevinsiro24",
+        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm1.jpg",
+        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm1.jpg"
+       
+    },
+        {
+        "name": "Airbus a320neo (Jetsmart-penguin) by Kevinsiro24",
+        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm2.jpg",
+        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm2.jpg"
+       
+    },
     {
         "name": "Airbus a321neo (Jetstar) ",
         "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/23.4.jpg",
@@ -3242,6 +3261,12 @@
         "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/xm5.jpg",
         "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/xm5.jpg",
         "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a321neo%20(Merry%20Christmas)%20_thumbnail.png"
+    },
+        {
+        "name": "Airbus a321neo (Latam) by Kevinsiro24",
+        "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ltm.jpg",
+        "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ltm.jpg"
+      
     },
     {
         "name": "Embraer E145 (Star air) ",
