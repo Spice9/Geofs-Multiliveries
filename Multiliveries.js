@@ -59,7 +59,10 @@ async function multiliveries() {
 	}
 	r.id = "mlButton", r.className = "mdl-button mdl-js-button", r.innerText = "Multiliveries ", l.className = "material-icons geofs-ui-bottom-icon", l.innerText = "flight_land", r.appendChild(l), r.addEventListener("click", (function() {
 		if ("object" == typeof t.window && t.window.closed && (t.opened = !1), t.opened) return ui.notification.show("Panel is open in another window"), void(debug && console.log("Duplicate open attempt"));
-		t.window = window.open("https://ariakim-taiyo.github.io/MLUI/", "_blank", "height=1000,width=1500"), t.opened = !0, t.window && !t.window.closed && void 0 !== t.window.closed || (ui.notification.show("Please allow popups on GeoFS"), debug && console.log("No Popup Permission"), t.opened = !1)
+		t.window = window.open("https://ariakim-taiyo.github.io/MLUI/", "_blank", "height=1000,width=1500"), t.window.postMessage({
+			type: "favorites",
+			favorites: window.localStorage.mlFavorites
+		}, "*"), t.opened = !0, t.window && !t.window.closed && void 0 !== t.window.closed || (ui.notification.show("Please allow popups on GeoFS"), debug && console.log("No Popup Permission"), t.opened = !1)
 	})), 0 == document.getElementsByClassName("fmc-btn").length ? document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(r) : document.getElementsByClassName("fmc-prog-info")[0].appendChild(r), document.querySelectorAll("[data-aircraft]").forEach((function(i) {
 		e.ids.forEach((function(e) {
 			i.dataset.aircraft.includes(e) && (i.style.background = "linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,1) 100%)", i.innerHTML.includes("Multiliveries") || (i.innerHTML = i.innerHTML + " [Multiliveries Frame]"))
@@ -192,10 +195,12 @@ async function multiliveries() {
 			}))
 		}))
 	}), 1e3);
-	console.log("Loaded!"), console.log("Version: Release 2.0"), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e)), setTimeout((function() {
+	console.log("Loaded!"), console.log("Version: Release 2.0"), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e));
+	var d = "";
+	setTimeout((function() {
 		console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:"), i.forEach((function(e) {
-			"" === message ? message += e : i[i.length - 1] === e ? message = message + ", and " + e : message = message + ", " + e
-		})), console.log(message)
+			"" === d ? d += e : d = i[i.length - 1] === e ? d + ", and " + e : d + ", " + e
+		})), console.log(d)
 	}), 1e3)
 }
 multiliveries();
