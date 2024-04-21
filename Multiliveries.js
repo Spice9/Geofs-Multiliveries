@@ -9,6 +9,7 @@ async function multiliveries() {
 		n = 0,
 		s = !1;
 	await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/liveries.json").then((e => e.json())).then((i => e = i));
+	void 0 === window.localStorage.mlFavorites && (window.localStorage.mlFavorites = []);
 	let r = document.createElement("div"),
 		l = document.createElement("i");
 
@@ -19,16 +20,16 @@ async function multiliveries() {
 						width: 500
 					}),
 					o = t.context,
-					n = new Image;
-				n.src = i, n.crossOrigin = "anonymous", n.onload = function() {
-					t.canvas.width = n.width, t.canvas.height = n.height, o.drawImage(n, 0, 0);
-					let a = new Image;
-					a.src = "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/overlay__1_.png", a.crossOrigin = "anonymous", a.onload = function() {
+					a = new Image;
+				a.src = i, a.crossOrigin = "anonymous", a.onload = function() {
+					t.canvas.width = a.width, t.canvas.height = a.height, o.drawImage(a, 0, 0);
+					let n = new Image;
+					n.src = "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/overlay__1_.png", n.crossOrigin = "anonymous", n.onload = function() {
 						o.globalAlpha = .5;
-						let n = .25 * a.width,
-							s = .25 * a.height;
+						let a = .25 * n.width,
+							s = .25 * n.height;
 						for (let i = -Math.abs(e); i < t.canvas.height; i += s)
-							for (let r = -Math.abs(e); r < t.canvas.width; r += n) o.drawImage(a, r, i, n, s);
+							for (let r = -Math.abs(e); r < t.canvas.width; r += a) o.drawImage(n, r, i, a, s);
 						let r = t.canvas.toDataURL("image/png");
 						if (debug && console.log(r), 4140 != geofs.aircraft.instance.id) geofs.api.setModelTextureFromCanvas(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, t, 0);
 						else {
@@ -68,20 +69,20 @@ async function multiliveries() {
 		"test" === e.type && t.window.postMessage({
 			type: "answer",
 			payload: multiliveries.toString()
-		}, "*"), "offset" === e.type && (n = e.offset, s && c(e.livery, !0))
-	})), geofs.aircraft.Aircraft.prototype.change = function(e, i, o, n) {
-		var a = this;
-		if (e = e || this.aircraftRecord.id, o = this.load(e, this.getCurrentCoordinates(), o, n), isNaN(parseInt(e)) ? a.loadLivery(i) : o.then((function() {
-				a.loadLivery(i)
+		}, "*"), "offset" === e.type && (n = e.offset, s && c(e.livery, !0)), "favorites" === e.type && (window.localStorage.mlFavorites = e.favorites)
+	})), geofs.aircraft.Aircraft.prototype.change = function(e, i, o, a) {
+		var n = this;
+		if (e = e || this.aircraftRecord.id, o = this.load(e, this.getCurrentCoordinates(), o, a), isNaN(parseInt(e)) ? n.loadLivery(i) : o.then((function() {
+				n.loadLivery(i)
 			})), void 0 !== t) return isNaN(parseInt(e)) ? (geofs.api.analytics.event("aircraft", "EXTERNAL AIRCRAFT"), o) : (geofs.api.analytics.event("aircraft", geofs.aircraftList[e].name), o)
-	}, geofs.aircraft.Aircraft.prototype.load = function(i, t, n, a) {
+	}, geofs.aircraft.Aircraft.prototype.load = function(i, t, a, n) {
 		if (!isNaN(parseInt(i)) || void 0 === e) {
 			o = !1;
 			r = this;
 			var s = geofs.aircraftList[i] && geofs.aircraftList[i].local ? geofs.aircraftList[i].path + "aircraft.json" : "/models/aircraft/load.php";
 			if (void 0 === o) return;
 			return new Promise((function(e, o) {
-				r.id != i || n ? (geofs.doPause(1), r.unloadAircraft(), $.ajax(s, {
+				r.id != i || a ? (geofs.doPause(1), r.unloadAircraft(), $.ajax(s, {
 					data: {
 						id: i,
 						kc: geofs.killCache
@@ -99,10 +100,10 @@ async function multiliveries() {
 							}));
 							var c = r.parseRecord(o)
 						}
-						c ? (geofs.aircraftList[i] && !geofs.aircraftList[i].local && (r.fullPath = r.aircraftRecord.fullPath), r.id = i, r.init(c, t, n, a)) : r.loadDefault("Could not load aircraft file"), e()
+						c ? (geofs.aircraftList[i] && !geofs.aircraftList[i].local && (r.fullPath = r.aircraftRecord.fullPath), r.id = i, r.init(c, t, a, n)) : r.loadDefault("Could not load aircraft file"), e()
 					},
-					error: function(e, t, n) {
-						i != geofs.aircraft.default && r.loadDefault("Could not load aircraft file" + n), o()
+					error: function(e, t, a) {
+						i != geofs.aircraft.default && r.loadDefault("Could not load aircraft file" + a), o()
 					}
 				})) : e()
 			}))
@@ -118,7 +119,7 @@ async function multiliveries() {
 			definition: i
 		}));
 		setTimeout((function() {
-			r.init(l, t, n, a)
+			r.init(l, t, a, n)
 		}), 1e3)
 	}, geofs.aircraft.Aircraft.prototype.addParts = function(e, i, t, a) {
 		for (geofs.aircraft.instance.parts = {}, t = t || 1, a = 0; a < e.length; a++) {
