@@ -10,10 +10,11 @@ async function multiliveries() {
 		s = !1;
 	await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/liveries.json").then((e => e.json())).then((i => e = i));
 	void 0 === window.localStorage.mlFavorites && (window.localStorage.mlFavorites = []);
-	let r = document.createElement("div"),
-		l = document.createElement("i");
+	let r = window.localStorage.mlFavorites.split(","),
+		l = document.createElement("div"),
+		c = document.createElement("i");
 
-	function c(e, i) {
+	function d(e, i) {
 		if (debug && console.log("Livery Change Request as '" + e + "'"), i) s = !0,
 			function(e, i) {
 				let t = new geofs.api.Canvas({
@@ -57,24 +58,24 @@ async function multiliveries() {
 			geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, e, 0), debug && console.log("livery changed to " + e)
 		} else geofs.aircraft.instance.loadLivery(e), debug && console.log("livery changed to " + e)
 	}
-	r.id = "mlButton", r.className = "mdl-button mdl-js-button", r.innerText = "Multiliveries ", l.className = "material-icons geofs-ui-bottom-icon", l.innerText = "flight_land", r.appendChild(l), r.addEventListener("click", (function() {
+	l.id = "mlButton", l.className = "mdl-button mdl-js-button", l.innerText = "Multiliveries ", c.className = "material-icons geofs-ui-bottom-icon", c.innerText = "flight_land", l.appendChild(c), l.addEventListener("click", (function() {
 		if ("object" == typeof t.window && t.window.closed && (t.opened = !1), t.opened) return ui.notification.show("Panel is open in another window"), void(debug && console.log("Duplicate open attempt"));
 		t.window = window.open("https://ariakim-taiyo.github.io/MLUI/", "_blank", "height=1000,width=1500"), setTimeout((function() {
 			t.window.postMessage({
 				type: "favorites",
-				favorites: window.localStorage.mlFavorites
+				favorites: r
 			}, "*")
 		}), 2e3), t.opened = !0, t.window && !t.window.closed && void 0 !== t.window.closed || (ui.notification.show("Please allow popups on GeoFS"), debug && console.log("No Popup Permission"), t.opened = !1)
-	})), 0 == document.getElementsByClassName("fmc-btn").length ? document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(r) : document.getElementsByClassName("fmc-prog-info")[0].appendChild(r), document.querySelectorAll("[data-aircraft]").forEach((function(i) {
+	})), 0 == document.getElementsByClassName("fmc-btn").length ? document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(l) : document.getElementsByClassName("fmc-prog-info")[0].appendChild(l), document.querySelectorAll("[data-aircraft]").forEach((function(i) {
 		e.ids.forEach((function(e) {
 			i.dataset.aircraft.includes(e) && (i.style.background = "linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,1) 100%)", i.innerHTML.includes("Multiliveries") || (i.innerHTML = i.innerHTML + " [Multiliveries Frame]"))
 		}))
 	})), window.addEventListener("message", (e => {
-		if (e = e.data, debug && console.log(e), "livery" === e.type && (e.custom ? c(e.livery, !0) : c(e.livery, !1)), "vehicle" === e.type && geofs.aircraft.instance.change(e.definition, null), "invalid" === e.type) return console.log("Invalid client, please use the original code."), void ui.notification.show("Invalid client, please use the original code.");
+		if (e = e.data, debug && console.log(e), "livery" === e.type && (e.custom ? d(e.livery, !0) : d(e.livery, !1)), "vehicle" === e.type && geofs.aircraft.instance.change(e.definition, null), "invalid" === e.type) return console.log("Invalid client, please use the original code."), void ui.notification.show("Invalid client, please use the original code.");
 		"test" === e.type && t.window.postMessage({
 			type: "answer",
 			payload: multiliveries.toString()
-		}, "*"), "offset" === e.type && (n = e.offset, s && c(e.livery, !0)), "favorites" === e.type && (window.localStorage.mlFavorites = e.favorites)
+		}, "*"), "offset" === e.type && (n = e.offset, s && d(e.livery, !0)), "favorites" === e.type && (r = e.favorites, window.localStorage.mlFavorites = r.join())
 	})), geofs.aircraft.Aircraft.prototype.change = function(e, i, o, n) {
 		var a = this;
 		if (e = e || this.aircraftRecord.id, o = this.load(e, this.getCurrentCoordinates(), o, n), isNaN(parseInt(e)) ? a.loadLivery(i) : o.then((function() {
@@ -198,11 +199,11 @@ async function multiliveries() {
 		}))
 	}), 1e3);
 	console.log("Loaded!"), console.log("Version: Release 2.0"), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e));
-	var d = "";
+	var f = "";
 	setTimeout((function() {
 		console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:"), i.forEach((function(e) {
-			"" === d ? d += e : d = i[i.length - 1] === e ? d + ", and " + e : d + ", " + e
-		})), console.log(d)
+			"" === f ? f += e : f = i[i.length - 1] === e ? f + ", and " + e : f + ", " + e
+		})), console.log(f)
 	}), 1e3)
 }
 multiliveries();
