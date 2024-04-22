@@ -17,8 +17,6 @@ Thank you for considering contributing to Multiliveries! Your help is greatly ap
   - [Disclaimer Page Extract](#disclaimer-page-extract)
   - [Loader Functionality and Formatting Aircraft](#loader-functionality-and-formatting-aircraft)
   - [frames.json Structure](#framesjson-structure)
-  - [Contributing Aircraft](#contributing-aircraft)
-  - [Models Root URL](#models-root-url)
 - [Initial Setup Instructions For Thumbail Generator](#initial-setup-instructions-for-thumbail-generator)
   - [Graphics Settings](#graphics-settings)
   - [Screenshot Guidelines](#screenshot-guidelines)
@@ -130,7 +128,7 @@ The aircraft loader functions have been modified to accept base64-encoded aircra
 The structure of frames.json should include a "frames" array with objects containing "name" and "definition" (base64 encoded definition file) properties.
 
 # Initial Setup Instructions For Thumbail Generator
-
+[Thumbnail Generator Tool](https://github.com/Spice9/Geofs-Multiliveries/blob/main/thumbGen.js)
 ## Graphics Settings
 - Maximum settings per slider:
   - FXAA
