@@ -1,4 +1,5 @@
-let debug = !1;
+let debug = !1,
+	version = "Release 2.0b";
 async function multiliveries() {
 	console.log("loading...");
 	let e, i, t = {
@@ -198,7 +199,7 @@ async function multiliveries() {
 			}))
 		}))
 	}), 1e3);
-	console.log("Loaded!"), console.log("Version: Release 2.0"), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e));
+	console.log("Loaded!"), console.log("Version: " + version), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e));
 	var f = "";
 	setTimeout((function() {
 		console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:"), i.forEach((function(e) {
