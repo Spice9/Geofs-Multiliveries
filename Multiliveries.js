@@ -26,7 +26,7 @@ async function multiliveries() {
 					t.canvas.width = n.width, t.canvas.height = n.height, o.drawImage(n, 0, 0);
 					let a = new Image;
 					a.src = "https://138772948-227015667470610340.preview.editmysite.com/uploads/1/3/8/7/138772948/overlay__1_.png", a.crossOrigin = "anonymous", a.onload = function() {
-						o.globalAlpha = .5;
+						o.globalAlpha = .25;
 						let n = .25 * a.width,
 							s = .25 * a.height;
 						for (let i = -Math.abs(e); i < t.canvas.height; i += s)
