@@ -33,7 +33,7 @@ UV maps are 2D representations of the 3D model's surface. They are used to "unwr
 
 ### Texturing Software
 
-To create a livery, you will need texturing software such as Adobe Photoshop, GIMP, or Blender. These programs allow you to paint directly onto the UV map and see the results in real-time on the 3D model.
+To create a livery, you will need texturing software such as Adobe Photoshop, GIMP, or Blender. These programs allow you to paint liveries in reference to the UV map. Blender or other 3D texturing programs like Adobe Substance Painter will enable painting directly on the model in real time. this is useful when texturing aircraft that are not unwrapped in a manner condusive to texturing on its UV map.
 
 ### Steps to Create a Livery:
 
