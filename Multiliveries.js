@@ -7,16 +7,16 @@ async function multiliveries() {
 			opened: !1
 		},
 		o = !1,
-		n = 0,
-		s = !1;
+		a = 0,
+		n = !1;
 	await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/liveries.json").then((e => e.json())).then((i => e = i));
 	void 0 === window.localStorage.mlFavorites && (window.localStorage.mlFavorites = []);
-	let r = window.localStorage.mlFavorites.split(","),
-		l = document.createElement("div"),
-		c = document.createElement("i");
+	let s = window.localStorage.mlFavorites.split(","),
+		r = document.createElement("div"),
+		l = document.createElement("i");
 
-	function d(i, t) {
-		if (debug && console.log("Livery Change Request as '" + i + "'"), t) s = !0,
+	function c(i, t) {
+		if (debug && console.log("Livery Change Request as '" + i + "'"), t) n = !0,
 			function(e, i) {
 				let t = new geofs.api.Canvas({
 						width: 500
@@ -45,16 +45,16 @@ async function multiliveries() {
 						}
 					}
 				}
-			}(n, i), debug && console.log("livery changed to " + i);
+			}(a, i), debug && console.log("livery changed to " + i);
 		else {
 			var o = e.aircraft;
-			if (geofs.aircraft.instance.liveryId = i + 1e3, i = o[i].livery, s = !1, i.toString().includes("https://")) {
+			if (geofs.aircraft.instance.liveryId = i + 1e3, i = o[i].livery, n = !1, i.toString().includes("https://")) {
 				if (4140 == geofs.aircraft.instance.id) {
 					if (i.toString().includes("|")) {
-						var a = i.split("|"),
-							r = a[1],
-							l = a[2];
-						geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, r, 2), geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, l, 0), i = a[0]
+						var s = i.split("|"),
+							r = s[1],
+							l = s[2];
+						geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, r, 2), geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, l, 0), i = s[0]
 					}
 					return void geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, i, 1)
 				}
@@ -62,24 +62,24 @@ async function multiliveries() {
 			} else geofs.aircraft.instance.loadLivery(i), debug && console.log("livery changed to " + i)
 		}
 	}
-	l.id = "mlButton", l.className = "mdl-button mdl-js-button", l.innerText = "Multiliveries ", c.className = "material-icons geofs-ui-bottom-icon", c.innerText = "flight_land", l.appendChild(c), l.addEventListener("click", (function() {
+	r.id = "mlButton", r.className = "mdl-button mdl-js-button", r.innerText = "Multiliveries ", l.className = "material-icons geofs-ui-bottom-icon", l.innerText = "flight_land", r.appendChild(l), r.addEventListener("click", (function() {
 		if ("object" == typeof t.window && t.window.closed && (t.opened = !1), t.opened) return ui.notification.show("Panel is open in another window"), void(debug && console.log("Duplicate open attempt"));
 		t.window = window.open("https://ariakim-taiyo.github.io/MLUI/", "_blank", "height=1000,width=1500"), setTimeout((function() {
 			t.window.postMessage({
 				type: "favorites",
-				favorites: r
+				favorites: s
 			}, "*")
 		}), 2e3), t.opened = !0, t.window && !t.window.closed && void 0 !== t.window.closed || (ui.notification.show("Please allow popups on GeoFS"), debug && console.log("No Popup Permission"), t.opened = !1)
-	})), 0 == document.getElementsByClassName("fmc-btn").length ? document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(l) : document.getElementsByClassName("fmc-prog-info")[0].appendChild(l), document.querySelectorAll("[data-aircraft]").forEach((function(i) {
+	})), 0 == document.getElementsByClassName("fmc-btn").length ? document.getElementsByClassName("geofs-ui-bottom")[0].appendChild(r) : document.getElementsByClassName("fmc-prog-info")[0].appendChild(r), document.querySelectorAll("[data-aircraft]").forEach((function(i) {
 		e.ids.forEach((function(e) {
 			i.dataset.aircraft.includes(e) && (i.style.background = "linear-gradient(90deg, rgba(0,212,255,1) 0%, rgba(255,255,255,1) 15%, rgba(255,255,255,1) 100%)", i.innerHTML.includes("Multiliveries") || (i.innerHTML = i.innerHTML + " [Multiliveries Frame]"))
 		}))
 	})), window.addEventListener("message", (e => {
-		if (e = e.data, debug && console.log(e), "livery" === e.type && (e.custom ? d(e.livery, !0) : d(e.livery, !1)), "vehicle" === e.type && geofs.aircraft.instance.change(e.definition, null), "invalid" === e.type) return console.log("Invalid client, please use the original code."), void ui.notification.show("Invalid client, please use the original code.");
+		if (e = e.data, debug && console.log(e), "livery" === e.type && (e.custom ? c(e.livery, !0) : c(e.livery, !1)), "vehicle" === e.type && geofs.aircraft.instance.change(e.definition, null), "invalid" === e.type) return console.log("Invalid client, please use the original code."), void ui.notification.show("Invalid client, please use the original code.");
 		"test" === e.type && t.window.postMessage({
 			type: "answer",
 			payload: multiliveries.toString()
-		}, "*"), "offset" === e.type && (n = e.offset, s && d(e.livery, !0)), "favorites" === e.type && (r = e.favorites, window.localStorage.mlFavorites = r.join())
+		}, "*"), "offset" === e.type && (a = e.offset, n && c(e.livery, !0)), "favorites" === e.type && (s = e.favorites, window.localStorage.mlFavorites = s.join())
 	})), geofs.aircraft.Aircraft.prototype.change = function(e, i, o, a) {
 		var n = this;
 		if (e = e || this.aircraftRecord.id, o = this.load(e, this.getCurrentCoordinates(), o, a), isNaN(parseInt(e)) ? n.loadLivery(i) : o.then((function() {
@@ -131,9 +131,9 @@ async function multiliveries() {
 		setTimeout((function() {
 			r.init(l, t, a, n)
 		}), 1e3)
-	}, geofs.aircraft.Aircraft.prototype.addParts = function(e, i, t, a) {
-		for (geofs.aircraft.instance.parts = {}, t = t || 1, a = 0; a < e.length; a++) {
-			var s = e[a];
+	}, geofs.aircraft.Aircraft.prototype.addParts = function(e, i, t, n) {
+		for (geofs.aircraft.instance.parts = {}, t = t || 1, n = 0; n < e.length; n++) {
+			var s = e[n];
 			if (s.include) {
 				var r = geofs.includes[s.include];
 				$.extend(!0, s, r[0]);
@@ -151,9 +151,9 @@ async function multiliveries() {
 				s.name += "1", s.node += "1"
 			}
 		}
-		if (void 0 !== n) {
-			for (a = 0; a < e.length; a++) {
-				for ((s = e[a]).points = s.points || {}, s.type = s.type || !1, s.brakesController = s.brakesController || !1, s.animations = s.animations || [], geofs.aircraft.instance.parts[s.name] = s, geofs.aircraft.instance.addOffsets(s, t), s.forceDirection && (s.forceDirection = AXIS_TO_INDEX[s.forceDirection]), s.rotation && (s.rotation = V3.toRadians(s.rotation)), s.modelOnlyRotation && (s.modelOnlyRotation = V3.toRadians(s.modelOnlyRotation)), s.scale = s.scale || [1, 1, 1], s.scale = V3.scale(s.scale, t), s.originalScale = s.scale, 4 > geofs.version && (s.gltf2model = null), (s.model || s.gltf2model) && (r = s.gltf2model ? s.gltf2model.url : s.model.url || s.model, i && "/" != r[0] && !s.include && (r = i + r), o && (r = s.model), l = {
+		if (void 0 !== a) {
+			for (n = 0; n < e.length; n++) {
+				for ((s = e[n]).points = s.points || {}, s.type = s.type || !1, s.brakesController = s.brakesController || !1, s.animations = s.animations || [], geofs.aircraft.instance.parts[s.name] = s, geofs.aircraft.instance.addOffsets(s, t), s.forceDirection && (s.forceDirection = AXIS_TO_INDEX[s.forceDirection]), s.rotation && (s.rotation = V3.toRadians(s.rotation)), s.modelOnlyRotation && (s.modelOnlyRotation = V3.toRadians(s.modelOnlyRotation)), s.scale = s.scale || [1, 1, 1], s.scale = V3.scale(s.scale, t), s.originalScale = s.scale, 4 > geofs.version && (s.gltf2model = null), (s.model || s.gltf2model) && (r = s.gltf2model ? s.gltf2model.url : s.model.url || s.model, i && "/" != r[0] && !s.include && (r = i + r), o && (r = s.model), l = {
 						shadows: s.shadows ? window[s.shadows] : SHADOWS_ALL,
 						incrementallyLoadTextures: !1
 					}, s.gltf2model && s.gltf2model.shader && (l.customShader = geofs.api.generateShader(s.model.shader, i)), s["3dmodel"] = new geofs.api.Model(r, l), this.models.push(s["3dmodel"]._model), s.renderer && (s.rendererInstance = new instruments.Renderer(s.renderer))), s.light && (s.lightBillboard = new geofs.fx.light(null, s.light, {
@@ -190,7 +190,7 @@ async function multiliveries() {
 				}
 				s.volume && (s.buoyancy = WATER_DENSITY * GRAVITY * s.volume), s.controller && (geofs.aircraft.instance.controllers[s.controller.name] = s.controller)
 			}
-			for (a = 0; a < e.length; a++) "root" != (s = e[a]).name && (s.parent || (s.parent = "root"), geofs.aircraft.instance.parts[s.parent].object3d.addChild(s.object3d)), s.node && (s.object3d.setModel(s.object3d.findModelInAncestry()), s.manipulator && ("string" == typeof(i = s.manipulator) && (i = geofs.aircraft.instance.aircraftRecord.isCommunity ? null : geofs.utils.getFunctionFromString(i)), i && (geofs.aircraft.instance.manipulators[s.node] = i, controls.addNodeClickHandler(s.node, (function(e) {
+			for (n = 0; n < e.length; n++) "root" != (s = e[n]).name && (s.parent || (s.parent = "root"), geofs.aircraft.instance.parts[s.parent].object3d.addChild(s.object3d)), s.node && (s.object3d.setModel(s.object3d.findModelInAncestry()), s.manipulator && ("string" == typeof(i = s.manipulator) && (i = geofs.aircraft.instance.aircraftRecord.isCommunity ? null : geofs.utils.getFunctionFromString(i)), i && (geofs.aircraft.instance.manipulators[s.node] = i, controls.addNodeClickHandler(s.node, (function(e) {
 				controls.manipulator = geofs.aircraft.instance.manipulators[e], controls.mouse.down = 4
 			})))))
 		}
@@ -199,16 +199,16 @@ async function multiliveries() {
 		Object.values(multiplayer.visibleUsers).forEach((function(i) {
 			if (i.lastUpdate.st.lv > 1e3) {
 				var t = e.aircraft[i.lastUpdate.st.lv - 1e3].mptx;
-				4140 == geofs.aircraft.instance.id ? geofs.api.changeModelTexture(multiplayer.visibleUsers[a.id].model, t, 1) : geofs.api.changeModelTexture(multiplayer.visibleUsers[a.id].model, t, 0)
+				4140 == i.aircraft ? geofs.api.changeModelTexture(i.model, t, 1) : geofs.api.changeModelTexture(i.model, t, 0)
 			}
 		}))
 	}), 1e3);
 	console.log("Loaded!"), console.log("Version: " + version), await fetch("https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/contributors.txt").then((e => e.json())).then((e => i = e));
-	var f = "";
+	var d = "";
 	setTimeout((function() {
 		console.log("Code by Spice9 and AriakimTaiyo, livery contributions by:"), i.forEach((function(e) {
-			"" === f ? f += e : f = i[i.length - 1] === e ? f + ", and " + e : f + ", " + e
-		})), console.log(f)
+			"" === d ? d += e : d = i[i.length - 1] === e ? d + ", and " + e : d + ", " + e
+		})), console.log(d)
 	}), 1e3)
 }
 multiliveries();
