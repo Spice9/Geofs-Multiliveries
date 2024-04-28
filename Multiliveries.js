@@ -199,7 +199,7 @@ async function multiliveries() {
 		Object.values(multiplayer.visibleUsers).forEach((function(i) {
 			if (i.lastUpdate.st.lv > 1e3) {
 				var t = e.aircraft[i.lastUpdate.st.lv - 1e3].mptx;
-				4140 == i.aircraft ? geofs.api.changeModelTexture(i.model, t, 1) : geofs.api.changeModelTexture(i.model, t, 0)
+				4140 == i.aircraft ? geofs.api.changeModelTexture(i.model._model, t, 1) : geofs.api.changeModelTexture(i.model._model, t, 0)
 			}
 		}))
 	}), 1e3);
