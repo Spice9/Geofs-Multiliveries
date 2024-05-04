@@ -16,6 +16,7 @@ async function multiliveries() {
 		l = document.createElement("i");
 
 	function c(i, t) {
+		var o = i + 1e3;
 		if (debug && console.log("Livery Change Request as '" + i + "'"), t) n = !0,
 			function(e, i) {
 				let t = new geofs.api.Canvas({
@@ -46,21 +47,19 @@ async function multiliveries() {
 					}
 				}
 			}(a, i), debug && console.log("livery changed to " + i);
-		else {
-			var o = e.aircraft;
-			if (geofs.aircraft.instance.liveryId = i + 1e3, i = o[i].livery, n = !1, i.toString().includes("https://")) {
-				if (4140 == geofs.aircraft.instance.id) {
-					if (i.toString().includes("|")) {
-						var s = i.split("|"),
-							r = s[1],
-							l = s[2];
-						geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, r, 2), geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, l, 0), i = s[0]
-					}
-					return void geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, i, 1)
+		else if (i = e.aircraft[i].livery, n = !1, i.toString().includes("https://")) {
+			if (4140 == geofs.aircraft.instance.id) {
+				if (i.toString().includes("|")) {
+					var s = i.split("|"),
+						r = s[1],
+						l = s[2];
+					geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, r, 2), geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, l, 0), i = s[0]
 				}
-				geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, i, 0), debug && console.log("livery changed to " + i)
-			} else geofs.aircraft.instance.loadLivery(i), debug && console.log("livery changed to " + i)
-		}
+				return void geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, i, 1)
+			}
+			geofs.api.changeModelTexture(geofs.aircraft.instance.definition.parts[0]["3dmodel"]._model, i, 0), debug && console.log("livery changed to " + i)
+		} else geofs.aircraft.instance.loadLivery(i), debug && console.log("livery changed to " + i);
+		geofs.aircraft.instance.liveryId = o
 	}
 	r.id = "mlButton", r.className = "mdl-button mdl-js-button", r.innerText = "Multiliveries ", l.className = "material-icons geofs-ui-bottom-icon", l.innerText = "flight_land", r.appendChild(l), r.addEventListener("click", (function() {
 		if ("object" == typeof t.window && t.window.closed && (t.opened = !1), t.opened) return ui.notification.show("Panel is open in another window"), void(debug && console.log("Duplicate open attempt"));
