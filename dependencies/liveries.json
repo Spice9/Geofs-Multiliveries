@@ -1481,6 +1481,12 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Hebei)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Boeing 737-800 (Ascend Airways) by Sun",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-hodl__2_.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/g-hodl__2_.jpg",
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Hebei)%20by%20Luca_thumbnail.png"
+        },
+        {
             "name": "Boeing 737-800 (Turkmenistan Airlines) by NutWar",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Turkmenistan%20738.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Turkmenistan%20738.jpg",
@@ -2049,6 +2055,30 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Finnair%20Cargo)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Boeing 737-200 (AVENSA) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVENSA%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVENSA%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Finnair%20Cargo)%20by%20Luca_thumbnail.png"
+        },
+        {
+            "name": "Boeing 737-200 (BBJ N787WH) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/BBJ_737-200_N787WH.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/BBJ_737-200_N787WH.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Finnair%20Cargo)%20by%20Luca_thumbnail.png"
+        },
+        {
+            "name": "Boeing 737-200 (Sierra Pacific) by NightHeart",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/sierra_pacific__1_.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/sierra_pacific__1_.jpg",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Finnair%20Cargo)%20by%20Luca_thumbnail.png"
+        },
+        {
             "name": "Boeing 737-200 (Croatia airlines) by Luca",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t613W.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t613.png",
@@ -2076,6 +2106,7 @@
             "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_2.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20P8A%20Poseidon%20(RAAF)_thumbnail.png"
         },
+
         {
             "name": "Boeing P8 Poseidon (Norwegian Airforce) by Air george",
             "livery": "193",
