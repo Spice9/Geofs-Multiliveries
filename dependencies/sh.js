@@ -1,0 +1,13 @@
+const environmentMapURL ="https://rawcdn.githack.com/Spice9/Geofs-Multiliveries/ed96d029d2662779823bbc1775f2726ff78ce9bd/dependencies/sky.ktx2";
+const L00 = new Cesium.Cartesian3( 0.329517096281052,  0.359502106904984,  0.418023347854614); // L00, irradiance, pre-scaled base
+const L1_1 = new Cesium.Cartesian3(-0.087121389806271, -0.060096953064203, -0.016618076711893); // L1-1, irradiance, pre-scaled base
+const L10 = new Cesium.Cartesian3( 0.075083822011948,  0.058968212455511,  0.037519007921219); // L10, irradiance, pre-scaled base
+const L11 = new Cesium.Cartesian3(-0.007882126607001, -0.005107556469738, -0.002065080683678); // L11, irradiance, pre-scaled base
+const L2_2 = new Cesium.Cartesian3(-0.001850351691246, -0.001553216134198, -0.001530350768007); // L2-2, irradiance, pre-scaled base
+const L2_1 = new Cesium.Cartesian3( 0.012557381764054,  0.008679250255227,  0.004482549149543); // L2-1, irradiance, pre-scaled base
+const L20 = new Cesium.Cartesian3( 0.014737385325134,  0.014183685183525,  0.012352111749351); // L20, irradiance, pre-scaled base
+const L21 = new Cesium.Cartesian3( 0.002089402638376,  0.001930067897774,  0.001439320505597); // L21, irradiance, pre-scaled base
+const L22 = new Cesium.Cartesian3( 0.020093787461519,  0.022515077143908,  0.023803558200598); // L22, irradiance, pre-scaled base
+const coefficients = [L00, L1_1, L10, L11, L2_2, L2_1, L20, L21, L22];
+geofs.aircraft.instance.object3d.model._model.imageBasedLighting.sphericalHarmonicCoefficients = coefficients;
+geofs.aircraft.instance.object3d.model._model.imageBasedLighting.specularEnvironmentMaps = environmentMapURL;
