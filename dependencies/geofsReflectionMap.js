@@ -1,3 +1,4 @@
+//GeoFS reflection.jpg as .ktx2
 var environmentMapURL = "https://rawcdn.githack.com/Spice9/Geofs-Multiliveries/be6e76d6b2ea4a282b7fb90bd7494769746a2b5c/dependencies/geofsReflection.ktx2";
 var L00 = new Cesium.Cartesian3(0.136601150035858, 0.174612954258919, 0.210195764899254); // L00, irradiance, pre-scaled base
 var L1_1 = new Cesium.Cartesian3(0.031010340899229, 0.031199775636196, 0.068603038787842); // L1-1, irradiance, pre-scaled base
@@ -12,6 +13,8 @@ var L22 = new Cesium.Cartesian3(0.002277358202264, 0.006476081442088, 0.01665297
 var coefficients = [L00, L1_1, L10, L11, L2_2, L2_1, L20, L21, L22];
 geofs.aircraft.instance.object3d.model._model.imageBasedLighting.specularEnvironmentMaps = environmentMapURL;
 
+//Temporary solution to allow for day / night cycle to determine diffuse brightness on aircraft.
+//Probably a better way to do this, but this is just a proof of concept.
 var brightnessInterval = setInterval(function(){
     var L00Scaled = new Cesium.Cartesian3();
     var L1_1Scaled = new Cesium.Cartesian3();
