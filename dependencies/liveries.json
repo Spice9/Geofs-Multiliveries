@@ -473,6 +473,12 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737%20MAX%208%20(Air%20India)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Boeing 737 MAX 8 (Batik Air) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Batik%20Air%20737%20MAX%208%20LRP.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Batik%20Air%20737%20MAX%208%20LRP.png",
+            "thumb":
+        },
+        {
             "name": "Boeing 737 MAX 8 (CopaAirlines) by Matheusromain",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/COPASSI.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/COPASSI.jpg",
@@ -1415,6 +1421,120 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Arik)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Boeing 737-800 (Air China) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20China%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20China%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Air China Inner Mongolia) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20China%20Inner%20Mongolia%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20China%20Inner%20Mongolia%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Air Peace) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Peace%20Euroatlantic%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Peace%20Euroatlantic%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Airmaster) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airmaster%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airmaster%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Excel Airways) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Excel%20Airways.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Excel%20Airways.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Fly4) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Fly4%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Fly4%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Hapag Lloyd Express) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hapag%20Lloyd%20Express%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hapag%20Lloyd%20Express%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Hong Kong Express) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hong%20Kong%20Express%20-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Hong%20Kong%20Express%20-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Excel Airways SAA Leased) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Excel%20Airways%20(SAA%20Leased).png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Excel%20Airways%20(SAA%20Leased).png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Jet2) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Jet2 White) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20White%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20White%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Jet2 ETF Leased) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20(ETF%20Leased).png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jet2%20(ETF%20Leased).png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Kenya Airways Cargo) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kenya%20Cargo%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kenya%20Cargo%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Northern Air Cargo) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Northern%20Air%20Cargo%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Northern%20Air%20Cargo%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Raindo United Services) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Raindo%20United%20Services%20737-800BCF.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Raindo%20United%20Services%20737-800BCF.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Neos New York) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Neos%20New%20York%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Neos%20New%20York%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Somon Air) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Somon%20Air%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Somon%20Air%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (World Cargo Airlines) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/World%20Cargo%20Airlines%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/World%20Cargo%20Airlines%20737-800.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-800 (Xtra Airways Clinton) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xtra%20Airways%20Clinton%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xtra%20Airways%20Clinton%20737-800.png",
+            "thumb":
+        },
+        {
             "name": "Boeing 737-800 (Egyptair Old) by Luca",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Egyptair%20737-800%20Old.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Egyptair%20737-800%20Old.png",
@@ -1437,6 +1557,12 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20737-800%20Old.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20737-800%20Old.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Ryanair%20Old)%20by%20Luca_thumbnail.png"
+        },
+        {
+            "name": "Boeing 737-800 (Ryanair Buzz) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Buzz%20737-800.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Buzz%20737-800.png",
+            "thumb":
         },
         {
             "name": "Boeing 737-800 (Ryanair Bye Bye Latehansa) by Luca",
@@ -1589,6 +1715,110 @@
             "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
             "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(ADC%20Airlines)%20by%20Luca_thumbnail.png"
+        },
+        {
+            "name": "Boeing 737-200 (ADA Airlines) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ADA%20Airlines%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ADA%20Airlines%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (AVIACSA Smile) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVIACSA%20737-200%20Smile.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVIACSA%20737-200%20Smile.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (AVIACSA Old Smile) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVIACSA%20737-200%20Smile%20Old.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AVIACSA%20737-200%20Smile%20Old.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Air Toulouse International) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Toulouse%20International%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Toulouse%20International%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Alliance Air VT-EGG) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V1.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V1.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Alliance Air VT-EGF) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V2.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V2.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Alliance Air VT-EGD) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V3.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alliance%20Air%20737-200%20V3.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (VP-CBA) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/BBJ%20737-200%20VP-CBA.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/BBJ%20737-200%20VP-CBA.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (East-West Airlines) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/East%20West%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/East%20West%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Europen) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Europen%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Europen%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Xiamenair V1) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xiamenair%20737-200.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xiamenair%20737-200.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Xiamenair V2) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xiamenair%20737-200%20V2.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Xiamenair%20737-200%20V2.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
+        },
+        {
+            "name": "Boeing 737-200 (Tajik Air) by Nutwwar",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Copy_of_Tajik_11.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Copy_of_Tajik_11.png",
+            "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
+            "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
+            "thumb":
         },
         {
             "name": "Boeing 737-200 (All Nippon Airways) by Luca",
@@ -3499,6 +3729,42 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a321neo%20(Condor%20Yellow)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Airbus a321neo (Condor Green) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Green%20A321Neo.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Green%20A321Neo.png",
+            "thumb":
+        },
+        {
+            "name": "Airbus a321neo (Condor Green Factory) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Green%20A321Neo%20Factory.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Condor%20Green%20A321Neo%20Factory.png",
+            "thumb":
+        },
+        {
+            "name": "Airbus a321neo (Iberia) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia%20A321neo.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia%20A321neo.png",
+            "thumb":
+        },
+        {
+            "name": "Airbus a321neo (Loong Air) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Loong%20Air%20A321Neo.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Loong%20Air%20A321Neo.png",
+            "thumb":
+        },
+        {
+            "name": "Airbus a321neo (Fanhansa) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20A321neo%20Fanhansa.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20A321neo%20Fanhansa.png",
+            "thumb":
+        },
+        {
+            "name": "Airbus a321neo (Middle East Airlines) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/MEA%20A321Neo.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/MEA%20A321Neo.png",
+            "thumb":
+        },
+        {
             "name": "Airbus a321neo (Salam air cargo) by weirdpunguy",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/55weirdpunguy_salamair.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/55weirdpunguy_salamair.jpg",
@@ -4267,6 +4533,12 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20A220%20(ITA%20airways%20White)%20by%20Luke_thumbnail.png"
         },
         {
+            "name": "Airbus A220 (Lufthansa City) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20City%20A220.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20City%20A220.png",
+            "thumb":
+        },
+        {
             "name": "Airbus A220 (Green Africa) by Luke",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Green%20Africa%20A220.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Green%20Africa%20A220.png",
@@ -4783,6 +5055,12 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a319%20(croatia%20airlines)%20by%20Luca_thumbnail.png"
         },
         {
+            "name": "Airbus a319 (Lufthansa City) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20City%20A319.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20City%20A319.png",
+            "thumb":
+        },
+        {
             "name": "Airbus a319 (croatia airlines old) by Luca",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t610.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t610.png",
@@ -4927,6 +5205,12 @@
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/SAAB%20340%20(Air%20France)%20by%20FG%20Airlines_thumbnail.png"
         },
         {
+            "name": "SAAB 340 (China Southern) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Southern%20Saab.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Southern%20Saab.png",
+            "thumb":
+        },
+        {
             "name": "SAAB 340 (Logan Air) by  IUH Airways",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/125.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/125.png",
@@ -4949,6 +5233,12 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2006.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2006.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Dornier%20DO%20228-200%20(Tara%20air)%20by%20Luca_thumbnail.png"
+        },
+        {
+            "name": "Dornier DO 228-200 (Manx2) by Luca",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Manx2.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Manx2.png",
+            "thumb":
         },
         {
             "name": "Dornier DO 228-200 (Plain)",
