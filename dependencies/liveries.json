@@ -574,6 +574,11 @@
             "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png ",
             "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
         },
+          {
+            "name": "Boeing 737 MAX 8 (silkair) by androwaydude",
+            "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/704.jpg",
+            "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/704.jpg "
+        },
         {
             "name": "Boeing 737-800 (Spicejet)",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_260.5.jpg",
@@ -1635,6 +1640,11 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(LOT%20Polish%20new%20gen)%20by%20Luca_thumbnail.png"
+        },
+         {
+            "name": "Boeing 737-800 (Silk Air) by androwaydude",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/705.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/705.jpg"
         },
         {
             "name": "Boeing 737-200 (United Saul Bass) by Kyojuro",
@@ -3385,6 +3395,11 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm2.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm2.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a320neo%20(Jetsmart-penguin)%20by%20Kevinsiro24_thumbnail.png"
+        },
+          {
+            "name": "Airbus a320neo (Silk Air) by androwaydude",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/706.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/706.jpg"
         },
         {
             "name": "Airbus a321neo (Jetstar) ",
@@ -5450,6 +5465,11 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20787-10%20(Air%20Canada)%20by%20Luca_thumbnail.png"
         },
+         {
+            "name": "Boeing 787-10 (Vietnam airlines) by VN-A890",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/700.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/700.jpg"
+        },
         {
             "name": "Boeing 787-9 (Thai Airways) ",
             "livery": "47",
@@ -5917,6 +5937,16 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20787-9%20(Emirates%20New)%20by%20Luca_thumbnail.png"
+        },
+            {
+            "name": "Boeing 787-9 (ANA) by VR Pozz YT",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/703.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/703.jpg"
+        },
+            {
+            "name": "Boeing 787-9 (ANA's 50 787) by VR Pozz YT",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/702.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/702.jpg"
         }
     ]
 }
