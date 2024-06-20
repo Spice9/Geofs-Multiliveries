@@ -4349,6 +4349,16 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Emraer%20E145%20(Contour)%20by%20Coolpilot_thumbnail.png"
         },
+            {
+            "name": "learjet 45 (Plain) ",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_991.2.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_991.2.jpg"
+        },
+           {
+            "name": "learjet 45 (livery #2) ",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_994.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_994.jpg"
+        },
         {
             "name": "Boeing 767-400 plain",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/776.jpg",
