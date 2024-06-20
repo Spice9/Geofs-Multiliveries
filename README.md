@@ -8,7 +8,7 @@ Join us on Discord! [![Discord](https://img.shields.io/discord/10088081281895793
 
 ## Overview
 **Authors:** Spice 9 and Ariakim Taiyo<br>
-**Liveries:** `961` new liveries added<br>
+**Liveries:** `963` new liveries added<br>
 
 ## Features
 - **Fully Reworked UI:** More visually appealing and functional.
