@@ -2352,6 +2352,59 @@
             "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_193.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20P8%20Poseidon%20(Norwegian%20Airforce)%20by%20Air%20george_thumbnail.png"
         },
+           {
+            "name": "Airbus a320-214 (Air India)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2012.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2012.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Indigo)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2017.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2017.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Sri Lankan)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2011.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2011.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Mihin Lanka)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2015.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2015.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Gulf Air)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2013.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2013.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Plain)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2014.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2014.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Air Asia)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2010.2.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2010.2.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Air Asia Kabali)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2016.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2016.jpg"
+        },
+   {
+            "name": "Airbus a320-214 (Aeroflot)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2018.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2018.jpg"
+        },
+
+   {
+            "name": "Airbus a320-214 (Easyjet)",
+                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2019.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2019.jpg"
+        },
+
+
         {
             "name": "Airbus a320neo (Indigo)",
             "livery": "1.5",
