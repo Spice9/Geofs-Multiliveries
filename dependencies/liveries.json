@@ -603,6 +603,12 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Fly%20Dubai)_thumbnail.png"
         },
+          {
+            "name": "Boeing 737-800 (Fly Dubai)[scimitars]",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2008.jpg",
+            "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2008.jpg",
+            "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Fly%20Dubai)_thumbnail.png"
+        },
         {
             "name": "Boeing 737-800 (Aerolines Argentinas)",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_3.jpg",
