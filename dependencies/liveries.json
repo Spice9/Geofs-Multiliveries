@@ -580,7 +580,7 @@
             "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/t621.png ",
             "thumb": "https://upload.wikimedia.org/wikipedia/commons/6/65/No-Image-Placeholder.svg"
         },
-          {
+        {
             "name": "Boeing 737 MAX 8 (silkair) by androwaydude",
             "livery": "https://raw.githubusercontent.com/coolpilot11/stuff/main/704.jpg",
             "mptx": "https://raw.githubusercontent.com/coolpilot11/stuff/main/704.jpg "
@@ -609,7 +609,7 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(Fly%20Dubai)_thumbnail.png"
         },
-          {
+        {
             "name": "Boeing 737-800 (Fly Dubai)[scimitars]",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2008.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2008.jpg",
@@ -1653,20 +1653,19 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t606.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-800%20(LOT%20Polish%20new%20gen)%20by%20Luca_thumbnail.png"
         },
-         {
+        {
             "name": "Boeing 737-800 (Silk Air) by androwaydude",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/705.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/705.jpg"
         },
-         {
+        {
             "name": "Boeing 737-800 (Sunwing) by Qubec Aviation",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_358qb.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_358qb.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_358qb.jpg"
         },
-
- {
+        {
             "name": "Boeing 737-800 (Garuda pokemon) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_369ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_369ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/blob/main/texture_369ad.jpg"
         },
         {
@@ -2397,10 +2396,10 @@
             "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Continental)%20by%20Luca_thumbnail.png"
         },
-          {
+        {
             "name": "Boeing 737-200 (Condor) by Myklischa",
-            "livery": ""https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_3.png",
-            "mptx": ""https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_3.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_3.png",
+            "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_3.png",
             "pbrComposite": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/composite.png",
             "normalMap": "https://www.geo-fs.com/backend/aircraft/repository/737-200_450602_4140/Material_004_Normal_UDIM.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20737-200%20(Continental)%20by%20Luca_thumbnail.png"
@@ -2423,1108 +2422,1094 @@
             "mptx": "https://www.geo-fs.com/backend/aircraft/repository/Boeing p8I Neptune_427352_3292/texture_193.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20P8%20Poseidon%20(Norwegian%20Airforce)%20by%20Air%20george_thumbnail.png"
         },
-           {
+        {
             "name": "Airbus a320-214 (Air India)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2012.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2012.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2012.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Indigo)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2017.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2017.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2017.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Sri Lankan)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2011.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2011.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2011.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Mihin Lanka)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2015.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2015.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2015.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Gulf Air)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2013.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2013.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2013.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Plain)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2014.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2014.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2014.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air Asia)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2010.3.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2010.3.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2010.3.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air Asia Kabali)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2016.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2016.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2016.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Aeroflot)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2018.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2018.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2018.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Easyjet)",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2019.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2019.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2019.jpg"
         },
         {
             "name": "Airbus a320-214 (US Airways) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg"
         },
-
-
-
-   {
+        {
             "name": "Airbus a320-214 (Air Asia Indonesia) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_720.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_720.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_720.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Germanwings) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_724ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_724ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_724ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (TAP retro) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_725ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_725ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_725ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Saudia) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_726ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_726ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_726ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Latam) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_727ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_727ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_727ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Spirit new) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_728ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_728ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_728ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Spirit old) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_729ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_729ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_729ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (American) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_730ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_730ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_730ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Zagrosjet) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_732ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_732ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_732ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (PIA) by Androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_712ad.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Air France) by VR Pozz",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_721vrp.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_721vrp.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_721vrp.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air France Old) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20France%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20France%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20France%20Old%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (AirOne) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirOne%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirOne%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/AirOne%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Alitalia) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Alitalia%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Airbus House) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Airbus House Old) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20Old%20A320-200.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20Old%20A320-200.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Airbus%20House%20Old%20A320-200.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Ansett Australia) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ansett%20Australia%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ansett%20Australia%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ansett%20Australia%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Bingo Airways) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bingo%20Airways%20A320-200.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bingo%20Airways%20A320-200.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Bingo%20Airways%20A320-200.png"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (Air Canada) by Nightheart",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_722nh.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_722nh.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_722nh.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air Canada Jetz) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Jetz%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Jetz%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Jetz%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air Canada Old) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Old%20A320.png"
         },
-   {
+        {
             "name": "Airbus a320-214 (Azerbaijan) by Luca",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aerbaijan%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aerbaijan%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Aerbaijan%20A320.png"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (TAP) by chengyouwordle",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_723chengyouwordle.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_723chengyouwordle.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_723chengyouwordle.jpg"
         },
-
-   {
+        {
             "name": "Airbus a320-214 (British Airways) by VR Pozz",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_731vp.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_731vp.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_731vp.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Air Arabia) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2009.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2009.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_2009.jpg"
         },
-  {
+        {
             "name": "Airbus a320-214 (Avianca) by Nichy",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_714nichy.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_714nichy.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_714nichy.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Silk Air) by androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_715ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_715ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_715ad.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Red Air) by VR Pozz",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_734vp.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_734vp.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_734vp.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Volotea white) by VR Pozz",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_735vp.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_735vp.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_735vp.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Canadian) by Business duck",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_736busdck.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_736busdck.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_736busdck.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Iran air) by Chengyouwordle",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_737cg.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_737cg.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_737cg.jpg"
         },
-   {
+        {
             "name": "Airbus a320-214 (Citilink) by androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_738ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_738ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_737ad.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Batik Air) by androway",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_739ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_739ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_739ad.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (White) by chengyouwordle",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_740cg.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_740cg.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_740cg.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (humoair) by nichy",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_741ni.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_741ni.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_741ni.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Global X) by nichy",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_742ni.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_742ni.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_742ni.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (sky service) by business duck",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_743busdck.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_743busdck.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_743busdck.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Vistara) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_744.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_744.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_744.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Nepal Airlines) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_745.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_745.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_745.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Kuwait airways) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_746.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_746.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_746.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Egypt air) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_747.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_747.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_747.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Qatar) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_748.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_748.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_748.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Scoot) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_749.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_749.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_749.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Aegean) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_750.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_750.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_750.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (SAS) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Jetblue) by Nichy",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751ni.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751ni.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_751ni.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (Avianca express) by Nichy",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_752ni.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_752ni.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_752ni.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (VIVA) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_754.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_754.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_753.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Air Seychelles) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_755.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_755.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_755.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (WIZZ) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_756.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_756.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_756.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Azul) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_757.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_757.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_757.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (A320P2F) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320P2F.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320P2F.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/A320P2F.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Air Canada Rouge) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Rouge%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Rouge%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20Rouge%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Air Canada Blank) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20White%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20White%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Air%20Canada%20White%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Armavia) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Armavia%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Armavia%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Armavia%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Bank of America) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Banc%20of%20America%20Leasing%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Banc%20of%20America%20Leasing%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Banc%20of%20America%20Leasing%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Braniff) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Braniff Purple) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20Purple%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20Purple%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20Purple%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Braniff House) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20House%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20House%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Braniff%20House%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (British Airways old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/British%20Airways%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/British%20Airways%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/British%20Airways%20Old%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Cathay Dragon) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Cathay%20Dragon%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Cathay%20Dragon%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Cathay%20Dragon%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (China Eastern) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (China Eastern Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Eastern%20Old%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (China Express) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Express%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Express%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Express%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (China Southern) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Southern%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Southern%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/China%20Southern%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Dragonair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Dragonair%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Dragonair%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Dragonair%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Discover Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Discover%20Airlines%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Discover%20Airlines%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Discover%20Airlines%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Easyjet White) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20Blank%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20Blank%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Easyjet%20Blank%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Electra Airways) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Electra%20Airways%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Electra%20Airways%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Electra%20Airways%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Finnair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Finnair%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Flyarna) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyArna%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyArna%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyArna%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Flylili) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyLiLi%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyLiLi%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/FlyLiLi%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Blue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Blue%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Blue%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Blue%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Brown) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Brown%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Brown%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Brown%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Cyan) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Cyan%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Cyan%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Cyan%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Europe Red) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Red%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Red%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Red%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Europe Tan) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Tan%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Tan%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Tan%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Europe Green) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Green%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Green%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Europe%20Green%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Green) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Green%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Green%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Green%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Gray) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Gray%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Gray%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Gray%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Red) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Red%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Red%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Red%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Orange) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Orange%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Orange%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Orange%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Yellow) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Yellow%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Yellow%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Yellow%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Getjet) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Getjet%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Getjet%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Getjet%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (ITA Airways) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20Airways%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20Airways%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ITA%20Airways%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Itapemirim) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Itapemirim%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Itapemirim%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Itapemirim%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (Jetstar Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Old%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (Jetstar) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (Jetstar Low Fares) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Low%20Fares%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Low%20Fares%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Jetstar%20Low%20Fares%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (Kingfisher) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kingfisher%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kingfisher%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Kingfisher%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (LEAV) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LEAV%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LEAV%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LEAV%20A320.png"
         },
-{
+        {
             "name": "Airbus a320-214 (Indian Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Indian%20Airlines%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Indian%20Airlines%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Indian%20Airlines%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Iberia Old Livery) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Iberia%20Old%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (LTE) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTE%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTE%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTE%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (LTU) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20Airbus%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20Airbus%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20Airbus%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (LTU New) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20New%20Airbus%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20New%20Airbus%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/LTU%20New%20Airbus%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Lufthansa Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Old%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Old%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Old%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Lufthansa Technik) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Lab%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Lab%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Lufthansa%20Lab%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Northwest Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Northwest%20Airlines%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Northwest%20Airlines%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Northwest%20Airlines%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Pacific Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pacific%20Airlines%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pacific%20Airlines%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pacific%20Airlines%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Pradhaan air Express) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pradhaan%20Air%20Express%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pradhaan%20Air%20Express%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Pradhaan%20Air%20Express%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Ryanair Spirit of Dublin) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Spirit%20of%20Dublin%20A320-200.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Spirit%20of%20Dublin%20A320-200.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ryanair%20Spirit%20of%20Dublin%20A320-200.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Sky Vision Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sky%20Vision%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sky%20Vision%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Sky%20Vision%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Smartlynx Estonia) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Smartlynx%20Estonia%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Smartlynx%20Estonia%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Smartlynx%20Estonia%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Swiss) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Swissair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swissair%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swissair%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swissair%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (TACA) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TACA%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TACA%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TACA%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (TAM) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TAM%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/TAM%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/TAM%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Trade Air White) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20White%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20White%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20White%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Trade Air) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Trade%20Air%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Ural Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ural%20Airlines%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ural%20Airlines%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ural%20Airlines%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Lilac) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Lilac%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Lilac%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Lilac%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Freebird Purple) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Purple%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Purple%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Freebird%20Purple%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (TED) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ted%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ted%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Ted%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United Battleship gray) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Battleship%20gray%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Battleship%20gray%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Battleship%20gray%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United Blue Tulip) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Blue%20Tulip%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Blue%20Tulip%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Blue%20Tulip%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United Evo blue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Evo%20Blue%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Evo%20Blue%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Evo%20Blue%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United A320 Friendship) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Friendship%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Friendship%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Friendship%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Gray%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Gray%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%20Gray%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (United 1001st A320) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%201001st%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%201001st%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/United%201001st%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Virgin Atlantic) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Virgin Atlantic Little Red) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20Little%20Red%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20Little%20Red%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20Atlantic%20Little%20Red%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Virgin America) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20America%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20America%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Virgin%20America%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Westair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westair%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westair%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Westair%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (White Airways) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320%20V2.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320%20V2.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320%20V2.png"
         },
- {
+        {
             "name": "Airbus a320-214 (White Airways Gray Tail) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/White%20Airways%20A320.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Swiss Red Nose) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20Rudolph%20A320.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20Rudolph%20A320.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/Swiss%20Rudolph%20A320.png"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Air Astana) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_758.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_758.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_758.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Air New Zealand) by Qubec Aviation ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_356.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_356.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/blob/main/texture_356.png"
         },
- {
+        {
             "name": "Airbus a320-214 (Air New Zealand All Blacks) by Qubec Aviation ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_357qb.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_357qb.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/blob/main/texture_357qb.jpg"
         },
-
- {
+        {
             "name": "Airbus a320-214 (Azul Mickey mouse) by Qubec Aviation ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_361qb.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_361qb.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/blob/main/texture_361qb.jpg"
         },
- {
+        {
             "name": "Airbus a320-214 (JetBlue honour our vets) by Nightheart ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_362qb.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_362qb.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_362qb.jpg"
         },
-         {
+        {
             "name": "Airbus a321-211 (LEVEL) ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_2022.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_2022.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_2022.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (Air Canada Rouge) by Qubec Aviation ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_357.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_357.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_357.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (Iberia) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_366ad.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_366ad.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_366ad.png"
         },
- {
+        {
             "name": "Airbus a321-211 (Iberia Express) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_367ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_367ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_367ad.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (Royal Jordanian Cargo) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_368ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_368ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_368ad.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (China Eastern) by ZM ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_370zm.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_370zm.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_370zm.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (US Airways) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_371ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_371ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_371ad.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (American) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_372ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_372ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_372ad.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (Asiana) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_373ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_373ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_373ad.jpg"
         },
-
- {
+        {
             "name": "Airbus a321-211 (American-US airways) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_374ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_374ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_374ad.jpg"
         },
- {
+        {
             "name": "Airbus a321-211 (TAP) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_375ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_375ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_375ad.jpg"
         },
-         {
+        {
             "name": "Airbus a321-211 (Aer Lingus) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Aer Lingus A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Aer Lingus A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Aer Lingus A321.png"
         },
- {
+        {
             "name": "Airbus a321-211 (Air China B-6361) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air China B-6361 A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air China B-6361 A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air China B-6361 A321.png"
         },
-
- {
+        {
             "name": "Airbus a321-211 ( Air France  Blank Tail) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France A321 Blank Tail.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France A321 Blank Tail.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France A321 Blank Tail.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 (Air France New Skyteam) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321 Skyteam.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321 Skyteam.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321 Skyteam.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 ( Air France New ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New A321.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 (Air France New Small Skyteam) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New Small A321 Skyteam.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New Small A321 Skyteam.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France New Small A321 Skyteam.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 (Air France old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France Old A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France Old A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air France Old A321.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 ( Air Inter Airbus Industrie) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211 Airbus Industrie.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211 Airbus Industrie.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211 Airbus Industrie.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 ( Air Inter) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Inter A321-211.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 (Air Macau) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Macau A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Macau A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Macau A321-211.png"
         },
- {
+        {
             "name": "Airbus a321-211 ( Air Seoul ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Seoul A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Seoul A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Air Seoul A321.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 (Airblue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Airblue A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Airblue A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Airblue A321.png"
-        }, {
+        },
+        {
             "name": "Airbus a321-211 ( Alitalia) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Alitalia A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Alitalia A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Alitalia A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Austrian Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Austrian Airlines A321-200.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Austrian Airlines A321-200.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Austrian Airlines A321-200.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (British Airways Euroflyer) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211 Euroflyer.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211 Euroflyer.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211 Euroflyer.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (BWIA) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/British Airways A321-211.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (China Eastern Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Eastern Old A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Eastern Old A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Eastern Old A321.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (China Northern) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Northern A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Northern A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Northern A321-211.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (China Southern) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Southern A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Southern A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/China Southern A321.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (Condor Blue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Blue A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Blue A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Blue A321-211.png"
         },
-
-{
+        {
             "name": "Airbus a321-211 (Condor red) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Red A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Red A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Red A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Condor Blue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Yellow A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Yellow A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Yellow A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Condor Blue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Green A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Green A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Condor Green A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Czech Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Czech Airlines A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Czech Airlines A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Czech Airlines A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Delta) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Delta A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Delta A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Delta A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Egyptair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Egyptair old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair old A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair old A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Egyptair old A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Etihad) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Etihad A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Etihad A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Etihad A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( EVA AIR) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/EVA AIR A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/EVA AIR A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/EVA AIR A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Eva Air Old ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Eva Air Old A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Eva Air Old A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Eva Air Old A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Fly2Sky) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 FSC.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 FSC.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 FSC.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Fly2Sky  MDF) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDF.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDF.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDF.png"
         },
-{
+        {
             "name": "Airbus a321-211 (  Fly2Sky  MDL) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDL.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDL.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Fly2Sky A321-211 MDL.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Germania ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (HK express ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/HK express A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/HK express A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/HK express A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Hong Kong Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Hong Kong Airlines A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Hong Kong Airlines A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Hong Kong Airlines A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Indigo Cargo A321P2F) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Indigo Cargo A321P2F.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Indigo Cargo A321P2F.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Indigo Cargo A321P2F.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Jetblue) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Jetblue A321-211 New.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Jetblue A321-211 New.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Jetblue A321-211 New.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Lanmei Airlines) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa Cargo A321P2F.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa Cargo A321P2F.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa Cargo A321P2F.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Lufthansa New A321-100) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-100.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-100.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-100.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Lufthansa New A321-200) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-200.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-200.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Lufthansa New A321-200.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Luftwaffe ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Luftwaffe A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Luftwaffe A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Luftwaffe A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (MEA ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/MEA A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/MEA A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/MEA A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Metrojet) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Metrojet A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Metrojet A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Metrojet A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Onur Air Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Onur Air Old A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Onur Air Old A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Onur Air Old A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 ( Philippine Airlines ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Philippine Airlines A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Philippine Airlines A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Philippine Airlines A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 ( Qantasfreight A321P2F ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qantasfreight A321P2F.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qantasfreight A321P2F.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qantasfreight A321P2F.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 ( Qatar Airways Small Onyx) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211 Small Onyx.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211 Small Onyx.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211 Small Onyx.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Qatar Airways) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Qatar Airways A321-211.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Sabena Qualiflyer Group V2) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Sabena A321 Qualiflyer Group V2.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Sabena A321 Qualiflyer Group V2.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Sabena A321 Qualiflyer Group V2.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 ( Sabena Qualiflyer Group.png) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Swissair  Qualiflyer Group V2) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group V2.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group V2.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group V2.png"
-        },{
+        },
+        {
             "name": "Airbus a321-211 (Swissair  Qualiflyer) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321 Qualiflyer Group.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Swissair) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Swissair A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Uni Air) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Uni Air old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air old A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air old A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Uni Air old A321-211.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Ural Airlines ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Ural Airlines A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Ural Airlines A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Ural Airlines A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Germania ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Germania A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (US Airways Old) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/US Airways Old A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/US Airways Old A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/US Airways Old A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Vietravel Airlines A321 Novaworld) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321 Novaworld.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321 Novaworld.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321 Novaworld.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Vietravel Airlines A321.png ) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Vietravel Airlines A321.png"
         },
-{
+        {
             "name": "Airbus a321-211 (Yamato Transport A321P2F) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Yamato Transport A321P2F.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Yamato Transport A321P2F.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Yamato Transport A321P2F.png"
         },
-{
+        {
             "name": "Airbus a321-211 ( Zagrosjet) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Zagrosjet A321-211.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Zagrosjet A321-211.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/Zagrosjet A321-211.png"
         },
         {
             "name": "Airbus a321-211 ( Vietnam Airlines) by VN-A141 ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_2.png",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_2.png",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/txt_2.png"
         },
         {
@@ -4571,7 +4556,7 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/jsm2.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a320neo%20(Jetsmart-penguin)%20by%20Kevinsiro24_thumbnail.png"
         },
-          {
+        {
             "name": "Airbus a320neo (Silk Air) by androwaydude",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/706.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/706.jpg"
@@ -5242,9 +5227,9 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/ltm.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Airbus%20a321neo%20(Latam)%20by%20Kevinsiro24_thumbnail.png"
         },
-         {
+        {
             "name": "Airbus a321neo (China Airlines Pokemon) by Luca ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_376lu.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_376lu.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_376lu.jpg"
         },
         {
@@ -5529,12 +5514,12 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_521.jpg",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Emraer%20E145%20(Contour)%20by%20Coolpilot_thumbnail.png"
         },
-            {
+        {
             "name": "learjet 45 (Plain) ",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_991.2.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_991.2.jpg"
         },
-           {
+        {
             "name": "learjet 45 (livery #2) ",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_994.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_994.jpg"
@@ -5544,24 +5529,24 @@
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/707.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/707.jpg"
         },
-           {
+        {
             "name": "learjet 45 (Air Affairs Australia #2) by Natu",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/709.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/709.jpg"
         },
-         {
+        {
             "name": "learjet 45 (Raytheon Australia) by Natu",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/708.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/708.jpg"
         },
-            {
+        {
             "name": "learjet 45 (Gamma aviation) by Nightheart",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_713.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/texture_713.jpg"
         },
         {
             "name": "Bombardier Learjet 45 (Qubec Govt) by Qubec Aviation",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_360qb.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_360qb.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_360qb.jpg"
         },
         {
@@ -6680,12 +6665,12 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20787-10%20(Air%20Canada)%20by%20Luca_thumbnail.png"
         },
-         {
+        {
             "name": "Boeing 787-10 (Vietnam airlines) by VN-A890",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/700.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/700.jpg"
         },
-            {
+        {
             "name": "Boeing 787-10 (Etihad Greenliner) by Androway",
             "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_381ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_381ad.jpg"
@@ -7158,27 +7143,25 @@
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/t624.png",
             "thumb": "https://raw.githubusercontent.com/Spice9/Geofs-Multiliveries/main/dependencies/thumbnails/Boeing%20787-9%20(Emirates%20New)%20by%20Luca_thumbnail.png"
         },
-            {
+        {
             "name": "Boeing 787-9 (ANA) by VR Pozz YT",
             "livery": "https://raw.githubusercontent.com/Spice9/stuff2/main/703.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/stuff2/main/703.jpg"
         },
-         {
+        {
             "name": "Boeing 787-9 (Etihad) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_364ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_364ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_364ad.jpg"
         },
- {
+        {
             "name": "Boeing 787-9 (Etihad Manchester United) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_365ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_365ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_365ad.jpg"
         },
- {
+        {
             "name": "Boeing 787-9 (Azerbaijan) by Androway ",
-                "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_363ad.jpg",
+            "livery": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_363ad.jpg",
             "mptx": "https://raw.githubusercontent.com/Spice9/Liveries-upload/main/texture_363ad.jpg"
         }
-
-        
     ]
 }
